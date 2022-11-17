@@ -4,23 +4,27 @@ import idata from "./questions2.json";
 import "bootstrap/dist/css/bootstrap.min.css";
 import QCard from "./QCard";
 export default function App() {
-  const qs = data[0].sort(function () {
-    return 0.5 - Math.random();
-  });
-  const qs2 = idata[0].sort(function () {
-    return 0.5 - Math.random();
-  });
+  const qs = data[0]; //.sort(function () {return 0.5 - Math.random();});
+  const qs2 = idata.flat(); //.sort(function () {  return 0.5 - Math.random();});
   const [activeQbank, setActiveQbank] = React.useState();
 
   let qbank;
-  if (activeQbank === "qs") qbank = qs;
-  if (activeQbank === "qs2") qbank = qs2;
+  const clickHadler = (type) => {
+    if (type === "qs") {
+      setActiveQbank("qs");
+      qbank = qs;
+    }
+    if (type === "qs2") {
+      setActiveQbank("qs2");
+      qbank = qs2;
+    }
+  };
   return (
     <div className="container ">
       <nav className="nav nav-pills flex-row justify-content-evenly">
         <a
           title="ssa"
-          onClick={() => setActiveQbank("qs")}
+          onClick={() => clickHadler("qs")}
           className={`nav-link  my-3 ps-5 pe-5 ${
             activeQbank === "qs" ? "active" : ""
           }`}
@@ -30,7 +34,7 @@ export default function App() {
         </a>
         <a
           title="iqms"
-          onClick={() => setActiveQbank("qs2")}
+          onClick={() => clickHadler("qs2")}
           className={`nav-link my-3 ps-5 pe-5 ${
             activeQbank === "qs2" ? "active" : ""
           }`}
@@ -42,8 +46,25 @@ export default function App() {
       <div className="row">
         <div className="col-md-12">
           <div className="d-md-flex justify-content-between">
-            {qbank &&
+            {activeQbank === "qs" &&
               qs.map((q) => {
+                return (
+                  <>
+                    2 {activeQbank}
+                    <QCard
+                      className="align-self-center"
+                      key={q.id + Math.random()}
+                      id={q.id}
+                      question={q.question}
+                      correct={q.correct}
+                      choices={q.choices}
+                      qtype={q.Qtype}
+                    />
+                  </>
+                );
+              })}
+            {activeQbank === "qs2" &&
+              qs2.map((q) => {
                 return (
                   <>
                     <QCard
@@ -53,6 +74,7 @@ export default function App() {
                       question={q.question}
                       correct={q.correct}
                       choices={q.choices}
+                      qtype={q.Qtype}
                     />
                   </>
                 );

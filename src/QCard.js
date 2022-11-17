@@ -4,7 +4,7 @@ import "./style.css";
 export default function QCard(props) {
   const question = props.question;
   const choices = props.choices;
-  const correct = props.correct - 1;
+  const correct = props.correct;
 
   return (
     <div className="card m-2 border border-0">
@@ -15,7 +15,9 @@ export default function QCard(props) {
             return (
               <div
                 className={`p-2 align-self-center rounded-2 small ${
-                  index === correct ? " bg-success bg-opacity-25 " : "bg-light"
+                  correct.includes(index + 1)
+                    ? " bg-success bg-opacity-25 "
+                    : "bg-light"
                 }`}
               >
                 {index + 1}. {ch}
