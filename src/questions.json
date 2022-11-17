@@ -1,0 +1,4284 @@
+[
+  [
+    {
+      "id": "1",
+      "question": "An open source project forum software run by a small team was hacked using a flaw in its software. The attackers managed to wipe out the internal source code repository containing the next version, and all of the forum contents. The attackers could not be traced back because of",
+      "choices": [
+        "Broken Access Control",
+        "Insufficient Logging & Monitoring",
+        "Broken Authentication"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "2",
+      "question": "Error handling reveal stack traces or other overly informative error messages to users. This will be categorized under Security Misconfiguration ?",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "3",
+      "question": "If a non-admin can access the admin page, this is due to issue in _________",
+      "choices": ["Authorization", "Access Control", "Input Validation"],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "4",
+      "question": "The acronym of CVSS in threat modeling is known as?",
+      "choices": [
+        "Common Vulnerability Scoring System",
+        "Common Vulnerability Secure System",
+        "Current Vulnerability Scoring System",
+        "Current Vulnerability Secure System"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "5",
+      "question": "The application is receiving input from an external source. Which of the following external sources can be considered safe?",
+      "choices": [
+        "Shell environment variables",
+        "Data received via encrypted network channels",
+        "argv[0] can only have either null or program name",
+        "No external input must be trusted"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "6",
+      "question": "\"Since an application is for deployment on cloud, thus security will entirely be service provider's responsibility and not ours\". This assumption is :",
+      "choices": [
+        "Absolutely Correct",
+        "Absolutely Incorrect",
+        "Partially Correct",
+        "Possibly Correct"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "7",
+      "question": "___________ is any freely given specific and informed indication of his/her wishes, by which the data subject signifies his/her agreement to personal data, relating to him/her being processed",
+      "choices": ["Notice", "Order", "Consent", "Privacy policy"],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "8",
+      "question": "A flaw or weakness that could be exploited to violate the system's security policy",
+      "choices": ["Vulnerability", "Threat", "Risk", "Impact"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "9",
+      "question": "A hash function is by definition:",
+      "choices": [
+        "A complex function",
+        "A PKI function",
+        "A systematic function",
+        "A one-way function"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "10",
+      "question": "A Perfect hash function would only have one possible input to get a certain output. When two different inputs give the same output, it is known as:",
+      "choices": [
+        "Cryptographic Hash",
+        "One way function",
+        "Hash collision",
+        "Data Integrity",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "11",
+      "question": "A race condition in a web server can cause which of the following:",
+      "choices": [
+        "Resources to become unavailable to legitimate users",
+        "Cross Site Tracing",
+        "Server Instability",
+        "All of the above",
+        "Both options 1 and 3"
+      ],
+      "Qtype": "SC",
+      "correct": "5",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "12",
+      "question": "A threat model is a structured representation of all the information that affects the security of any given application. State True or False.",
+      "choices": ["True", "False", "Not Relevant", "Need not be true or false"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "13",
+      "question": "A well-planned error/exception handling strategy is important for which of the following reasons?",
+      "choices": [
+        "Good error handling does not give an attacker any information, which may help him to attack the application",
+        "A proper centralized error strategy is easier to maintain and reduces the chance of any uncaught errors \u201cbubbling up\u201d to the front end of an application",
+        "Information leakage can lead to social engineering exploits",
+        "All the above",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "14",
+      "question": "Access control is implemented at the presentation layer only and a server-side authorization check is missing. What is the application vulnerable to?",
+      "choices": ["Broken Access Control", "Session Hijacking"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "15",
+      "question": "According to DREAD threat classification model, what is damage potential?",
+      "choices": [
+        "Defines the number of valid users affected due to the attack.",
+        "Defines how easy it is to launch attack and what skill level and resources are required for attack.",
+        "Defines how easy it is to execute and repeat the attack.",
+        "Defines the extent of potential damage, if vulnerability is exploited"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "16",
+      "question": "Allowing the primary key to be changed to another user's record, permitting viewing or editing of someone else's account - is called?",
+      "choices": [
+        "Privilege Escalation",
+        "Cross Site Request Forgery",
+        "Denial of access"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "17",
+      "question": "An antipattern is programming practice that you should avoid.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "18",
+      "question": "An attacker attempts a denial-of-service attack by including a potentially endless file. This can happen due to?",
+      "choices": [
+        "Reflected XSS",
+        "Broken Access Control",
+        "XML External Entities (XXE)",
+        "DOM XSS"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "19",
+      "question": "Apart from typical SSO between \"browser based web applications\", where all SSO can be used or is desired/relevant?",
+      "choices": [
+        "SSO between native mobile applications",
+        "SSO between multiple backend business services which do not have any presentation layer as such. E.g. A web page calls service A on a server, which in turn calls service B on a different server in same data center to perform a task. Service A has to provide the client/user's identity to service B (remember \"no password\") via SSO.",
+        "SSO between desktop (domain authentication) and other applications/systems accessible via web browsers from that desktop. E.g. \"Integrated Windows Authentication\" where a user once logged in to her desktop can seamlessly access designated web apps from IE without need to provide credentials again.",
+        "All of the above",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "20",
+      "question": "Argon2, scrypt, bcrypt, or PBKDF2- What are these used for?",
+      "choices": ["Data Storage", "Password Hashing"],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "21",
+      "question": "As a secure coding practice in parameterized SQL statements using Java Database Connectivity (JDBC), which of the following statements should be used?",
+      "choices": [
+        "java.sql.PreparedStatement",
+        "java.sql.CallableStatement",
+        "java.sql.Statement",
+        "java.sql.PreparedStatement or java.sql.CallableStatement",
+        "None of the above."
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "22",
+      "question": "As per PCI DSS standards, which of the following Card Holder Data should not be stored (even if encrypted)?",
+      "choices": [
+        "Cardholder Name",
+        "Expiration Date",
+        "CAV2/CVC2/CVV2/CID",
+        "PIN/PIN Block",
+        "All of the above",
+        "Option 3 & 4"
+      ],
+      "Qtype": "SC",
+      "correct": "6",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "23",
+      "question": "Asymmetric Key Encryption/Decryption requires?",
+      "choices": ["One Key", "Two Keys", "Three Keys", "No Keys"],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "24",
+      "question": "Below code is example for which attack? http://application/jsp/HomePage.jsp?sessionId=12345&user=<script>alert(document.cookie)</script>",
+      "choices": [
+        "Cross Site Request Forgery",
+        "Cross Site Scripting",
+        "SQL Injection",
+        "Cookie Hijacking."
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "25",
+      "question": "Below remedies are to prevent which vulnerability? 1. Eliminate Direct Object references 2. Ensure File Metadata and backups are not present in webroot 3. Minimize CORS usage",
+      "choices": ["SQL Injection", "Broken Access Control"],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "26",
+      "question": "Benefits of secure code review?",
+      "choices": [
+        "Security defects are identified early",
+        "Reliable code base",
+        "Technical architecture/library related issues can be resolved early",
+        "All of these"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "27",
+      "question": "Billion Laugh Attack caused by XML External Entity can disrupt which service?",
+      "choices": [
+        "Availability",
+        "Confidentiality",
+        "Integrity",
+        "All of these"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "28",
+      "question": "Block Cipher is example of",
+      "choices": [
+        "Symmetric Key Cryptography",
+        "Asymmetric Key Cryptography",
+        "Hashing Function"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "29",
+      "question": "Both Digital Signature & Message Authentication Code (MAC) provides Authentication.",
+      "choices": [
+        "True",
+        "False",
+        "Depends on Message Length",
+        "Depends on Key Length"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "30",
+      "question": "Both Digital Signature & Message Authentication Code (MAC) provides Non Repudiation.",
+      "choices": [
+        "True",
+        "False",
+        "Depends on Message Length",
+        "Depends on Key Length"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "31",
+      "question": "Buffer Overflow threat can be identified using threat modeling. State True or False.",
+      "choices": ["True", "False", "Not Relevant", "Depends on application"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "32",
+      "question": "Can a SOAP based or restful web service participate in or have SSO with other applications/services?",
+      "choices": ["Yes", "No", "Not sure", "None of the above."],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "33",
+      "question": "Can Digital signatures be copied from one document to another?",
+      "choices": [
+        "Yes",
+        "No",
+        "sometimes",
+        "only if both documents are of same types"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "34",
+      "question": "CAPTCHA is used as remediation for which of the following attacks?",
+      "choices": [
+        "CSS",
+        "Cross Site Request Forgery",
+        "Brute Force Attack",
+        "Direct object reference."
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "35",
+      "question": "CAPTCHA stands for which of the following:",
+      "choices": [
+        "Computers Automated Public Turing test to tell Correctly and Humans Apart",
+        "Completely Automated Public Turing test to tell Computers and Humans Apart",
+        "Computers Automated Public Turing test to tell Completely and Humans Apart",
+        "Completely Automated Public Turing test to tell Common and Humans Apart"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "36",
+      "question": "Confidentiality deals with agreement while privacy deals with sensitivity.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "37",
+      "question": "Consent to the collection, use or disclosure of personal information should not be a condition for supplying a product or a service, unless the information requested is required to fulfill an explicitly specified and legitimate purpose. State True or False .",
+      "choices": ["True", "False", "Maybe", "None"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "38",
+      "question": "Cyclomatic complexity =",
+      "choices": [
+        "Number of decisions",
+        "Number of decisions + 2",
+        "Number of decisions + 1",
+        "Number of decisions + 3"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "39",
+      "question": "Cyclomatic complexity increases by",
+      "choices": [
+        "increase in decision count",
+        "increase in lines of code",
+        "increase in functions",
+        "None of these"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "40",
+      "question": "Default exceptions should not be shown to the user.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "41",
+      "question": "Defect density is-",
+      "choices": [
+        "Total no of line of code",
+        "The average occurrence of programming faults per Lines of Code",
+        "Risks per line of code",
+        "None of these"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "42",
+      "question": "Defining Role Matrix \"Role > Functionality > Data\" is a part of which phase of SSA?",
+      "choices": [
+        "Software Requirement Analysis",
+        "Architecture/Design Security Analysis & Review",
+        "Secure Code Construction",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "43",
+      "question": "Defining the context helps in understanding-",
+      "choices": [
+        "The importance of application",
+        "The boundaries of application context",
+        "Trust relationship between entities",
+        "Potential threats and possible controls",
+        "All of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "5",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "44",
+      "question": "Denial of service is a threat on which data property?",
+      "choices": [
+        "Integrity",
+        "Availability",
+        "Confidentiality",
+        "Non-repudiation"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "45",
+      "question": "DES & 3DES are?",
+      "choices": [
+        "Asymmetric Cipher",
+        "Hashing Algorithm",
+        "Symmetric Cipher",
+        "All of the above",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "46",
+      "question": "DES is stronger than AES for same key size.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "47",
+      "question": "Development, QA, and production environments should all be configured identically, with ___________ credentials used in each environment.",
+      "choices": ["Similar", "Different"],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "48",
+      "question": "Diffie-Hellman algorithm is used for?",
+      "choices": [
+        "Symmetric Encryption",
+        "Asymmetric Encryption",
+        "Key Exchange",
+        "All of the above",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "49",
+      "question": "Digital signature of a person varies from document to document. State True or False.",
+      "choices": [
+        "True",
+        "False",
+        "Sometimes",
+        "Only for same type of documents"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "50",
+      "question": "Digital signature uses ______ key for signing & ______ key for verification.",
+      "choices": [
+        "Receiver's Private Key, Receiver's Public Key",
+        "Sender's Private Key, Sender's Public Key",
+        "Sender's Private Key, Receiver's Public Key",
+        "Sender's Public Key, Receiver's Private Key"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "51",
+      "question": "Digital signatures are equivalent to traditional handwritten ________ in many respects; properly implemented digital signatures are more difficult to forge than the handwritten type.",
+      "choices": ["Signature", "Autograph", "Password", "Authentication"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "52",
+      "question": "Don\u2019t store sensitive data unnecessarily.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "53",
+      "question": "DREAD model is used for?",
+      "choices": [
+        "Identifying Threats",
+        "Rating Architecture complexity",
+        "Identifying mitigation",
+        "Rating Threats"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "54",
+      "question": "ECC (Elliptic-Curve Cryptography) is used in?",
+      "choices": [
+        "Symmetric Encryption",
+        "Asymmetric Encryption",
+        "Hashing Function",
+        "All of the above",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "55",
+      "question": "Entities involved in Federated SSO can use any of SAML & OpenID.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "56",
+      "question": "Exception Handling refers to:",
+      "choices": [
+        "Identifying all possible erroneous inputs and managing how the application responds to them",
+        "During application execution, if some special conditions are met, then a specific subroutine 'exception handler' is called.",
+        "Commercial runtime environments have tools that record debugging information from memory at the time of exception to provide 'root-cause' analysis information later.",
+        "All of the above",
+        "None of the Above"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "57",
+      "question": "Files temporarily created by applications can expose confidential data if:",
+      "choices": [
+        "Special characters are not used in the filename to keep the file hidden",
+        "The existence of the file exceeds three seconds",
+        "File permissions are not set appropriately",
+        "Special characters indicating this is a system file are not used in the filename",
+        "None of the Above"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "58",
+      "question": "Financial data protection falls under which of the privacy Law?",
+      "choices": ["GDPR", "PCI DSS", "CCPA", "HIPPA"],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "59",
+      "question": "From application security perspective, when do we need to use CAPTCHA in a web application?",
+      "choices": [
+        "To prevent scripted attacks",
+        "To provide biometric authentication",
+        "To check the color blindness of user",
+        "To check validity of user session",
+        "All of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "60",
+      "question": "From the following code identify the possible attack: Line 1.String username = request.getParameter(\"username\"); Line 2.String password = request.getParameter(\"password\"); Line 3.conn = pool.getConnection(); String sql = \"select * from user where Line 4 username='\" + username +\"' and password='\" + password + \"'\"; Line 5.stmt = conn.createStatement(); Line 6.rs = stmt.executeQuery(sql); Line 7.if (rs.next()) { out.println(\"Logged in Successfully\"); } else Line 8.{ out.println(\"Invalid Username or Password\"); }",
+      "choices": [
+        "SQL Injection",
+        "Cross Site Scripting",
+        "Password Tampering",
+        "Denial of Service"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "61",
+      "question": "From the following, which is not a common file permission?",
+      "choices": ["Read", "Stop", "Write", "Execute"],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "62",
+      "question": "Hashing requires",
+      "choices": ["One Key", "Two Keys", "Three Keys", "No Keys"],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "63",
+      "question": "How are \"SSO\" and \"Identity Management\" (IDM) related to each other?",
+      "choices": [
+        "They are not related at all.",
+        "Typically, SSO is a subset of IDM.",
+        "As part of SSO, \"identity/identifier\" of a user/entity has to be securely propagated to multiple other applications/systems/entities. Typically, IDM system manages this \"identity/identifier\".",
+        "B & C",
+        "None of the above.",
+        "All of the Above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "64",
+      "question": "How can a confidential message be securely distributed?",
+      "choices": [
+        "Encrypting the message with the receiver's public key",
+        "Encrypting a hash of the message",
+        "Authenticating the message by a certificate authority",
+        "Using a password-protected file format"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "65",
+      "question": "How can an attacker use the information gained by an SQL debug message from an application to cause harm to it?",
+      "choices": [
+        "Steal sensitive information from other users",
+        "Run scripts on other users' browsers",
+        "Alter the communication protocol used by the site",
+        "Can potentially understand the query's structure and then script attack vectors"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "66",
+      "question": "How can cookies be a cause of concern with respect to privacy breaches?",
+      "choices": [
+        "They may be used for user-tracking by storing special usage history data in cookie",
+        "Third-party cookies are dangerous because they take the same information that regular cookies do, such as browsing habits and frequently visited websites, but then they generally share this information with external entities",
+        "User information stored in cookies can be stolen by hackers using attacking techniques like Cross Site Scripting.",
+        "All of the above",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "67",
+      "question": "How does Device fingerprinting help in protecting private information ?",
+      "choices": [
+        "It uses data from the device and browser sessions to determine the risk of conducting business with the person using the device",
+        "It allows companies to better assess the risks when business is conducted through sites that include, e-commerce sites, social networking and online dating sites and banks and other financial institutions",
+        "It is useful in fraud prevention and safeguarding any information from one's computer",
+        "All of the above",
+        "Option 1 & 3 only"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "68",
+      "question": "How to check whether the cookie is set only to transmit over HTTPS/SSL channel ?",
+      "choices": [
+        "cookie.setSecure()",
+        "cookie.secure = secure;",
+        "Response.Cookies(\"CookieKey\").Secure = True",
+        "All of these"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "69",
+      "question": "Identify correct statement :",
+      "choices": [
+        "Using prepared statements can prevent SQL injection attack",
+        "Do not use banned or deprecated version of APIs",
+        "Both",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "70",
+      "question": "Identify correct statement from the following :",
+      "choices": [
+        "Confidentiality is a process to prevent unauthorized alteration of information",
+        "Authorization validates users' identity",
+        "Accountability is a process to prevent repudiation",
+        "None of the above options is correct"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "71",
+      "question": "Identify correct statement from the following options :",
+      "choices": [
+        "Security is a technical problem and is responsibility of security manager",
+        "Customer trust, reputation, financial, compliance , privacy are major reasons for driving security and software security program",
+        "To secure online data build secure software",
+        "All of the above",
+        "Option 2 & 3"
+      ],
+      "Qtype": "SC",
+      "correct": "5",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "72",
+      "question": "Identify incorrect statement from the following :",
+      "choices": [
+        "Security is each individual's responsibility",
+        "Vulnerability is a security weakness",
+        "Logic Bomb is unintentional weakness",
+        "All of the above",
+        "None of the Above"
+      ],
+      "Qtype": "SC",
+      "correct": "5",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "73",
+      "question": "Identify reasons why TCS has adopted data protection program 1. Customer and market expectations 2. Competitive Differentiation 3. Risk Landscape 4. Legal Obligation",
+      "choices": ["1, 3, 4", "3, 4", "2,3,4", "1,2,3,4"],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "74",
+      "question": "Identify the most appropriate statement.",
+      "choices": [
+        "No vulnerability shall be suppressed without customer consent; None of the reported vulnerabilities will be considered false positive until proven; Application should not be released until Critical/High Severity vulnerabilities are resolved",
+        "None of the reported vulnerabilities will be considered false positive until proven; Application should not be released until Critical/High Severity vulnerabilities are resolved",
+        "No vulnerability shall be suppressed without customer consent; None of the reported vulnerabilities will be considered false positive until proven",
+        "Application should not be released until Critical/High Severity vulnerabilities are resolved"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "75",
+      "question": "Identifying trust boundaries is the goal of which threat modeling step performed during design review?",
+      "choices": [
+        "Decompose your application",
+        "Identify security objectives",
+        "Create an application overview",
+        "Identify threats",
+        "Identify vulnerabilities"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "76",
+      "question": "Identity Theft is an example of?",
+      "choices": ["Threat", "Asset", "Vulnerability", "Countermeasure"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "77",
+      "question": "If you have a set of SSO-enabled applications which are accessible via variety of smartphones, tablets and other smart \"mobile\" devices, you have to now deal with a relatively higher security risk associated with SSO as compared to the times when those applications were accessible ONLY via laptops or desktops. State True or false.",
+      "choices": ["True", "False", "Not Sure", "None of the above."],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "78",
+      "question": "Impact of Injection attacks",
+      "choices": [
+        "Data Loss",
+        "Denial of access",
+        "Disclosure",
+        "All of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "79",
+      "question": "Implementing integrity checks such as digital signatures on any serialized objects to prevent hostile object creation or data tampering. What can this prevent?",
+      "choices": [
+        "Broken Access Control",
+        "Broken Authentication",
+        "Insecure Deserialization"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "80",
+      "question": "In a multi user multi-threaded environment, thread safety is important as one may erroneously gain access to another individuals session by exploiting?",
+      "choices": ["Race condition", "OS Commands", "Session Integrity"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "81",
+      "question": "In a typical \"Web SSO\" scenario, secure, transient HTTP cookie can be used to exchange a SSO token between the \"identity provider\" and a \"service provider\". State True or false?",
+      "choices": ["True", "False", "Not Sure", "None of the above."],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "82",
+      "question": "In a typical SSO solution, what is a \"Service Provider\"?",
+      "choices": [
+        "A system or entity which provides business service(s) to users or other entities.",
+        "A person who provides various business services.",
+        "In SSO, typically a \"service provider\" is the entity which receives the SSO token --> then queries the \"identity provider\" to validate the token and establish the identity of the user being logged in before providing the requested business service(s).",
+        "A & C",
+        "All of the above",
+        "None of the Above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "83",
+      "question": "In a typical SSO solution, what is an \"Identity Provider\"?",
+      "choices": [
+        "A person who identifies him/herself.",
+        "A system or entity which can verify and prove identity of a user to other systems/entities involved in the SSO mechanism. Typically this is also the entity which generates and verifies the SSO token.",
+        "A system or entity which encrypts and provides password of a user to other systems/entities involved in the SSO mechanism so that they can re-authenticate the user.",
+        "All of the above",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "84",
+      "question": "In context of SSO, claims refers to",
+      "choices": [
+        "Information about the Identity. generally presented as key-value pairs",
+        "Relationship between Service Provider (SP) & Identity Provider (IdP)",
+        "Relationship between Identity & Identity Provider",
+        "None of the Above"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "85",
+      "question": "In context of VAST Threat Modeling, following Threat models are included",
+      "choices": [
+        "Application Threat Models",
+        "Operational Threat Models",
+        "Architecture Threat Models",
+        "Only a & b",
+        "All of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "86",
+      "question": "In data flow diagrams used during threat modeling of application design, what does Trust Boundaries represent?",
+      "choices": [
+        "Different privilege levels",
+        "Different trust levels",
+        "Both 1 and 2",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "87",
+      "question": "In public-key cryptography each user has a pair of cryptographic keys - a ______ encryption key and a ______ decryption key.",
+      "choices": [
+        "Private,Public",
+        "Local, Global",
+        "Public, Public",
+        "Public, Private"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "88",
+      "question": "In public-key cryptography, owners keep their private-keys private and never exchange them. But, owners can share public keys anywhere they like. How can you be sure that the public key that one entity is using to communicate with the other entity is, in fact, that entity's public key? What if the public key, in fact, belongs to a malicious third party performing a man-in-the-middle attack? What is countermeasure to avoid this scenario?",
+      "choices": [
+        "Security Certificate",
+        "Authentication token",
+        "Firewall",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "89",
+      "question": "In the context of \"authentication\", which of the following is correct description of a user's \"identity\" or \"identifier\"?",
+      "choices": [
+        "Typically, it is the alphanumeric user id used to login to an application/system. It uniquely identifies the user.",
+        "It is the user's biometric identifier such as thumb impression. It uniquely identifies the user.",
+        "It is the electronic identifier assigned to the user to uniquely identify him/her. E.g. The RFID enabled ID card.",
+        "None of the above.",
+        "All of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "5",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "90",
+      "question": "In Threat modeling, which of the following is the classification scheme based on characterizing known threats according to the kinds of exploits that are used?",
+      "choices": ["DREAD", "TRIKE", "STRIDE", "OCTAVE"],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "91",
+      "question": "Information leakage can occur when developers uses some exception methods, which \u2018bubble\u2019 to the user UI due to a poor error handling strategy. Such methods are:",
+      "choices": [
+        "printStackTrace()",
+        "getAllTrace()",
+        "getStackTrace()",
+        "None of the options are correct",
+        "Options 1 & 3"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "92",
+      "question": "Infrastructure VA is part of which phase of TCS SSA?",
+      "choices": [
+        "Security & Compliance Requirements",
+        "Security Testing",
+        "Deployment/Release Security Review",
+        "Security Sign Off"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "93",
+      "question": "Input validations must be based on",
+      "choices": ["blacklisting", "whitelisting", "encoding", "encryption"],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "94",
+      "question": "Internet sites that engage in electronic commerce require to ensure that personal information sent over the network, such as credit card numbers, cannot easily be intercepted. Which of the following can be used to ensure that this information is kept safe?",
+      "choices": [
+        "S/MIME certificates",
+        "Server SSL certificates",
+        "Client SSL certificates",
+        "Object-signing certificates",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "95",
+      "question": "It is a good programming practice to prevent Caching of sensitive data at client or proxies by implementing which of the following:",
+      "choices": [
+        "\"Cache-Control: do not-cache, do not save\"",
+        "\"Cache-Control: do not-save, do not store\"",
+        "\"Cache-Control: no-cache, no store\"",
+        "\"Cache-Control: no cache\"",
+        "\"Cache-Control: no store\""
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "96",
+      "question": "It is a good programming practice to set the cookie flag to which of the following?",
+      "choices": ["Safe", "Protected", "Locked", "Secure"],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "97",
+      "question": "It is easy to develop secure sessions with sufficient entropy.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "98",
+      "question": "JWT stands for?",
+      "choices": [
+        "Java Web Tokens",
+        "JSON Web Tokens",
+        "Java Web Template",
+        "JSON & Web Technology"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "99",
+      "question": "JWT Token consists of ______ parts",
+      "choices": ["One", "Two", "Three", "Depends on Developer"],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "100",
+      "question": "JWT Tokens are __________",
+      "choices": [
+        "AES-128 Encrypted",
+        "Base32 Encoded",
+        "DES Encrypted",
+        "Base64 Encoded"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "101",
+      "question": "JWT tokens should be invalidated on the server after logout.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "102",
+      "question": "Line of Code metrics include commented out code and spaces.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "103",
+      "question": "Logging should be mandatory at which of the following events:",
+      "choices": [
+        "Authentication: Successful and unsuccessful attempts and Authorization requests",
+        "Session activity: Termination/Logout events.",
+        "Data manipulation: Any (CUD) Create, Update, Delete actions performed on the application",
+        "All of the above",
+        "Only 1 & 2 options are correct"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "104",
+      "question": "Logs should be only stored locally.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "105",
+      "question": "Message Authentication Code (MAC) uses",
+      "choices": [
+        "Symmetric Key",
+        "Asymmetric Key",
+        "Public Key",
+        "Private Key"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "106",
+      "question": "Microsoft's Threat Modeling tool uses _______ based approach.",
+      "choices": [
+        "Data Flow Diagrams",
+        "Process Flow Diagrams",
+        "All of the above",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "107",
+      "question": "Multifactor Authentication is not required in SSO based approach as SSO is secure bydefault.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "108",
+      "question": "OCTAVE Threat Model includes:",
+      "choices": [
+        "Organization View",
+        "Technological View",
+        "All of the above",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "109",
+      "question": "On accessing a secure website user gets a message that says, \u201cThere is a problem with this website's security certificate\u201d. What is the possible reason?",
+      "choices": [
+        "This website's security certificate has been revoked",
+        "This website's security certificate has expired",
+        "This website's address does not match the address in the security certificate",
+        "Internet Explorer has found a problem with this website's security certificate",
+        "All of the above",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "5",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "110",
+      "question": "On logout, how should the application deal with session cookies?",
+      "choices": [
+        "Update the time",
+        "Clear them",
+        "Update the header",
+        "Store IP"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "111",
+      "question": "One of the main disadvantages of integrating cryptography into applications is:",
+      "choices": [
+        "Increased stability as the programs are protected against viral attack",
+        "Enhanced reliability as users can no longer modify source code",
+        "Reduced breaches of policy due to disclosure of information",
+        "Possible denial of service if the keys are corrupted"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "112",
+      "question": "Operational Threat Models in VAST covers following",
+      "choices": [
+        "Application",
+        "Infrastructure",
+        "All of the above",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "113",
+      "question": "Organizations should protect personal information by which of the following methods?",
+      "choices": [
+        "Physical measures, for example, locked filing cabinets and restricted access to offices.",
+        "Organizational measures, for example, security clearances and limiting access on a \u201cneed-to-know\u201d basis.",
+        "Technological measures, for example, the use of passwords and encryption.",
+        "All of the above",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "114",
+      "question": "Password can be obtained by the attacker using which of the following attacks / vulnerabilities?",
+      "choices": [
+        "Default passwords.",
+        "SQL Injections",
+        "Social Engineering",
+        "Insecure Storage.",
+        "All of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "5",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "115",
+      "question": "Passwords should not be logged.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "116",
+      "question": "Payload saved in JWT is encrypted bydefault.",
+      "choices": ["True", "False", "Depends on Programming Language"],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "117",
+      "question": "Phishing is essentially another form of:",
+      "choices": [
+        "Denial of service",
+        "Social engineering",
+        "Malware",
+        "Spyware"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "118",
+      "question": "PII does not include information that is collected anonymously.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "119",
+      "question": "PII includes:",
+      "choices": [
+        "Name, address, phone number, email address, social security number",
+        "Fax number, financial profile",
+        "Any unique information which can be associated with individual",
+        "All of above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "120",
+      "question": "Preserving accuracy and completeness of information and information processing facility is which one of the following security attributes?",
+      "choices": [
+        "Confidentiality",
+        "Integrity",
+        "Availability",
+        "Accountability"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "121",
+      "question": "Process through which the identity of an entity is established to be genuine?",
+      "choices": ["Authentication", "Authorization"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "122",
+      "question": "Process which assembles and analyzes several events, each attributable to a single originating entity, in order to gain information (especially patterns of activity) relating to the originating entity is known as:",
+      "choices": [
+        "Profiling",
+        "Tracking",
+        "Investigating",
+        "All of the above",
+        "Option 1 & 2 only"
+      ],
+      "Qtype": "SC",
+      "correct": "5",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "123",
+      "question": "Profiling becomes a serious privacy issue when data-matching process associates the profile of an individual with personally-identifiable information of the individual. State True or False.",
+      "choices": [
+        "True",
+        "False",
+        "Profiling cannot lead to Privacy breach",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "124",
+      "question": "Providing information to authorized users as and when required is which one of the following security attributes?",
+      "choices": [
+        "Confidentiality",
+        "Integrity",
+        "Availability",
+        "Accountability"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "125",
+      "question": "Public-key cryptography uses which of the following key algorithms?",
+      "choices": [
+        "Symmetrical",
+        "Asymmetrical",
+        "Deterministic",
+        "Non-deterministic"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "126",
+      "question": "Race, Ethnicity, Trade Union membership are: _____",
+      "choices": ["PII data", "SPI data", "not part of privacy data"],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "127",
+      "question": "RC4 is a",
+      "choices": [
+        "Hashing Algorithm",
+        "Block Cipher",
+        "Stream Cipher",
+        "Asymmetric Cipher",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "128",
+      "question": "Refresh Token can be used for",
+      "choices": [
+        "Renewing Access Token",
+        "Instructing Browser to refresh Page",
+        "Instructing Server to refresh Page",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "129",
+      "question": "Results of Threat modeling carried out during design review should be considered during which of the following phases of SDLC?",
+      "choices": [
+        "Contract Negotiations",
+        "Testing phase only",
+        "Coding Phase only",
+        "All the phases of SDLC"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "130",
+      "question": "Role-Based Access control helps prevent which OWASP Top 10 weakness.",
+      "choices": [
+        "Broken Access Control",
+        "Unvalidated Redirect or Forward",
+        "Security Misconfiguration",
+        "Insufficient Transport Layer Protection"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "131",
+      "question": "SAML uses ________ for Token exchange.",
+      "choices": ["JSON", "XML", "Binary", "BSON"],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "132",
+      "question": "Secure coding practices must be incorporated in the entire development life cycle of an application.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "133",
+      "question": "Securing a database application with username/password access control should be considered:",
+      "choices": [
+        "Sufficient to secure the application",
+        "Sufficient only when combined with other controls",
+        "Sufficient if the passwords are longer than six characters",
+        "Sufficient if none of the users have administrative access"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "134",
+      "question": "Security code review should be done throughout the SDLC.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "135",
+      "question": "Security Requirement Analysis ensures what from the following?",
+      "choices": [
+        "Security & Compliance Requirements",
+        "Security & Privacy Requirements",
+        "Compliance & Privacy Requirements",
+        "Security, Privacy & Compliance Requirements"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "136",
+      "question": "Session Cookies with HttpOnly flag are not vulnerable to _____ attacks, but are vulnerable to _______ attack.",
+      "choices": [
+        "XSS, CSRF",
+        "CSRF, XSS",
+        "CSRF, SQL Injection",
+        "XSS, SQL Injection"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "137",
+      "question": "SHA , a cryptographic hash function stands for which of the following:",
+      "choices": [
+        "Simple Hash Algorithm",
+        "Security Hash Algorithm",
+        "Simple Hash Analysis",
+        "Secure Hash Algorithm"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "138",
+      "question": "Since a SSO \"token\" is a \"master key\" to get access to multiple systems/applications with a \"single\" login, it is extremely important to protect this master key from theft, spoofing or forgery. What are typical ways to protect the SSO token from various threats?",
+      "choices": [
+        "Invalidate the SSO token on server side for subsequent use after the user logs off from any of the SSO enabled applications/systems i.e. after Single Sign-Off.",
+        "If the SSO token is being exchanged using a HTTP cookie, set the \"HttpOnly\" attribute of the cookie to prevent cookie access via client side javascript.",
+        "Define a server-side \"timeout\" for SSO token. The token should be invalid for use after the timeout period.",
+        "Digitally sign the SSO token to protect against man-in-the-middle manipulations and also encrypt the token with a time variant encryption key/algorithm. Exchange the token over SSL.",
+        "Implement a \"source IP check\" i.e. The source IP of the end client device which was used to provide the user credentials to generate the SSO token for the first time, should match the source IP of the end client device for all subsequent requests containing the same SSO token.",
+        "All of the Above"
+      ],
+      "Qtype": "SC",
+      "correct": "6",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "139",
+      "question": "Small changes to the input to a hash function leading to drastic changes in the resulting output is termed as which of the following:",
+      "choices": [
+        "Message Digest",
+        "Avalanche effect",
+        "Cryptanalytic attack",
+        "Brute force attack",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "140",
+      "question": "Software is considered as \"Secure\" when",
+      "choices": [
+        "It does exactly what it is expected to",
+        "It does not do what it is not expected to",
+        "It does what it is expected to and does not do what it is not expected to",
+        "It can not be defined"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "141",
+      "question": "Software Security Integration involves which attributes?",
+      "choices": [
+        "Estimation of Software Security Efforts & Software Security Budget Requirements",
+        "Estimation of Software Security Efforts & Sign Off Criteria Definition",
+        "Software Security Budget Requirements & Sign Off Criteria Definition",
+        "Software Security Effort Estimation and Budget Requirements, Identification of teams to perform reviews & Defining Sign Off Criteria"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "142",
+      "question": "Spoofing hampers which one of the following Security foundations?",
+      "choices": [
+        "Integrity",
+        "Non-repudiation",
+        "Authorization",
+        "Authentication"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "143",
+      "question": "SQL injection can be completely prevented by using prepared statement.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "144",
+      "question": "SSL/TLS uses",
+      "choices": ["Asymmetric Cipher", "Symmetric Cipher", "Both"],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "145",
+      "question": "SSO facilitates sharing of user passwords securely.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "146",
+      "question": "State the correct statement.",
+      "choices": [
+        "Recording the critical transactions, changes, user actions are purely for debugging, the user actions can not be obtained from them",
+        "Software can not demonstrate the fact about who has performed the action and when, as it can be accessed from anywhere",
+        "Accountability of the actions performed is one of the key expectations of Software Security Assurance",
+        "Software can remain secure even if accountability is compromised"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "147",
+      "question": "State the correct statement.",
+      "choices": [
+        "Achieving Software Security Assurance is a responsibility and will of the customer",
+        "Security Assurance is a matter of luck, most of the softwares are not hacked so can be of less important",
+        "Estimation of Software Security related Budget and Efforts is a key parameter in delivering secure software",
+        "TCS does not have any framework which can give assurance to customer for Software Security Assurance"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "148",
+      "question": "State the correct statement.",
+      "choices": [
+        "Permitting only authorised users to access authorised information is confidentiality where as providing information to authorised users as and when required is integrity",
+        "Permitting only authorised users to access authorised information is integrity where as providing information to authorised users as and when required is confidentiality",
+        "Permitting only authorised users to access authorised information is confidentiality where as maintaining accuracy and completeness of the information is integrity",
+        "Maintaining accuracy and completeness of the information is confidentiality where as providing information to authorised users as and when required is integrity"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "149",
+      "question": "State the correct statement.",
+      "choices": [
+        "TCS SSA process does not take Software Risk Categorization into consideration",
+        "Software Risk Categorization is a key attribute in defining and designing the efforts for SSA"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "150",
+      "question": "State the correct statement.",
+      "choices": [
+        "Software Security Education needs to be introduced during Initial Learning Program or entry levels only",
+        "Software Security Education is a continuous process and needs to be introduced during Initial Learning Program or entry levels and on the job training",
+        "Software Security Education is a tough subject and can not be introduced during Initial Learning Program",
+        "Software Security Education is a voluntary and can not be enforced"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "151",
+      "question": "State the correct statement.",
+      "choices": [
+        "Software Security Efforts and Controls increases if the risk category of the software increases",
+        "Software Security Efforts and Controls are independent of the risk category of the software",
+        "Software Security Efforts and Controls decreases if the risk category of the software increases",
+        "Can't say"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "152",
+      "question": "State the correct statement.",
+      "choices": [
+        "SSA Estimation includes security review as well as fixing of defects",
+        "SSA Estimation is independent and has nothing to do with Low Risk software or High Risk software",
+        "SSA has defined three risk categories for softwares (Low Risk, Medium risk, High Risk)",
+        "Estimation of Security Efforts remains same for small and large complex softwares"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "153",
+      "question": "State the correct statement.",
+      "choices": [
+        "TCS SSA is Technology Independent but Application Dependent",
+        "TCS SSA is Technology Dependent but Application Independent",
+        "TCS SSA is Technology Dependent and Application Dependent",
+        "TCS SSA is Technology Independent and Application Independent"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "154",
+      "question": "State True or False: Application/Code should not be released until Critical/High Severity & Potential vulnerabilities are resolved.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "155",
+      "question": "State True or False: Customers evaluate the vendor capability to deliver secure software and it is one of the key criteria before granting the business.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "156",
+      "question": "State True or False: It is not a responsibility of a supplier to deliver secure software.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "157",
+      "question": "State True or False: Maintenance (Operational) Security is not required if software is developed securely.",
+      "choices": [
+        "True: because software if developed securely would not require any maintenance or operational security",
+        "True: because security is required either during development or in maintenance phase",
+        "False: because only Maintenance or Operational Security is required to make the software secure.",
+        "False: because log analysis, incident response, security patches, upgradation are ongoing requirements and can not be addressed in software development"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "158",
+      "question": "State True or False: Security Testing Test Cases play crucial & essential part of Security Testing.",
+      "choices": [
+        "False, because Security Testing Test Cases can not be derived",
+        "False, because it leads to drastic increase in the testing effort",
+        "False, because it has nothing to do with Security Testing",
+        "True, Security Testing Testcases help derive the efforts, tools requirements, timelines and scope of Security Testing"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "159",
+      "question": "State True or False: Software Security Assurance can be achieved if the efforts, activities and controls are implemented and verified for establishing Confidentiality, Integrity, Availability & Accountability.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "160",
+      "question": "State True or False: TCS SSA has defined the required processes, templates, guidelines, checklists & resources to achieve Security Assurance.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "161",
+      "question": "State True or False: The cost of fixing the security defect decreases if it is ignored, identified late or in the later phases of the life cycle.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "162",
+      "question": "State True or False: When customers buy software or service from vendor, they will get insecure software/service until and unless they pay for security.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "163",
+      "question": "Stream Cipher is example of?",
+      "choices": [
+        "Symmetric Key Cryptography",
+        "Asymmetric Key Cryptography",
+        "Hashing Function"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "164",
+      "question": "STRIDE methodology categorizes threats into how many categories?",
+      "choices": ["Two", "Four", "Six", "None of the above"],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "165",
+      "question": "STRIDE model of Threat Modeling was developed at?",
+      "choices": [
+        "Tata Consultancy Services",
+        "Google",
+        "Microsoft",
+        "Netscape"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "166",
+      "question": "Symmetric Key Encryption/Decryption requires",
+      "choices": ["One Key", "Two Keys", "Three Keys", "No Keys"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "167",
+      "question": "TCS Software Security Assurance Process Framework provides confidence to the stake holders on what parameters?",
+      "choices": [
+        "Software will consistently demonstrate robustness",
+        "Software will consistently demonstrate robustness even when it is abused",
+        "Software will consistently demonstrate robustness even when it is abused or attacked maliciously",
+        "Software will consistently demonstrate robustness even when it is abused or attacked maliciously or unintentionally"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "168",
+      "question": "TCS SSA takes care of the threats to the systems and softwares from ?",
+      "choices": ["Insiders", "Outsiders", "Both of them", "None of the above"],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "169",
+      "question": "Team must monitor for libraries and components that are unmaintained or do not create security patches for older versions.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "170",
+      "question": "The _______ approach to validation only permits characters/ASCII ranges defined within a white-list.",
+      "choices": ["Encode good", "Known good", "known bad"],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "171",
+      "question": "The acronym CVE stands for?",
+      "choices": [
+        "Common Vulnerability and Exposures",
+        "Critical Vulnerability Enumeration",
+        "Critical Vulnerability and Exposures",
+        "Common Vulnerability Enumeration"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "172",
+      "question": "The application of multiple layers of protection wherein a subsequent layer will provide protection if a previous layer is breached is known as:",
+      "choices": [
+        "Defence-in-depth",
+        "Weakest link",
+        "Fail-safe",
+        "Control analysis"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "173",
+      "question": "The application or API stores unsanitized user input that is viewed at a later time by another user or an administrator. Which type of XSS it is?",
+      "choices": ["DOM XSS", "Reflected XSS", "Stored XSS"],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "174",
+      "question": "The following tools are used for \u2026. ? versions, DependencyCheck, retire.js,",
+      "choices": [
+        "Code Analysis",
+        "Software Dependency Analysis",
+        "Dynamic Analysis"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "175",
+      "question": "The first step in Threat Modeling is to",
+      "choices": [
+        "Create Architecture",
+        "Identify Assets",
+        "Identify Threats",
+        "None of above"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "176",
+      "question": "The following can be classified as which kind of threat as per Microsoft STRIDE threat classification model? 'Modifying a DLL on disk or DVD, or a packet as it traverses the LAN'.",
+      "choices": [
+        "Spoofing",
+        "Tampering",
+        "Repudiation",
+        "Information Disclosure"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "177",
+      "question": "The only way to break a secure hashing function is:",
+      "choices": [
+        "Reverse hashing",
+        "Brute force",
+        "Hash inversion",
+        "Preimage collision",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "178",
+      "question": "The output of threat modeling activity is a threat model. The main items captured by the threat model include which of the following:",
+      "choices": [
+        "A list of threats",
+        "A list of vulnerabilities",
+        "Both a and b",
+        "None of these"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "179",
+      "question": "The password database uses unsalted or simple hashes to store everyone\u2019s passwords. A file upload flaw allows an attacker to retrieve the password database. This can lead to?",
+      "choices": [
+        "Denial of access",
+        "Sensitive Data Exposure",
+        "Session Hijacking",
+        "Cross Site Request Forgery"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "180",
+      "question": "The process by which different equivalent forms of a name can be resolved to a single standard name.",
+      "choices": ["Canonicalization", "Encryption", "Hashing"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "181",
+      "question": "The term RSA in RSA encryption stands for?",
+      "choices": [
+        "Ron Rivest, Adi Shamir and Leonard Adleman",
+        "Reverse Sequence Algorithm",
+        "Re-factorial Summation Algorithm",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "182",
+      "question": "The use of proper security techniques can:",
+      "choices": [
+        "Minimize the threat of attackers",
+        "Allow access to unauthorized users",
+        "Provide fame and reputation",
+        "Create secret pages for access"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "183",
+      "question": "Though Single Sign-On (SSO) improves \"user experience\", it may come with some security risks of its own. What are the security risks associated with SSO?",
+      "choices": [
+        "The SSO token is now a kind of a \"master key\" to gain access to multiple applications/systems. If an adversary can steal, spoof or forge this master key, he/she can gain such access without the need to know the actual userid or password.",
+        "Especially in the case when a user uses the SSO mechanism from a smart mobile device like iPhone, iPad, the risk of losing the SSO token (or that \"master-key\") is hightened because the device itself can be stolen/lost after the user has logged in with credentials.",
+        "SSO is well secure by default.",
+        "A & B",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "184",
+      "question": "Threat Model also includes Counter-measures for the Threats.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "185",
+      "question": "Threat Modeling can be applied to",
+      "choices": [
+        "Softwares",
+        "Processes",
+        "All of the above",
+        "None of above"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "186",
+      "question": "Threat Modeling methodology usually uses following visualization:",
+      "choices": [
+        "Data Flow Diagrams",
+        "Process Flow Diagrams",
+        "All of the above",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "187",
+      "question": "Threat modeling process can: a) Identify threats b) Provide countermeasures c) Stop threats from happening (Real Time) d) Help in flawless coding",
+      "choices": ["a, b only", "b, d only", "a, b, d only", "All of the above"],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "188",
+      "question": "Thresholds for stable code as per Cyclomatic complexity",
+      "choices": ["16-20", "44150", "0-10"],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "189",
+      "question": "To improve the overall quality of web applications, developers should abide by which of the following rules?",
+      "choices": [
+        "Trust user supplied data",
+        "Clean and validate all user input",
+        "Use GET instead of POST",
+        "Allow the use of HIDDEN form fields",
+        "All of the Above"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "190",
+      "question": "To prevent against Insufficient Logging & Monitoring we should:",
+      "choices": [
+        "Ensure all login, access control failures, and server-side input validation failures can be logged with sufficient user context",
+        "Ensure that logs are generated in a format that can be easily consumed by a centralized log management solutions.",
+        "Establish or adopt an incident response and recovery plan",
+        "All of the above",
+        "None of above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "191",
+      "question": "To prevent malicious sub class from a parent class, which keyword should be used?",
+      "choices": ["Public", "Private", "Final", "None of these"],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "192",
+      "question": "Trust Relationship between Service Provider & Identity Provider is not required while implemention SSO.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "193",
+      "question": "Unnecessary features are enabled or installed, is a _______",
+      "choices": ["Business Logical Flaw", "Security Misconfiguration"],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "194",
+      "question": "Usage of old or weak cryptographic algorithms may lead to?",
+      "choices": ["Denial of service", "Data Exposure"],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "195",
+      "question": "User Session can be stored on server using",
+      "choices": [
+        "Memory ( eg. File System)",
+        "Cache (eg. Memcached, Redis)",
+        "Database (eg. PostgreSQL, MySQL)",
+        "All of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "196",
+      "question": "VAST stands for?",
+      "choices": [
+        "Vulnerability Assessment & Security Testing",
+        "Very Agile and Simple Threat modeling",
+        "Visual, Agile, and Simple Threat modeling",
+        "Vulnerability Assessment & Simple Threat Modeling"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "197",
+      "question": "Verify that XML or XSL file upload functionality validates incoming XML using XSD validation.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "198",
+      "question": "We can allow client-side scripts to execute in the browsers for needed operations.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "199",
+      "question": "What activities are part of Deployment/Release Security Review?",
+      "choices": [
+        "Verify Binary Integrity; Target System Alteration Analysis; Infrastructure VA; Develop Incident Response Plan; Patching and Upgradation Plan",
+        "Verify Binary Integrity; Target System Alteration Analysis; Infrastructure VA; Patching and Upgradation Plan",
+        "Verify Binary Integrity; Target System Alteration Analysis; Infrastructure VA; Develop Incident Response Plan",
+        "Target System Alteration Analysis; Infrastructure VA; Develop Incident Response Plan; Patching and Upgradation Plan"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "200",
+      "question": "What activities are part of Software Requirement Analysis?",
+      "choices": [
+        "Listing of Security, Privacy & Compliance Requirements",
+        "Listing of Security, Privacy & Compliance Requirements; Analyzing Functional Requirements and NFRs",
+        "Listing of Security, Privacy & Compliance Requirements; Analyzing Functional Requirements and NFRs; Getting Sign-off from Customer for requirements",
+        "Listing of Security, Privacy & Compliance Requirements; Analyzing Functional Requirements and NFRs; Getting Sign-off from Customer for requirements; Establishing Bug Reporting & Tracking System"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "201",
+      "question": "What all data can be considered Sensitive?",
+      "choices": [
+        "Personal Information",
+        "Financial data",
+        "Business Secrets",
+        "Health records",
+        "All of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "5",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "202",
+      "question": "What are basic security requirements of a typical SSO solution?",
+      "choices": [
+        "It should be written either in Java, .Net, PHP or Cobol since no other languages/platforms are secure enough to provide a SSO solution.",
+        "The \"SSO token\" used for SSO should be secured against theft, spoofing or forgery.",
+        "It should eliminate circulation of user password(s) to multiple applications/systems to gain access to them.",
+        "It should use \"XML\" to securely exchange the SSO token between multiple applications/systems.",
+        "B & C",
+        "All of the Above"
+      ],
+      "Qtype": "SC",
+      "correct": "5",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "203",
+      "question": "What are remedies to secure against components using known vulnerabilities?",
+      "choices": [
+        "1. Only obtain components from official sources over secure links.",
+        "2. Remove unused dependencies, unnecessary features",
+        "3. Continuously inventory the versions of both client-side and server-side components (e.g. frameworks, libraries)",
+        "All of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "204",
+      "question": "What are the activities involved in the phase Secure Code Construction & Security Code Review?",
+      "choices": [
+        "Write Defensive Code using Secure Programming Practices",
+        "Avoid Known Vulnerable Components",
+        "Static Code Analysis & Security Code Walk-through",
+        "All of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "205",
+      "question": "What are the implications of Malicious File Execution vulnerabilities?",
+      "choices": [
+        "User impersonation and authentication bypass",
+        "Site defacement and complete takeover of the application",
+        "Complete takeover of the application and user impersonation",
+        "All of the above.",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "206",
+      "question": "What are the popular threat modeling techniques? a) Entry point identification b) Privilege boundaries c) Threat trees d) Flooding",
+      "choices": [
+        "a and b only",
+        "a, b, c only",
+        "a,b,d only",
+        "All of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "207",
+      "question": "What are the qualities of a secure software?",
+      "choices": [
+        "It can not be hacked or attacked",
+        "It resist most attacks and tolerate attacks which can not be resisted",
+        "It resist most attacks and tolerate attacks which can not be resisted & recover within a specified time with minimum damage",
+        "It resist most attacks and tolerate attacks which can not be resisted & recover within a specified time with minimum damage and generate a trail for the attack"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "208",
+      "question": "What are the solution for Broken Authentication?",
+      "choices": [
+        "Use HTTPOnly, secure Flag for cookies",
+        "Expire session quickly.",
+        "Use the standard session id provided by your container.",
+        "All of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "209",
+      "question": "What are the solution for Injection attacks?",
+      "choices": [
+        "Whitelist input characters",
+        "Parameterized query",
+        "Prepared statements",
+        "All of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "210",
+      "question": "What are types of customer data?",
+      "choices": [
+        "Data collected directly from a customer thru application",
+        "Data gathered indirectly (thru documents)",
+        "Data about a customer's usage behavior (logs, history etc)",
+        "Data relating to a customer's system (IP, configuration etc)",
+        "All of above",
+        "None of above"
+      ],
+      "Qtype": "SC",
+      "correct": "5",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "211",
+      "question": "What do you mean by SSO token \"timeout\" in a typical SSO solution?",
+      "choices": [
+        "The SSO token is auto-refreshed after this \"timeout\".",
+        "The duration after which the newly created SSO token will expire or will be invalid for any further use for SSO. After this timeout, the user has to re-login/re-authenticate himself using his credentials.",
+        "The duration after which the newly created SSO token will be activated for use in SSO.",
+        "There is no concept such as timeout for SSO token"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "212",
+      "question": "What does a Cross Site Scripting vulnerability allow an attacker to do?",
+      "choices": [
+        "Execute a malicious script on the Web server",
+        "Change the Web server configuration",
+        "Steal a user session token",
+        "Drop database tables"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "213",
+      "question": "What does PII stand for?",
+      "choices": [
+        "Private Identity Information",
+        "Private Image Information",
+        "Personally Identifiable Information",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "214",
+      "question": "What does the associate need to know as part of the Software Security Education?",
+      "choices": [
+        "Applicable Compliance Requirements",
+        "Domain & Technology Security Requirements, Common Weaknesses and Attack Patterns",
+        "Customer Security Requirements",
+        "All of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "215",
+      "question": "What flaw can lead to exposure of resources or functionality to unintended actors?",
+      "choices": [
+        "Improper Authentication",
+        "Session Fixation",
+        "Insecure Cryptographic Storage",
+        "Unvalidated Redirects and Forwards"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "216",
+      "question": "What from the following are part of Security Incident Response?",
+      "choices": [
+        "Communicating about the incident to the customer(s), Identify Compromised System/Software/Application, Fixing the Vulnerability",
+        "Identify Compromised System/Software/Application, Fixing the Vulnerability",
+        "Communicating about the incident to the customer(s), Identify Compromised System/Software/Application",
+        "Fixing the Vulnerability"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "217",
+      "question": "What from the following verifies correctness, completeness and robustness of the design?",
+      "choices": [
+        "Secure Design",
+        "Security Requirements",
+        "Security Testing",
+        "Security Sign Off"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "218",
+      "question": "What Happens When An Application Takes User Inserted Data And Sends It To A Web Browser Without Proper Validation And Escaping?",
+      "choices": [
+        "SQL Injection",
+        "Security Misconfiguration",
+        "Cross site scripting",
+        "Unvalidated Redirects and Forwards"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "219",
+      "question": "What is \"federated SSO\"?",
+      "choices": [
+        "SSO across federal states of a nation.",
+        "A mechanism that can provide a SSO token which can be trusted for identity assertion by multiple entities across multiple \"identity management systems\" such as multiple organizations.",
+        "None of the above",
+        "All of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "220",
+      "question": "What is \"OAuth\"?",
+      "choices": [
+        "OAuth (Open Authorization) is an open standard that allows users to securely share their credentials, typically username and password with other websites or entities.",
+        "Authentication with an \"O\".",
+        "\"OAuth (Open Authorization) is an open standard that allows users to share their personal resources stored on one site with another site without having to hand out their credentials, typically username and password.\"",
+        "All of the above",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "221",
+      "question": "What is a \"principal\" in the context of \"authentication\"?",
+      "choices": [
+        "It is an authentication mechanism through witch user will enter principal value during authentication.",
+        "An entity which can be authenticated by a system, typically using the identifier associated with that entity.",
+        "A person, computer, printer or any device or a group of these can be termed as a \"principal\". E.g. A person can be given a \"user id\" as an identifier which can then be used by a system to authenticate him/her.",
+        "B & C",
+        "None of the above.",
+        "All of the Above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "222",
+      "question": "What is a \"Single Sign-On (SSO) token\"?",
+      "choices": [
+        "A \"SSO token\" is a token that represents or asserts the logged in user's \"identity\" & can be used to gain access to multiple applications/systems participating in the SSO mechanism without need to re-login with user's actual identifier/identity like user id and password.",
+        "It is the token one has to use to do any transaction at a bank counter.",
+        "A SSO token is nothing but concatenation of user id and password.",
+        "All of the above",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "223",
+      "question": "What is a salted hash?",
+      "choices": [
+        "A hash that has been tested against known attacks",
+        "Combining a username with a hash of username and hashing it",
+        "A hash encrypted with a symmetric key",
+        "A intentionally weak hash"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "224",
+      "question": "What is Microsoft STRIDE model?",
+      "choices": [
+        "Threat modeling methodology",
+        "Threat rating methodology",
+        "Tool to recognize any threat",
+        "Threat preventing scheme"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "225",
+      "question": "What is not a best practice for password policy?",
+      "choices": [
+        "Deciding maximum age of password",
+        "Restriction on password reuse and history",
+        "Password encryption",
+        "Never change password"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "226",
+      "question": "What is not a good practice for user administration?",
+      "choices": [
+        "Isolating a system after a compromise",
+        "Perform random auditing procedures",
+        "Granting privileges on a per host basis",
+        "Using telnet and FTP for remote access",
+        "All of the Above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "227",
+      "question": "What is SAML?",
+      "choices": [
+        "Security Assertion Markup Language",
+        "Security And Markup Language",
+        "An open standard to securely exchange authentication/identity and authorization information between an identity provider and a service provider. A SAML token is based on XML.",
+        "It is a secure, SSO specification from Microsoft.",
+        "A & C",
+        "All of the Above"
+      ],
+      "Qtype": "SC",
+      "correct": "5",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "228",
+      "question": "What is Single Sign-Off?",
+      "choices": [
+        "A mechanism of signing off from any application.",
+        "A mechanism that enables turning off digital signatures.",
+        "A mechanism that enables logging off from / terminates access to multiple \"Single Sign-On\" enabled applications/systems by logging off from just one of the \"Single Sign-On\" enabled application/system.",
+        "None of the above."
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "229",
+      "question": "What is Single Sign-On (SSO)?",
+      "choices": [
+        "A mechanism of digitally \"signing\" the information exchanged between applications/systems.",
+        "A mechanism that enables a user to sign-in/login/authenticate to an application/system with his credentials only once and then seamlessly access other applications/systems available in the same domain of trust (e.g. intranet portal of an organization) without the need to re-login with the credentials again.",
+        "A mechanism which enables using single physical \"signature\" to do all banking transactions!",
+        "None of the above."
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "230",
+      "question": "What is the output produced by a hash algorithm called?",
+      "choices": [
+        "A message digest",
+        "A plaintext",
+        "A ciphertext",
+        "A digital signature"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "231",
+      "question": "What is the primary reason for using cryptographic hash algorithms over encryption on user passwords?",
+      "choices": [
+        "It provides compression which saves hard disk space",
+        "Hashing functions are one way function",
+        "It provides a simplified platform for password cracking utilities",
+        "Hashing functions are two way functions"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "232",
+      "question": "What is the purpose of Audit Trail and Logging?",
+      "choices": [
+        "Generate Chronological Sequence of Actions",
+        "Generate Evidences for Actions",
+        "Software Trouble Shooting",
+        "All of the above",
+        "None of the Above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "233",
+      "question": "What is the type of flaw that occurs when untrusted user-entered data is sent to the interpreter as part of a query or command?",
+      "choices": [
+        "Insecure Direct Object References",
+        "Injection",
+        "Cross Site Request Forgery",
+        "Insufficient Transport Layer Protection"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "234",
+      "question": "What must one do so that data does not auto populate at the client side?",
+      "choices": [
+        "Set cache-control as no-cache",
+        "Set cookie as Secure",
+        "Set an autocomplete flag off for all form tags"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "235",
+      "question": "What precaution should a user take to avoid \u201cbrute-force key search attack\" in a cryptosystem?",
+      "choices": [
+        "Choose a longer key",
+        "Use should deploy Intrusion prevention systems (IPS).",
+        "Deploy Firewall",
+        "Install Anti-virus"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "236",
+      "question": "When contemplating the use of covert video surveillance, which factor is not a valid consideration:",
+      "choices": [
+        "The use of covert video surveillance is supported by suspicion.",
+        "The personal information being collected is clearly related to a legitimate business purpose and objective.",
+        "The loss of privacy is proportional to benefit gained.",
+        "Other less privacy-invasive measures have been considered."
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "237",
+      "question": "When hashing algorithms are combined with asymmetric encryption, they produce special message digests called:",
+      "choices": [
+        "Message Authentication Codes",
+        "Hash functions",
+        "SHA",
+        "Digital Signature"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "238",
+      "question": "When recording customer telephone calls, which one of these statements is false?",
+      "choices": [
+        "Organizations may only record calls for specified purposes and the information collected must only be used for the specified purposes.",
+        "Organizations must inform the individual that the call may be recorded but not the purpose for which the information will be used.",
+        "The recording may only take place with the individual\u2019s consent.",
+        "Organizations must ensure that they comply with the other provisions of privacy laws with respect to matters such as safeguards, access, retention and disposal."
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "239",
+      "question": "Which among the following is not a step in Threat Modeling process?",
+      "choices": [
+        "Identify Security Objectives",
+        "Perform Unit testing",
+        "Survey the Application",
+        "Decompose it"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "240",
+      "question": "Which amongst the following data validation strategy models listed below is the weakest one?",
+      "choices": [
+        "Exact Match (Constrain)",
+        "Encode Known bad (Sanitize)",
+        "Known Good (Accept)",
+        "Reject Known bad (Reject)",
+        "All of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "241",
+      "question": "Which are the Session related vulnerabilities?",
+      "choices": [
+        "Session Fixation",
+        "Session Tracing",
+        "Session Spoofing",
+        "Session Spotting"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "242",
+      "question": "Which attack can execute scripts in the user's browser and is capable of hijacking user sessions, defacing websites, or redirecting the user to malicious sites?",
+      "choices": [
+        "SQL Injection",
+        "Cross site scripting",
+        "Man-in-the-middle",
+        "Malware Uploading"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "243",
+      "question": "Which happens first authorization or authentication?",
+      "choices": [
+        "Authentication",
+        "Authorization",
+        "Both are same",
+        "None of these"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "244",
+      "question": "Which among the following is the best implementation approach for password verification?",
+      "choices": [
+        "Encryption",
+        "Cryptographic hashing",
+        "Cipher Block Chaining",
+        "Salted Cryptographic hashing"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "245",
+      "question": "Which mechanism will make sure that data transmission is secure?",
+      "choices": [
+        "HTTPS + Encrypting sensitive data",
+        "HTTPS",
+        "Encryption of sensitive data",
+        "None of the Above"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "246",
+      "question": "Which of the below web application operation indicates that the application may be vulnerable to Cross Site Request Forgery?",
+      "choices": [
+        "GETtransferfunds.aspx?sacct=3434dacct=56745formtoken= YUR345",
+        "GETsendemail.aspx?address=jsmith@dfg.com subject=hello content=abc",
+        "GET search.aspx text=personal banking",
+        "GET login.aspx"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "247",
+      "question": "Which of the following is a secure coding practice?",
+      "choices": [
+        "Limit Access to Your Classes, Methods, and Variables",
+        "Do not depend on Initialization",
+        "Make Everything Final, unless there is a good reason to not do so",
+        "All the above",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "248",
+      "question": "Which of the following activities are related to Application Security?",
+      "choices": [
+        "Requirements Analysis",
+        "Vulnerability Assessment",
+        "Code Review",
+        "All of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "249",
+      "question": "Which of the following Algorithms\\Encryption method is safest for use?",
+      "choices": [
+        "DES",
+        "RC4",
+        "Block ciphers using Electronic Code Book (ECB) mode",
+        "AES"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "250",
+      "question": "Which of the following are approaches for input validation?",
+      "choices": ["Known-good", "Known-bad", "Encode-Bad", "All of these"],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "251",
+      "question": "Which of the following are forms of malicious attack?",
+      "choices": [
+        "Theft of information",
+        "Modification of data",
+        "Wiping of data",
+        "All of these"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "252",
+      "question": "Which of the following are social engineering methods which can be used by criminals to capture sensitive user data such as credit card numbers, credentials and other personally identifiable information (PII)?",
+      "choices": [
+        "Phishing",
+        "Shoulder Surfing",
+        "Reverse Sting",
+        "Impersonation",
+        "All of the above",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "5",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "253",
+      "question": "Which of the following are the types of vulnerabilities that hackers look out for in applications to target them for attacks?",
+      "choices": [
+        "OS level Vulnerabilities",
+        "Browser level Vulnerabilities",
+        "Application level Vulnerabilities",
+        "All of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "254",
+      "question": "Which of the following are threats of cross site scripting on the authentication page?",
+      "choices": [
+        "Session hijacking attacks",
+        "Identity theft",
+        "Phishing",
+        "All of these"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "255",
+      "question": "Which of the following best describes how to sign a document using a digital signature?",
+      "choices": [
+        "Create a hash of the document and encrypt the resulting hash using the signer's private key",
+        "Encrypt the document using the signer's private key",
+        "Encrypt the document using the signer's private key and create a hash of the encrypted document",
+        "Encrypt the document using the signer's public key"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "256",
+      "question": "Which of the following best describes the purpose of using disclaimers?",
+      "choices": [
+        "Make users aware of their obligations and establish accountability for their actions",
+        "Publish organizations policies",
+        "Showcase organization's technological advancements",
+        "Detect any intrusion into the internal network of the organisation"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "257",
+      "question": "Which of the following can be best described as spoofing?",
+      "choices": [
+        "Eavesdropping",
+        "Working through a list of words",
+        "Session Hijacking",
+        "Pretending to be someone or something else"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "258",
+      "question": "Which of the following can lead to leakage of private data?",
+      "choices": [
+        "Cookies",
+        "Cache history",
+        "Email spams and attachments",
+        "All of the above",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "259",
+      "question": "Which of the following cipher, rearranges bits, characters, or character blocks in plaintext to produce ciphertext?",
+      "choices": [
+        "Vernam ciphers",
+        "Substitution cipher",
+        "Block cipher",
+        "Permutation cipher"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "260",
+      "question": "Which of the following Ensures that a message originated from its claimed originator?",
+      "choices": [
+        "Integrity",
+        "Confidentiality",
+        "Authentication",
+        "Non-Repudiation"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "261",
+      "question": "Which of the following Ensures that information has not been altered in any unauthorized ways by any means?",
+      "choices": [
+        "Integrity",
+        "Confidentiality",
+        "Authentication",
+        "Non-Repudiation"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "262",
+      "question": "Which of the following Ensures the authenticity of personnel involved in the manipulation of information & later cannot deny the involvement?",
+      "choices": [
+        "Integrity",
+        "Confidentiality",
+        "Authentication",
+        "Non-Repudiation"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "263",
+      "question": "Which of the following indicates attempting to gain access to a system by using a false identity?",
+      "choices": ["Repudiation", "Eavesdropping", "Spoofing", "Hijacking"],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "264",
+      "question": "Which of the following information item holds highest criticality from confidentiality perspective?",
+      "choices": [
+        "Blank Dump of a current database shared by the customer",
+        "Information Security Awareness Presentation used within TCS",
+        "Customer CEO speech (text) delivered the previous week on a TV business channel",
+        "Project's scorecard on TCS Quality Metrics"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "265",
+      "question": "Which of the following is a classification scheme for quantifying, comparing and prioritizing the amount of security risk in an application?",
+      "choices": ["DREAD", "STRIDE", "TRADE", "None of these"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "266",
+      "question": "Which of the following is a correct statement?",
+      "choices": [
+        "Properly validated inputs can improve security of an application. Client and server side validation improves web application security",
+        "We can trust code available in discussion forums",
+        "We can write/hardcode passwords into source code",
+        "All of the above",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "267",
+      "question": "Which of the following is a criminally fraudulent process of trying to obtain sensitive information such as user names, passwords, credit card or bank information by masquerading as a trustworthy entity in some form of electronic communication?",
+      "choices": [
+        "Social Engineering",
+        "Phishing",
+        "Pharming",
+        "All of the above",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "268",
+      "question": "Which of the following is a digital signature algorithm?",
+      "choices": [
+        "RSA-based signature schemes",
+        "AES-based signature algorithm",
+        "DES-based signature algorithm",
+        "All of the above",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "269",
+      "question": "Which of the following is a disadvantage of single sign-on?",
+      "choices": [
+        "Consistent time-out enforcement across platforms",
+        "A compromised password which exposes all authorized resources",
+        "Use of multiple passwords",
+        "Password change control"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "270",
+      "question": "Which of the following is a hacker's attempt to redirect traffic from a legitimate website to a completely different internet address by changing the host's file on a victim\u2019s computer or by exploiting a vulnerability on the DNS server?",
+      "choices": [
+        "Harvesting",
+        "Phishing",
+        "Pharming",
+        "All of the above",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "271",
+      "question": "Which of the following is a process for assessing and documenting the threats associated with an application?",
+      "choices": [
+        "Control identification",
+        "Threat modeling",
+        "Control prioritization",
+        "Attack surface evaluation"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "272",
+      "question": "Which of the following is a protocol used for or related to SSO?",
+      "choices": [
+        "OAuth",
+        "SAML",
+        "OpenID",
+        "Kerberos",
+        "None of the above",
+        "All of the Above"
+      ],
+      "Qtype": "SC",
+      "correct": "6",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "273",
+      "question": "Which of the following is a security advantage of managed code over unmanaged code?",
+      "choices": [
+        "Size of the attack surface",
+        "Number of roles",
+        "Number of lines of code",
+        "Size of the chroot jail",
+        "No advantage"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "274",
+      "question": "Which of the following is an advantage of using SSO?",
+      "choices": [
+        "\"User experience\" is improved as the user does not have to enter credentials for every new application access.",
+        "Reduces the number of \"passwords\" to remember, secure and manage. With SSO, a single login with user id and password enables \"secure\" access to multiple applications.",
+        "Simplifies \"identity & access management\". This is because single/same identity can now be centrally managed and securely propagated to all target applications or service providers.",
+        "A and B",
+        "All of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "5",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "275",
+      "question": "Which of the following is an example of applying the most restrictive set of operating system permissions to all application files?",
+      "choices": [
+        "Most critical privilege",
+        "Least Privilege",
+        "Separation of Duties",
+        "Weakest Link"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "276",
+      "question": "Which of the following is correct description for \"Accountability\" attribute?",
+      "choices": [
+        "Allow only authorized users to access authorized information",
+        "Provide information to authorized users as and when required",
+        "Preserve accuracy and completeness of information and information processing facility",
+        "Record all the transactions, changes, actions and decisions taken by the user/service/system in such a way that action owners are unable to deny(repudiate)an action.",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "277",
+      "question": "Which of the following is faster in Encryption?",
+      "choices": [
+        "Symmetric Encryption",
+        "Asymmetric Encryption",
+        "Both are equally fast"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "278",
+      "question": "Which of the following is indicative of Information Leakage vulnerability?",
+      "choices": [
+        "When the user logs in successfully -\"Hello username! \" is displayed.",
+        "The exception call stack is displayed.",
+        "The message \"Incorrect username or password! \" is displayed.",
+        "The message script error: \"Please contact the Web site administrator! \" is displayed"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "279",
+      "question": "Which of the following is Major challenge in Symmetric key cryptography?",
+      "choices": [
+        "Finding Best Algorithm",
+        "Communication Errors",
+        "Secure Key Exchange",
+        "Arithmetic Calculations",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "280",
+      "question": "Which of the following is not a cryptographic hash function?",
+      "choices": ["RIPEMD", "SHA-1", "Blowfish", "MD5"],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "281",
+      "question": "Which of the following is not a good secure coding practice for Password Management?",
+      "choices": [
+        "Avoid logging of passwords.",
+        "Use CAPTCHA for new registration or user sensitive information provided in forms",
+        "Implement Forgot Password functionality properly",
+        "Use default password or easy passwords to remember.",
+        "Use a secure channel (SSL/TLS) for communication."
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "282",
+      "question": "Which of the following is not ensured by Digital Signature?",
+      "choices": [
+        "Authentication",
+        "Integrity",
+        "Non-Repudiation",
+        "All of the above are provided by Digital Signature"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "283",
+      "question": "Which of the following is not ensured by Message Authentication Code (MAC)?",
+      "choices": [
+        "Authentication",
+        "Integrity",
+        "Non-Repudiation",
+        "All of the above are provided by MAC"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "284",
+      "question": "Which of the following is not supported Cookie Flag?",
+      "choices": ["HttpOnly", "Session", "Secure", "SameSite"],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "285",
+      "question": "Which of the following is responsible for most cases related to fraud and computer compromises?",
+      "choices": [
+        "Employees & Ignorance",
+        "Hackers & Expertise",
+        "Attackers & Rich Toolkits",
+        "Contractors & Abusers"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "286",
+      "question": "Which of the following is simplest form of Block Cipher?",
+      "choices": [
+        "Counter Mode",
+        "Cipher Block Chaining",
+        "Cipher Feedback Mode",
+        "Output Feedback Mode",
+        "Electronic Code Book"
+      ],
+      "Qtype": "SC",
+      "correct": "5",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "287",
+      "question": "Which of the following is the ability of users to deny that they performed specific actions or transactions?",
+      "choices": ["Repudiation", "Eavesdropping", "Spoofing", "Hijacking"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "288",
+      "question": "Which of the following is the best option when a user needs to ensure message integrity?",
+      "choices": [
+        "Send a digital signature of the message to the recipient",
+        "Encrypt the message with a symmetric algorithm and send it",
+        "Encrypt the message with a private key so the recipient can decrypt with the corresponding public key",
+        "Send an encrypted hash of the message along with the message to the recipient"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "289",
+      "question": "Which of the following is the correct statement with respect to a digital certificate?",
+      "choices": [
+        "A scanned copy of a paper certificate document is called a digital certificate",
+        "Voice signal converted from analog to digital signal during transmission on a PSTN network",
+        "An encryption mechanism for confirming the message sender and integrity of the message received",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "290",
+      "question": "Which of the following is the general approach for performing Threat Modeling?",
+      "choices": [
+        "Attacker-centric",
+        "Software-centric",
+        "Asset-centric",
+        "All of the above",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "291",
+      "question": "Which of the following is the least secure method of authentication?",
+      "choices": ["Keycard", "Fingerprint", "Retina", "Password"],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "292",
+      "question": "Which of the following is the most important principle that ensures secured use of a public key algorithm?",
+      "choices": [
+        "Protection of the private key",
+        "Distribution of the shared key",
+        "Integrity of the message",
+        "History of session keys"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "293",
+      "question": "Which of the following is the name of the process of comparing cryptographic hash functions of system executables, configuration files and log files?",
+      "choices": [
+        "Network based intrusion detection",
+        "File integrity auditing",
+        "Host based intrusion detection",
+        "Stateful packet filtering"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "294",
+      "question": "Which of the following is true about improper error handling?",
+      "choices": [
+        "Attackers can use error messages to extract specific information from a system",
+        "Attackers can use unexpected errors to knock an application off line, creating a denial-of-service attack",
+        "Attackers can use exposed error messages to craft more advanced attacks to gain system access",
+        "All of the above",
+        "None of the Above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "295",
+      "question": "Which of the following is true?",
+      "choices": [
+        "Both encryption and hashing are one-way operations",
+        "Encryption is a two-way operation while hashing is a one-way operation",
+        "Both encryption and hashing are two-way operations",
+        "Encryption is a one-way operation while hashing is a two-way operation"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "296",
+      "question": "Which of the following is used to prevent Clickjacking?",
+      "choices": [
+        "Content Security Policy",
+        "HTTP Secure",
+        "X Frame Options Http header",
+        "Prepared Statement"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "297",
+      "question": "Which of the following is used to retain confidentiality in a software?",
+      "choices": ["Encryption", "Hashing", "Redundancy", "None of the above"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "298",
+      "question": "Which of the following is used to retain integrity in a software?",
+      "choices": ["Encryption", "Hashing", "Recovery", "Redundancy"],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "299",
+      "question": "Which of the following level of security is included in threat modeling process?",
+      "choices": [
+        "Network security",
+        "Web security",
+        "Application security",
+        "All of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "300",
+      "question": "Which of the following options is not an appropriate way to make authentication mechanism secure?",
+      "choices": [
+        "Using encryption to store the authentication token",
+        "Setting an expiry date for the authentication token",
+        "Provide default access",
+        "Re-authenticate in case of sensitive transaction",
+        "All options are secure"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "301",
+      "question": "Which of the following statements is NOT true regarding Error Handling and Logging?",
+      "choices": [
+        "Never rely on the operating system, database, or hardware to handle errors",
+        "Your application\u2019s code should always include its own error handler.",
+        "All errors generated by internal components such as system calls, database queries, and other internal functions, should be handled by the application\u2019s exception handler",
+        "Never implement a generic error page",
+        "All the statements are true"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "302",
+      "question": "Which of the following technologies can lead to infringement of user privacy?",
+      "choices": [
+        "Search Engines",
+        "Google street view",
+        "Face recognition technology",
+        "All of the above",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "303",
+      "question": "Which of the following term refers to an activity which involves criminals searching through trash bins and waste cans to find sensitive information , or information that the criminal can use to appear more knowledgeable about the company or the company's procedures?",
+      "choices": [
+        "Dumpster Diving",
+        "Dumpster Driving",
+        "Dump Diving",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "304",
+      "question": "Which of the following Threat models integrated with DevOps easily?",
+      "choices": ["STRIDE", "VAST", "OCTAVE", "None of the above"],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "305",
+      "question": "Which of the following type of testing is carried out based on the threat mitigation plan generated during threat modeling?",
+      "choices": [
+        "Integration Testing",
+        "Penetration Testing",
+        "Unit Testing",
+        "All of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "306",
+      "question": "Which of these following statements about consent is false:",
+      "choices": [
+        "Organizations can generally rely on implied consent when the information is likely to be considered sensitive.",
+        "The consent mechanism chosen should be clear and unambiguous.",
+        "Consent can be obtained in a number of different ways, such as in person, by phone, or even via the Internet etc.",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "307",
+      "question": "Which of these is not an application of cryptographic hashing?",
+      "choices": [
+        "Verifying the integrity of files or messages",
+        "File or data identifier",
+        "Digital Signature",
+        "Encryption",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "308",
+      "question": "Which of these is NOT true in case of secure Cryptographic Hash function?",
+      "choices": [
+        "It is not feasible to find two different messages with the same hash",
+        "It is not feasible to generate a message from a given hash",
+        "It is not feasible to modify a message without changing the hash",
+        "It is not feasible to compute the hash value for any message",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "309",
+      "question": "Which of these is provided as input for threat modeling?",
+      "choices": [
+        "Use cases and usage scenarios",
+        "Data flows",
+        "Data schemas",
+        "Deployment diagrams",
+        " All of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "5",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "310",
+      "question": "Which of these standard(s) say Medical prescription of an individual is a private information and should be protected against disclosure?",
+      "choices": ["PCI", "HIPAA", "Both of the above", "None of the above"],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "311",
+      "question": "Which one is not a part of Microsoft STRIDE method for rating risk while creating threat model for an application?",
+      "choices": ["Security", "Tampering", "Repudiation", "Denial of Service"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "312",
+      "question": "Which one of the following is true?",
+      "choices": [
+        "Do not use outdated hashing algorithms like MD5",
+        "Do not use two-way encryption unless you really need to retrieve the clear-text password",
+        "Do not come up with your own encryption schemes and depend on standard algorithms",
+        "All the above",
+        "Only 1 & 2 options are correct"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "313",
+      "question": "Which one of the following are generally used as threat modeling diagrams?",
+      "choices": [
+        "Data Flow Diagrams",
+        "Finite Automata Diagrams",
+        "Deterministic Finite Automata Diagrams",
+        "Non - Deterministic Finite Automata Diagrams"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "314",
+      "question": "Which one of the following is an advantage of Threat Modeling performed for application design review?",
+      "choices": [
+        "Help analyze and assess design level security",
+        "Helps in formulation of security test plan and test cases",
+        "Reduction of ongoing software support costs",
+        "All of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "315",
+      "question": "Which one of the following is not a part of DREAD method for rating risk?",
+      "choices": [
+        "Damage potential",
+        "Risk Analysis",
+        "Exploitability",
+        "Affected Users",
+        "Discoverability"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "316",
+      "question": "Which one of the following is NOT a property of hash function?",
+      "choices": [
+        "Two-way",
+        "Collision resistant",
+        "Deterministic",
+        "Avalanche effect"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "317",
+      "question": "Which one of the issue can be considered as Security misconfiguration?",
+      "choices": [
+        "Error Handling",
+        "Directory Listing",
+        "Broken Access Control",
+        "All of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "318",
+      "question": "Which option is correct about hash algorithm' s ability to avoid the same output from two guessed inputs?",
+      "choices": [
+        "Collision ability",
+        "Collision metric",
+        "Collision resistance",
+        "Collision strength"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "319",
+      "question": "Which process determines the actions and behaviours of a single individual within a system and identifies that particular individual?",
+      "choices": [
+        "Authentication",
+        "Accountability",
+        "Authorization",
+        "Non-repudiation"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "320",
+      "question": "Which specific security strategy mitigates the risk of a single security control being compromised by providing multiple layers of security controls?",
+      "choices": [
+        "Secure-by-default",
+        "Secure-by-design",
+        "Defence-in-depth",
+        "Defence-by-design"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "321",
+      "question": "Which type of users should be allowed to use system accounts?",
+      "choices": [
+        "Ordinary users",
+        "Security administrators",
+        "System administrators",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "322",
+      "question": "Which type of vulnerability allows an attacker to execute a malicious script in a user browser?",
+      "choices": [
+        "Cross Site Scripting",
+        "Injection Flaw",
+        "Insecure Direct Object Reference",
+        "Failure to restrict URL access"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "323",
+      "question": "Which vulnerabiltiy can lead to Denial of Service attack?",
+      "choices": [
+        "Cross site scripting",
+        "Cross Site Request Forgery",
+        "XXE",
+        "Session Hijacking"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "324",
+      "question": "While performing threat modeling for an application design, which one of the following is the formula for calculating Risk Score?",
+      "choices": [
+        "(Probability of Occurrance * No Of Threats) + Business Impact",
+        "Business Impact * No Of Threats",
+        "Probability of Occurrance * No Of Threats",
+        "Probability of Occurrance * Business Impact"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "325",
+      "question": "While performing threat modeling, we need to consider which aspects?",
+      "choices": [
+        "People",
+        "Process",
+        "Technology",
+        "All of the above",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "326",
+      "question": "Why is \"non repudiation\" a very desirable trait?",
+      "choices": [
+        "It establishes traceability of every action done by the user",
+        "It is impossible to deny an action in some critical situations",
+        "It is a forensic analysis mechanism",
+        "All of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "327",
+      "question": "Why is it not a good idea to include readymade code from Google search into the customer application deliverables even though it may save a lot of time and cost for the project?",
+      "choices": [
+        "It may be copyrighted and cannot be used without explicit permission, payment or formal credit to the creator",
+        "It may carry spyware, backdoors or some form of malicious code",
+        "It may breach the service agreement with the customer if done without approval",
+        "All of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "328",
+      "question": "Why is one time password safe?",
+      "choices": [
+        "It is easy to generate",
+        "It cannot be shared",
+        "It is different for every access",
+        "It is encrypted password"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "329",
+      "question": "You are one of those who is taking care of application security in your application. One of your team mates asks you, \"Why we need such sophisticated SSO \"solutions\" when the simplest SSO solution is to simply capture logged in user's login credentials (id, password) and circulate to all concerned service providers or apps? Those service providers or apps can then re-authenticate the user using the provided credentials. Simple!\". As an application security care-taker, which one of the following should be your response to your team mate?",
+      "choices": [
+        "Agree to his proposal.",
+        "Disagree. \"One of the goals of the SSO concept was to eliminate the need to key-in (multiple) passwords multiple times and thus eliminate circulation of password(s) to gain access to multiple applications/systems. So, though your SSO solution sounds simple, it's not at all secure and it's against the principles of SSO.\"",
+        "Agree to his proposal. Along with it we need to implement secure token based authentication.",
+        "None of the above."
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "",
+      "feedback": ""
+    },
+    {
+      "id": "330",
+      "question": "Your application sets a cookie with Secure attribute. What does this mean?",
+      "choices": [
+        "Client will send the cookie only over an HTTPS connection",
+        "Client will not send cookie",
+        "Client will send cookie over HTTP connection",
+        "Client will not save cookie"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "",
+      "feedback": ""
+    }
+  ]
+]
