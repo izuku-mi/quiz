@@ -1,0 +1,2771 @@
+[
+  [
+    {
+      "id": "1",
+      "question": "Brainstorming is a process for generating several ideas in a short period of time. Is this statement True or False?",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Causal Analysis",
+      "feedback": ""
+    },
+    {
+      "id": "2",
+      "question": "Identify whether the following statement is True or False: Use of document / coding standards is a part of 'Defect Prevention'.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Causal Analysis",
+      "feedback": ""
+    },
+    {
+      "id": "3",
+      "question": "Root Cause Analysis (RCA) seeks to identify the root cause of the problem rather than treat the effects / symptoms. Is this statement True or False?",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Causal Analysis",
+      "feedback": ""
+    },
+    {
+      "id": "4",
+      "question": "What are the different means of preventing defects from occurring and recurring?",
+      "choices": [
+        "Ensuring team is adequately trained for the job in hand",
+        "Using a tool for defect management",
+        "Using re-usable components wherever possible",
+        "Using standards, templates and checklists",
+        "Ensuring defect closure before deployment of deliverable",
+        "Referring Best Practices by other similar projects, for possible adoption"
+      ],
+      "Qtype": "MC",
+      "correct": "1,3,4,6",
+      "section name": "Causal Analysis",
+      "feedback": ""
+    },
+    {
+      "id": "5",
+      "question": "Which tool helps in identifying the top 20% of the causes creating 80% of the problems?",
+      "choices": [
+        "Scatter Diagram",
+        "Pareto Analysis",
+        "5 Why Analysis",
+        "Brainstorming"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Causal Analysis",
+      "feedback": ""
+    },
+    {
+      "id": "151",
+      "question": "A high severity defect has been identified in a business critical application in User Acceptance Testing (UAT). The Project Manager (PM) calls for a team meeting to identify solutions. The team comes up with three different solutions. PM requests the team to rate the three solutions with respect to time to implement and effectiveness. Which of the following causal analysis techniques can be used here?",
+      "choices": [
+        "Nominal Group Technique",
+        "Hypothesis Testing",
+        "Brainstorming",
+        "Correlation Analysis"
+      ],
+      "Qtype": "MC",
+      "correct": "1,3",
+      "section name": "Causal Analysis",
+      "feedback": ""
+    },
+    {
+      "id": "152",
+      "question": "A project team is looking at identifying the root cause of bugs detected in UAT. They conducted a brainstorming session within the team and collected sticky notes listing the various causes that could have resulted in the UAT defects. To drill down on each, they can use one of the following tools:",
+      "choices": [
+        "Fishbone Diagram",
+        "Criteria-based Matrix",
+        "Pareto",
+        "Gantt Chart"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Causal Analysis",
+      "feedback": ""
+    },
+    {
+      "id": "153",
+      "question": "After delivering the software to your Customer, the Customer has reported few defects. You have been asked by your supervisor to analyse the defects, find out the top three causes for the defects and take necessary actions. Which technique will you use?",
+      "choices": [
+        "Pareto Analysis",
+        "Pie Chart",
+        "SWOT Analysis",
+        "Brainstorming"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Causal Analysis",
+      "feedback": ""
+    },
+    {
+      "id": "154",
+      "question": "Causal analysis technique which does not include any data segmentation or usage of any statistical concept is:",
+      "choices": [
+        "Scatter Diagram",
+        "Pareto Analysis",
+        "5 Why Analysis",
+        "Histogram"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Causal Analysis",
+      "feedback": ""
+    },
+    {
+      "id": "155",
+      "question": "Effort spent on root cause analysis and defect prevention activities in a project is linked to:",
+      "choices": ["Appraisal Cost", "Prevention Cost", "Failure Cost"],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Causal Analysis",
+      "feedback": ""
+    },
+    {
+      "id": "156",
+      "question": "In which of the following situations, while managing a project, you will perform causal analysis?",
+      "choices": [
+        "Defects are reported in project deliverables",
+        "Project gets low Customer Satisfaction Index (CSI) rating",
+        "Project fails to meet the timelines for deliverables",
+        "Project consumes more than budgeted efforts",
+        "Project gets CSI above target for the first time",
+        "All of the above"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,3,4",
+      "section name": "Causal Analysis",
+      "feedback": ""
+    },
+    {
+      "id": "157",
+      "question": "The Project XYZ has been receiving CSI above 90%, consistently for past three half years. Project Manager (PM) needs to perform analysis of this performance.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Causal Analysis",
+      "feedback": ""
+    },
+    {
+      "id": "158",
+      "question": "Which of the following things will help you to arrive at corrective actions for identified defect / problem / non-conformity?",
+      "choices": [
+        "Analysis of past data",
+        "Analysis of specific detected problem / defect / non-conformity and its cause",
+        "Lessons learnt shared by other similar entities",
+        "Best practices shared by other similar entities",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Causal Analysis",
+      "feedback": ""
+    },
+    {
+      "id": "159",
+      "question": "You are managing a Development project. After completion of System Testing, you have performed analysis of defect data along with Defect Prevention (DP) Prime. Cause wise defect distribution indicated that more than 75% of the defects are due to causes - \"Incorrect coding\" and \"Incorrect testing\". Which technique did you use for the analysis?",
+      "choices": [
+        "Nominal Group Technique",
+        "Structured Brainstorming",
+        "5 Whys",
+        "Pareto Analysis",
+        "Cause and Effect Analysis"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Causal Analysis",
+      "feedback": ""
+    },
+    {
+      "id": "160",
+      "question": "You are managing a Development project. High number of defects identified during System Testing is your concern. What is the most logical sequence of steps to be followed to systematically analyse the situation? 1. Identify possible causes for each factor, through brainstorming 2. Drill down to root causes for causes to be controlled using 5 Whys 3. Clearly define the situation/problem to be analysed 4. Identify / Prioritise the causes to be controlled 5. Work out action plan to address controllable root causes 6. Identify the factors contributing to the problem situation",
+      "choices": [
+        "3, 6, 1, 4, 2, 5",
+        "3, 1, 6, 4, 2, 5",
+        "6, 1, 4, 2, 5, 3",
+        "3, 1, 6, 4, 5, 2"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Causal Analysis",
+      "feedback": ""
+    },
+    {
+      "id": "161",
+      "question": "You are managing a large Testing project where in one of the release cycles, a high number of defects were rejected by one of the project teams as \"Invalid Defects\". You called for a meeting with the selected team members to seek their inputs on high percentage of \"Invalid Defects\" and perform further analysis. Which causal analysis technique is being used here?",
+      "choices": [
+        "Brainstorming",
+        "Pareto Analysis",
+        "5 Why",
+        "Nominal Group Technique"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Causal Analysis",
+      "feedback": ""
+    },
+    {
+      "id": "162",
+      "question": "You are the Project Manager (PM) for a Development project doing releases in phases. No major User Acceptance (UA) defect has been identified during last four releases of your project. Customer has appreciated the quality of deliverables and has sent a special note to your Delivery Partner.",
+      "choices": [
+        "This situation does not need any further analysis",
+        "This situation requires analysis of superior product quality to identify causes of success",
+        "This situation demands the project processes to be showcased",
+        "This situation demands sharing the causes of success with other projects",
+        "This situation demands to perform an analysis to ensure process compliance"
+      ],
+      "Qtype": "MC",
+      "correct": "2,4",
+      "section name": "Causal Analysis",
+      "feedback": ""
+    }
+  ],
+  [
+    {
+      "id": "6",
+      "question": "All deliverables are configurable items, but all configurable items are not deliverables. Is this statement True or False?",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Configuration Management",
+      "feedback": ""
+    },
+    {
+      "id": "7",
+      "question": "In which of the following scenarios should you place a work product created in your project under configuration management?",
+      "choices": [
+        "When the work product is ready for testing",
+        "In any stage of project life-cycle",
+        "Depending on the degree of control desired for the work product",
+        "Stakeholder requirements",
+        "All of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "5",
+      "section name": "Configuration Management",
+      "feedback": ""
+    },
+    {
+      "id": "8",
+      "question": "The Configuration Management is an optional approach for a project to help out with the documentation. Is this statement True or False?",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Configuration Management",
+      "feedback": ""
+    },
+    {
+      "id": "9",
+      "question": "When should the project update the Configuration Register?",
+      "choices": [
+        "When a project deliverable is identified as part of a baseline.",
+        "When a project deliverable is taken up for construction.",
+        "When a project deliverable is taken up for rework.",
+        "All of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Configuration Management",
+      "feedback": ""
+    },
+    {
+      "id": "10",
+      "question": "Which among the following could be the configurable item in your project?",
+      "choices": [
+        "Design Specification",
+        "Source code",
+        "MoM of a meeting with Customer",
+        "Test plans",
+        "Requirements Document",
+        "User Manual"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,4,5,6",
+      "section name": "Configuration Management",
+      "feedback": ""
+    },
+    {
+      "id": "11",
+      "question": "Which of the following is the main reason for establishing a baseline in your project?",
+      "choices": [
+        "For standardising operations",
+        "For knowing the cost of services provided",
+        "For clarity of the roles and responsibilities in your project",
+        "For later comparison"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Configuration Management",
+      "feedback": ""
+    },
+    {
+      "id": "12",
+      "question": "Which of the following items in your project may not be placed under Configuration Control?",
+      "choices": [
+        "Project Plan",
+        "Software Code",
+        "Requirements Document",
+        "Weekly Status report"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Configuration Management",
+      "feedback": ""
+    },
+    {
+      "id": "107",
+      "question": "In a large development team, how often should the developer synchronise the local code with that in the version control system?",
+      "choices": [
+        "Once in the morning before starting the day's work",
+        "Once in the evening before finishing the day's work",
+        "Whenever they feel like",
+        "When they are finished with their testing and are ready to integrate their code with others"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Configuration Management",
+      "feedback": ""
+    },
+    {
+      "id": "108",
+      "question": "In a large development team, the developers can choose to work on their own specific version of the Integrated Development Environment (IDE). Is this statement True or False?",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Configuration Management",
+      "feedback": ""
+    }
+  ],
+  [
+    {
+      "id": "13",
+      "question": "Feedback from the Customer through Customer Satisfaction Survey (CSS) form is usually taken once in a half year. Is this statement True or False?",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Customer Feedback Management",
+      "feedback": ""
+    },
+    {
+      "id": "14",
+      "question": "What is the frequency of collecting Customer appreciation and complaints?",
+      "choices": ["As and when received", "Weekly", "Monthly", "Never"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Customer Feedback Management",
+      "feedback": ""
+    },
+    {
+      "id": "185",
+      "question": "CSS is not applicable for T&M projects.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Customer Feedback Management",
+      "feedback": ""
+    },
+    {
+      "id": "186",
+      "question": "CSS is typically initiated:",
+      "choices": [
+        "At the end of the project",
+        "At the end of six months",
+        "At the end of four months",
+        "At the end of the project or at the end of six months, whichever is earlier",
+        "At the end of the project or at the end of four months, whichever is earlier"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Customer Feedback Management",
+      "feedback": ""
+    },
+    {
+      "id": "187",
+      "question": "Customer Satisfaction Survey (CSS) consists of questions only related to project deliverables.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Customer Feedback Management",
+      "feedback": ""
+    },
+    {
+      "id": "188",
+      "question": "If a Customer does not provide feedback through the CSS form despite repeated follow-ups, the DP / EO / PM will use alternative methods of obtaining Customer feedback like meeting with Customer, informal / formal discussions.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Customer Feedback Management",
+      "feedback": ""
+    },
+    {
+      "id": "189",
+      "question": "In your project, you are working with multiple Customer stakeholders. You need to obtain Customer Satisfaction Survey (CSS) feedback:",
+      "choices": [
+        "Only from your Customer Project Manager",
+        "All the relevant Customer stakeholders",
+        "Only the Customer stakeholders who have been appreciating the project",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Customer Feedback Management",
+      "feedback": ""
+    },
+    {
+      "id": "190",
+      "question": "Internal projects need not receive feedback from their Customers.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Customer Feedback Management",
+      "feedback": ""
+    },
+    {
+      "id": "191",
+      "question": "The Customer had complained about the quality of the deliverables. You had taken some corrective actions in the project. How will the DP /EO verify the appropriateness of the corrective actions taken?",
+      "choices": [
+        "By Customer interaction",
+        "By writing formal letter to the Customer",
+        "Both the options",
+        "None of the options"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Customer Feedback Management",
+      "feedback": ""
+    },
+    {
+      "id": "192",
+      "question": "There are multiple projects in your account under the same Customer Manager. One of the projects has received Customer Satisfaction Survey (CSS) feedback. Other projects can use the same feedback and need not initiate CSS as the Customer Manager is same for all projects.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Customer Feedback Management",
+      "feedback": ""
+    },
+    {
+      "id": "193",
+      "question": "What does the Loyalty parameter in the CSS form reflect?",
+      "choices": [
+        "Loyalty of Customer among other Customers",
+        "Customer would recommend TCS within and outside Customer organisation",
+        "Customer would recommend project lead within and outside Customer organisation",
+        "All of the above",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Customer Feedback Management",
+      "feedback": ""
+    },
+    {
+      "id": "194",
+      "question": "What is the most appropriate sequence in which the following steps should be performed by Project Manager (PM) for receiving CSS? A) Orient the Customer on the CSS process B) Identify Customer managers to whom the survey needs to be sent C) Set CSS Applicability, Feedback Format and Calendar for the project D) Initiate CSS survey invite E) Highlight the key value additions and milestones accomplished during the feedback period to the Customer Manager",
+      "choices": [
+        "A, B, C, D and E",
+        "D, E, B, A and E",
+        "C, B, E, A and D",
+        "A, C, E, B and D"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "Customer Feedback Management",
+      "feedback": ""
+    },
+    {
+      "id": "195",
+      "question": "Which among the following feedback is considered best for TCS?",
+      "choices": [
+        "CSI = 95%, TCS Rank = Second, Recommendation Rating = Probably Yes",
+        "CSI = 95%, TCS Rank = First, Recommendation Rating = Probably Yes",
+        "CSI = 95%, TCS Rank = Second, Recommendation Rating = Definitely Yes",
+        "CSI = 95%, TCS Rank = First, Recommendation Rating = Definitely Yes",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Customer Feedback Management",
+      "feedback": ""
+    },
+    {
+      "id": "196",
+      "question": "You have been asked to collect the first Customer Satisfaction Survey (CSS) for your project. Which format would you choose to collect the CSS?",
+      "choices": [
+        "TCS format",
+        "Format approved by IOU head",
+        "TCS format / Customer provided format",
+        "Format approved by Delivery Excellence Partner (DEP)"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "Customer Feedback Management",
+      "feedback": ""
+    },
+    {
+      "id": "197",
+      "question": "You have received a Customer Satisfaction Index (CSI) of 100% for your project. Your Customer has provided remarks in the \"Top 3 Strengths of TCS\" and \"Top 3 Improvement Opportunities\" section in the CSS form. You need not take any actions on the feedback.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Customer Feedback Management",
+      "feedback": ""
+    },
+    {
+      "id": "198",
+      "question": "You have received a Customer Satisfaction Index (CSI) of 95% from your Customer Manager. The same manager had given a CSI of 100% last time. Since the current CSI is very good, there is no need to analyse and take any action now.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Customer Feedback Management",
+      "feedback": ""
+    },
+    {
+      "id": "199",
+      "question": "You have received the Customer Satisfaction Survey (CSS) for your project from the Customer. Which among the following conditions would you perform the Causal analysis of Customer feedback:",
+      "choices": [
+        "If the Customer has rated at least one attribute as âNeither Agree nor Disagree' or âDisagreeâ or âStrongly Disagreeâ",
+        "If the Customer has only rated âStrongly Disagreeâ for at least any one of the attributes",
+        "If the Customer has only rated âStrongly Disagreeâ or âDisagreeâ for at least any one of the attributes",
+        "None of the options"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Customer Feedback Management",
+      "feedback": ""
+    },
+    {
+      "id": "200",
+      "question": "You will consider defects found in the products and deliverables as Customer complaints.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Customer Feedback Management",
+      "feedback": ""
+    },
+    {
+      "id": "201",
+      "question": "Your Customer Manager has changed since last Customer Satisfaction Survey (CSS) and this time you are going to initiate CSS with the new manager. You should:",
+      "choices": [
+        "Send the survey directly to the Customer",
+        "Educate your Customer on CSS process before sending the survey",
+        "Brief your Customer about the actions taken on the previous feedback",
+        "B and C"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Customer Feedback Management",
+      "feedback": ""
+    },
+    {
+      "id": "202",
+      "question": "Your project has got complaints from the Customer for a few severity 1 defects in the recent delivery. What will be the sequence of steps for addressing the complaint? 1. Immediately acknowledge the complaint 2. Analyse the root cause of the complaint 3. Inform your supervisor 4. Resolve the complaint 5. Record Customer complaint in IPMS",
+      "choices": [
+        "1, 4, 3, 5, 2",
+        "2, 1, 3, 4, 5",
+        "1, 3, 5, 4, 2",
+        "5, 1, 3, 4, 2"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "Customer Feedback Management",
+      "feedback": ""
+    },
+    {
+      "id": "203",
+      "question": "Your project has received CSS offline in the Customer format. What should you do in this case?",
+      "choices": [
+        "Get the same uploaded in Prime",
+        "Collect the CSS again in TCS format using IPMS",
+        "Ignore the feedback since the format is not correct",
+        "Maintain it offline"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Customer Feedback Management",
+      "feedback": ""
+    },
+    {
+      "id": "204",
+      "question": "Your project will be due for Customer Satisfaction Survey (CSS) feedback in two weeks from now. However, there are three months left for half year closure. You will:",
+      "choices": [
+        "Not plan for CSS now, as still three months are left for half year closure",
+        "Plan for a discussion with your Customer to share the project's achievements and then initiate CSS to ensure it is received by due date",
+        "Initiate feedback after 2 weeks",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Customer Feedback Management",
+      "feedback": ""
+    }
+  ],
+  [
+    {
+      "id": "20",
+      "question": "In the ETVX model, 'X' is often equivalent to:",
+      "choices": [
+        "Phase gate",
+        "Check gate",
+        "EXIT criteria",
+        "Phase gate and Check gate",
+        "Check gate and EXIT criteria"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "Engineering, V&V",
+      "feedback": ""
+    },
+    {
+      "id": "27",
+      "question": "The effort spent on preventing, detecting and fixing defects is collectively known as:",
+      "choices": [
+        "Cost of Defect",
+        "Cost of Quality",
+        "Cost of Review",
+        "Cost of Rework"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Engineering, V&V",
+      "feedback": ""
+    },
+    {
+      "id": "36",
+      "question": "While analysing the defects detected during an internal review, the team identified an error like - âNot enough time was allocated to complete the activity and hence an error occurred\". Which of the following is the appropriate cause type for this situation?",
+      "choices": [
+        "Estimation was not done properly",
+        "Lack of resources",
+        "Infrastructure unavailable",
+        "Inadequate Self Review"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Engineering, V&V",
+      "feedback": ""
+    },
+    {
+      "id": "38",
+      "question": "You have received the validated requirements document for your project. Before you start on a design for the project, which of the following tasks you should perform?",
+      "choices": [
+        "Develop alternative solutions and selection criteria",
+        "Finalise the solution based on selection criteria",
+        "Prepare HLD / LLD",
+        "Develop Interface design"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2",
+      "section name": "Engineering, V&V",
+      "feedback": ""
+    }
+  ],
+  [
+    {
+      "id": "82",
+      "question": "An associate has joined as a Developer in a project being executed using the Agile methodology. Where can this associate find the different phases of the Agile Project?",
+      "choices": [
+        "Development Process Handbook in iQMS Wiki",
+        "Agile Process Handbook in the local project folder",
+        "Agile Execution Handbook in iQMS Wiki",
+        "Agile Process Handbook on the Internet"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "iQMS Overview",
+      "feedback": ""
+    },
+    {
+      "id": "89",
+      "question": "Onsite component of a project need not follow iQMS processes. Is this statement True or False?",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "iQMS Overview",
+      "feedback": ""
+    },
+    {
+      "id": "98",
+      "question": "Which of the following are the possible items for reuse?",
+      "choices": [
+        "Standards, Guidelines, Checklists",
+        "Procedures",
+        "Tools and Techniques",
+        "All of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "iQMS Overview",
+      "feedback": ""
+    },
+    {
+      "id": "121",
+      "question": "âTo make TCS reliable, resilient and immune to the existing and evolving volatile environment of constant changes, accidents, attacks and failures, so as to enable all our stakeholders Experience Certaintyâ, this statement is:",
+      "choices": ["Quality Policy", "Security Policy"],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "iQMS Overview",
+      "feedback": ""
+    },
+    {
+      "id": "123",
+      "question": "A process ...?",
+      "choices": [
+        "Is the work you do",
+        "Can be broken down into steps.",
+        "Consists of connected steps that lead to predictable results.",
+        "All of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "iQMS Overview",
+      "feedback": ""
+    },
+    {
+      "id": "124",
+      "question": "Deliverables by TCS are:",
+      "choices": ["Software", "Services"],
+      "Qtype": "MC",
+      "correct": "1,2",
+      "section name": "iQMS Overview",
+      "feedback": ""
+    },
+    {
+      "id": "125",
+      "question": "For a leading bank of the USA, TCS is developing multiple applications, delivered from various locations such as India, China and Brazil. Though TCS is delivering different applications from different locations, Customer is getting same quality of applications and service. This is an example of:",
+      "choices": [
+        "Customer Satisfaction",
+        "One Global Service Standard",
+        "Quality",
+        "Service Guarantee"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "iQMS Overview",
+      "feedback": ""
+    },
+    {
+      "id": "126",
+      "question": "Guidelines, forms, checklists, standards are:",
+      "choices": [
+        "Guiding Principle, Mandates",
+        "What to do?",
+        "How to do?",
+        "Enablers / Aids / Help"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "iQMS Overview",
+      "feedback": ""
+    },
+    {
+      "id": "127",
+      "question": "iQMS includes:",
+      "choices": [
+        "Policy",
+        "Process Handbooks",
+        "Procedures Manuals",
+        "Guidelines",
+        "Standards",
+        "Checklists"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,3,4,5,6",
+      "section name": "iQMS Overview",
+      "feedback": ""
+    },
+    {
+      "id": "129",
+      "question": "Match the following: A. Guidelines 1. PM Handover checklist B. Standards 2. Planning guidelines C. Checklist 3. Java, .Net standards D. Template 4. Defect Log template",
+      "choices": [
+        "A-1, B-2, C-3 and D-4",
+        "A- 2, B-3, C-1 and D-4",
+        "A-4, B-3, C-2 and D-1",
+        "A-3, B-2, C-1 and D-4"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "iQMS Overview",
+      "feedback": ""
+    },
+    {
+      "id": "130",
+      "question": "Organisation structure of TCS can be found in:",
+      "choices": [
+        "Process Handbooks",
+        "Quality Manual",
+        "Project Procedures Manual",
+        "Project Planning Guidelines"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "iQMS Overview",
+      "feedback": ""
+    },
+    {
+      "id": "131",
+      "question": "Policy is:",
+      "choices": [
+        "Guiding Principle, Mandate",
+        "What to do?",
+        "How to do?",
+        "Enablers / Aids / Help"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "iQMS Overview",
+      "feedback": ""
+    },
+    {
+      "id": "132",
+      "question": "Procedures Manual covers:",
+      "choices": [
+        "Guiding Principle, Mandates",
+        "What to do?",
+        "How to do?",
+        "Enablers / Aids / Help"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "iQMS Overview",
+      "feedback": ""
+    },
+    {
+      "id": "133",
+      "question": "Process Handbook covers:",
+      "choices": [
+        "Guiding Principle, Mandates",
+        "What to do?",
+        "How to do?",
+        "Enablers / Aids / Help"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "iQMS Overview",
+      "feedback": ""
+    },
+    {
+      "id": "134",
+      "question": "TCS standardised processes are defined in:",
+      "choices": [
+        "KNOWMAX",
+        "Integrated Quality Management System (iQMS)",
+        "Integrated Project Management System",
+        "Knome"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "iQMS Overview",
+      "feedback": ""
+    },
+    {
+      "id": "135",
+      "question": "The Quality Policy of TCS is:",
+      "choices": [
+        "To achieve customer and other stakeholders' satisfaction by delivering solutions which meet their needs and expectations.",
+        "To become the top most IT Services Organisation across the globe",
+        "To ensure \"Experience Certainty\"",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "iQMS Overview",
+      "feedback": ""
+    },
+    {
+      "id": "136",
+      "question": "What is Quality?",
+      "choices": [
+        "Meeting Requirements",
+        "Meeting customer expectations",
+        "None",
+        "1 and 2"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "iQMS Overview",
+      "feedback": ""
+    },
+    {
+      "id": "137",
+      "question": "Which is the primary document to be referred by a Team Member (TM) to know the scope, activities and environment procedures to be followed in the project?",
+      "choices": [
+        "Handover Takeover Checklist",
+        "Induction Manual",
+        "Project Log",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "iQMS Overview",
+      "feedback": ""
+    },
+    {
+      "id": "138",
+      "question": "Which of the following are Process Handbooks in iQMS?",
+      "choices": [
+        "Development Process handbooks",
+        "Application Operations Process Handbook",
+        "Testing process handbooks",
+        "Guidelines for Reviews and Testing",
+        "Project Procedures manual"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,3",
+      "section name": "iQMS Overview",
+      "feedback": ""
+    },
+    {
+      "id": "139",
+      "question": "Which tool enables the deployment of Integrated Quality Management System (iQMS)?",
+      "choices": ["TQAS", "Prime", "PWB", "iEST", "All of the above"],
+      "Qtype": "SC",
+      "correct": "5",
+      "section name": "iQMS Overview",
+      "feedback": ""
+    },
+    {
+      "id": "140",
+      "question": "Which type of documents, available in iQMS Wiki, define the various lifecycle models covering the phases, associated activities, their relationships and relevant work products?",
+      "choices": [
+        "Coding Standards",
+        "Project Plan",
+        "Process Handbooks",
+        "Procedures Manual"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "iQMS Overview",
+      "feedback": ""
+    },
+    {
+      "id": "141",
+      "question": "You have been allocated to a Testing project. Arrange the following phases in right sequence which you will follow in your project. 1. Test Execution 2. Test Planning 3. Test Completion 4. Test Design",
+      "choices": [
+        "2, 4, 1 and 3",
+        "1, 2, 3 and 4",
+        "4, 3, 2 and 1",
+        "1, 4, 3 and 2"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "iQMS Overview",
+      "feedback": ""
+    },
+    {
+      "id": "142",
+      "question": "You have joined a Testing Project. You want to know what processes should be followed. Where can you find the Testing Process Handbook?",
+      "choices": ["KNOWMAX", "iQMS Wiki", "Knome", "All of the above"],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "iQMS Overview",
+      "feedback": ""
+    }
+  ],
+  [
+    {
+      "id": "44",
+      "question": "All associates can contribute assets in Prime HUBs, Smart Drive. Is this statement True or False?",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Knowledge Management",
+      "feedback": ""
+    },
+    {
+      "id": "45",
+      "question": "Which is the preferred platform to share Best Practices or Lessons Learnt?",
+      "choices": ["Knome", "Prime HUBs", "Smart Drive"],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Knowledge Management",
+      "feedback": ""
+    },
+    {
+      "id": "46",
+      "question": "As part of knowledge transition, you are going through an architecture diagram shared by the Customer. You need to induct associates in your team using this knowledge. How will you manage such a customer confidential asset?",
+      "choices": [
+        "Save this in the Customer network / Customer provided repository",
+        "Download and save in your personal computer",
+        "Upload in TCS KM Platform and secure access",
+        "All of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Knowledge Management",
+      "feedback": ""
+    },
+    {
+      "id": "47",
+      "question": "Identify the Knowledge Platforms in TCS.",
+      "choices": ["KNOWMAX", "Mindworks", "Smart Drive", "iQMS Wiki"],
+      "Qtype": "MC",
+      "correct": "1,2,3,4",
+      "section name": "Knowledge Management",
+      "feedback": ""
+    },
+    {
+      "id": "48",
+      "question": "Tacit Knowledge can be shared during which of the following initiatives:",
+      "choices": [
+        "Brainstorming sessions",
+        "Debriefing sessions",
+        "Collaboration in KM Platforms",
+        "All of these"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Knowledge Management",
+      "feedback": ""
+    },
+    {
+      "id": "49",
+      "question": "Which iQMS document has the TCS organisation structure, policies and the key roles responsible for managing the business and the quality management functions?",
+      "choices": [
+        "Quality Manual",
+        "Project Procedures Manual",
+        "Development Process Handbook",
+        "Project Plan"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Knowledge Management",
+      "feedback": ""
+    },
+    {
+      "id": "50",
+      "question": "Which of the following is the best phase to assess the knowledge gaps in a project and plan ahead in closing such gaps so that the project does not face any glitches during its life-cycle?",
+      "choices": [
+        "At frequent intervals during the project life-cycle",
+        "Project start- up",
+        "Project Milestones",
+        "When brought to notice by Customer / associates"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Knowledge Management",
+      "feedback": ""
+    },
+    {
+      "id": "51",
+      "question": "While working in a project, you have created an Best Practice/Lesson Learnt that you would like to share with others in Smart Drive. What measures will you take before sharing the artefact?",
+      "choices": [
+        "Review the artefact and mask any confidential information about clients",
+        "Publish the artefact in Smart Drive and follow-up through the review workflow",
+        "Get the artefact reviewed by your immediate supervisor",
+        "Upload them on Smart Drive and share amongst your friends"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,3,4",
+      "section name": "Knowledge Management",
+      "feedback": ""
+    },
+    {
+      "id": "52",
+      "question": "Who will identify the initiatives to harvest knowledge from associates within the units and accounts?",
+      "choices": ["Knowledge Manager", "Knowledge Officer", "DEH", "DEP"],
+      "Qtype": "MC",
+      "correct": "2,3",
+      "section name": "Knowledge Management",
+      "feedback": ""
+    },
+    {
+      "id": "53",
+      "question": "You would like to submit a code snippet in the reusable platform. Arrange the following in the sequence for the process that you will adopt: 1. Upload the re-usable component in Reuse Platform 2. Identify the re-usable component and ensure that the component is not bound by IPR / Contractual Clauses 3. Validate the re-usable component by reviewer and publish the validate component 4. Identify IOU reviewer by the system to validate the re-usable component",
+      "choices": ["1,2,4,3", "2,1,4,3", "3,2,1,4", "4,2,3,1"],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Knowledge Management",
+      "feedback": ""
+    }
+  ],
+  [
+    {
+      "id": "54",
+      "question": "A Customer has asked for data on the percentage of deliveries made without any Severity 1 and 2 defects for projects executed during the last year. Which of the following metrics you will use to get this information?",
+      "choices": [
+        "% Total Defect Containment Effectiveness",
+        "Phase Containment Effectiveness",
+        "Post Delivery Defect Density",
+        "% Defect Free Deliveries"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Metrics",
+      "feedback": ""
+    },
+    {
+      "id": "55",
+      "question": "Bad Fix refers to:",
+      "choices": [
+        "Fixes not working in regression run after the fixes are applied",
+        "Defects found in User Acceptance Test (UAT)",
+        "Defects found in production system",
+        "An old fix which causes a new defect later on"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Metrics",
+      "feedback": ""
+    },
+    {
+      "id": "56",
+      "question": "Due to an error in measuring the size of the application, the size was wrongly measured as 100 FP instead of 150 FP. Which of the metrics were impacted as a result of this?",
+      "choices": [
+        "Defect Density",
+        "Productivity",
+        "Review Effectiveness",
+        "%Defect Free Deliveries"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2",
+      "section name": "Metrics",
+      "feedback": ""
+    },
+    {
+      "id": "57",
+      "question": "Effort Slippage = (Actual Effort â Planned effort) * 100 / Planned Effort. Is this statement True or False?",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Metrics",
+      "feedback": ""
+    },
+    {
+      "id": "58",
+      "question": "End timeliness for the Development projects is measured for:",
+      "choices": [
+        "Start Date Variance",
+        "End Date Variance",
+        "Variance in Schedule",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Metrics",
+      "feedback": ""
+    },
+    {
+      "id": "59",
+      "question": "Identify the metric: Difference between Actual Size and the Estimated Size of the project in the beginning of the project.",
+      "choices": [
+        "Size Variation",
+        "Defect Density",
+        "Schedule Slippage",
+        "Effort Slippage"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Metrics",
+      "feedback": ""
+    },
+    {
+      "id": "60",
+      "question": "Identify the metric: Total number of defects found per deliverable.",
+      "choices": [
+        "Number of Defects",
+        "Effort slippage",
+        "Size Variation",
+        "Defect Density"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Metrics",
+      "feedback": ""
+    },
+    {
+      "id": "61",
+      "question": "In a Development project, the project size was estimated to be 100 KLOC. At the end of construction, the application was found to have a size of 120 KLOC. What would be the size deviation for the project?",
+      "choices": ["0.166", "0.2", "0.12", "None of the above"],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Metrics",
+      "feedback": ""
+    },
+    {
+      "id": "62",
+      "question": "In a Production Support project, the Customer has requested for a monthly reporting on the quality of the fixes done. Which metric can be used for this?",
+      "choices": [
+        "% Defect Free Deliveries",
+        "%Bad Fix",
+        "%Rework",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Metrics",
+      "feedback": ""
+    },
+    {
+      "id": "63",
+      "question": "On time delivery = Number of deliveries made on time / Number of deliveries made* 100. Is this statement True or False?",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Metrics",
+      "feedback": ""
+    },
+    {
+      "id": "64",
+      "question": "Size, Effort and Defect are the fundamental metrics from which all the other metrics evolve. Is this statement True or False?",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Metrics",
+      "feedback": ""
+    },
+    {
+      "id": "65",
+      "question": "Which metrics does not indicate product quality?",
+      "choices": [
+        "Defect Free Delivery (DFD)",
+        "Effort slippage",
+        "Defect Density"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Metrics",
+      "feedback": ""
+    },
+    {
+      "id": "66",
+      "question": "While calculating the metric '% Defect Free Deliveries (DFD)' of your project, you need to consider:",
+      "choices": [
+        "Defects of all severity",
+        "Defects of severity 1 and severity 2",
+        "Defects of severity 1, severity 2 and severity 3",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Metrics",
+      "feedback": ""
+    },
+    {
+      "id": "67",
+      "question": "You want to measure the effectiveness of TCS Review and Testing process prior to delivery. Which of the following metrics will you use for this purpose?",
+      "choices": [
+        "% Total Defect Containment Effectiveness",
+        "Phase Containment Effectiveness",
+        "Post Delivery Defect Density",
+        "% Defect Free Deliveries"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Metrics",
+      "feedback": ""
+    },
+    {
+      "id": "68",
+      "question": "Your Customer wants the product to be of very high quality and has asked you to share a metric for this purpose. Which of these metrics would be the most appropriate to be shared with the Customer?",
+      "choices": [
+        "Code Review Effectiveness",
+        "Defect Free Delivery",
+        "Effort Slippage",
+        "Cost of Quality"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Metrics",
+      "feedback": ""
+    },
+    {
+      "id": "128",
+      "question": "Match the following: A. Deliverable 1. Effort B. Timelines 2. Defect Free C. Budget 3. Scope of work D. Quality 4. Schedule",
+      "choices": [
+        "A-3, B-4, C-1, D-2",
+        "A-4, B-3, C-2, D-1",
+        "A-4, B-3, C-1, D-2",
+        "A-1, B-2, C-3, D-4"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Metrics",
+      "feedback": ""
+    }
+  ],
+  [
+    {
+      "id": "69",
+      "question": "A Performance Improvement (PI) project can be initiated by:",
+      "choices": [
+        "A Project Manager only",
+        "A Group Leader Only",
+        "Delivery Excellence Group Only",
+        "Delivery Excellence Partner Only",
+        "Any associate in TCS"
+      ],
+      "Qtype": "SC",
+      "correct": "5",
+      "section name": "Performance Improvement",
+      "feedback": ""
+    },
+    {
+      "id": "70",
+      "question": "An activity for which the customer is willing to pay and recognises its value is a:",
+      "choices": [
+        "Value Add Activity",
+        "Non Value Add Activity",
+        "Value Enabling Activity",
+        "Compliance Activity"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Performance Improvement",
+      "feedback": ""
+    },
+    {
+      "id": "71",
+      "question": "Coding activity in Software Development may be treated as a ______________ activity.",
+      "choices": [
+        "Value Added",
+        "Non Value Added",
+        "Value Enabling",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Performance Improvement",
+      "feedback": ""
+    },
+    {
+      "id": "72",
+      "question": "Match the following: A. PDCA B. Six Sigma C. Lean 1. Waste Reduction 2. Reduce variation 3. Plan-Do-Check-Act",
+      "choices": [
+        "A-3, B-2, C-1",
+        "A-1, B-3, C-2",
+        "A-1, B-2, C-3",
+        "A-2, B-3, C-1"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Performance Improvement",
+      "feedback": ""
+    },
+    {
+      "id": "73",
+      "question": "PDCA stands for",
+      "choices": [
+        "Problem-Do-check-Act",
+        "Plan-Do-Check-Act",
+        "Plan-Develop-Check-Act",
+        "Plan-Do-Correct-Act"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Performance Improvement",
+      "feedback": ""
+    },
+    {
+      "id": "74",
+      "question": "Performance Improvement techniques define âValueâ from the perspective of?",
+      "choices": ["Customer", "PM", "Team member"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Performance Improvement",
+      "feedback": ""
+    },
+    {
+      "id": "75",
+      "question": "Process Improvement in TCS can help toâ¦",
+      "choices": [
+        "Increase attrition",
+        "Decrease revenue",
+        "Increase cost",
+        "Improve Customer Satisfaction"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Performance Improvement",
+      "feedback": ""
+    },
+    {
+      "id": "76",
+      "question": "Tool used to track Improvement initiatives in TCS is:",
+      "choices": ["ImpAct", "IPMS", "EQP", "EPW", "iEST"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Performance Improvement",
+      "feedback": ""
+    },
+    {
+      "id": "77",
+      "question": "What should be the main focus of any Continuous Improvement project?",
+      "choices": [
+        "Eliminating defects",
+        "Reducing the cycle time of delivery",
+        "Eliminating waste",
+        "One or more or all of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Performance Improvement",
+      "feedback": ""
+    },
+    {
+      "id": "78",
+      "question": "Which is the most appropriate improvement methodology to reduce non-value added activities?",
+      "choices": [
+        "Define, Measure Analyse, Improve, Control (DMAIC)",
+        "Lean",
+        "Plan-Do-Check-Act (PDCA)",
+        "Define, Measure Analyse, Design, Verify (DMADV)"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Performance Improvement",
+      "feedback": ""
+    },
+    {
+      "id": "205",
+      "question": "Your project has received a low Customer rating for the attribute 'Proactive Improvement' in the Customer Satisfaction Survey (CSS). Subsequently, A) You execute an improvement project for the Testing process in your project. B) You execute an improvement project in which the Customer saving was $5000. Which PI project should you share with your Customer proactively?",
+      "choices": ["A and B", "Only B", "Only A", "None of the above"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Performance Improvement",
+      "feedback": ""
+    }
+  ],
+  [
+    {
+      "id": "206",
+      "question": "The detailed plan of your Development project has numerous tasks. Some of the tasks have interdependencies. You are keen to understand the schedule risk and identify tasks that are in the critical path. What model will you use?",
+      "choices": [
+        "Cost Optimizer model",
+        "Agile Sprint Planner model",
+        "Schedule Analyzer model",
+        "Defect Injection model"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "Process Performance Models",
+      "feedback": ""
+    },
+    {
+      "id": "207",
+      "question": "The project you are managing is on a tight schedule. The Customer has an urgent business requirement to compress the schedule and complete the project in advance by a week and has asked you to check on the possibility and revert. How will you evaluate the request and respond?",
+      "choices": [
+        "Say \"No\" when you have to say \"No\". Reject the request as the project is already on a tight schedule and further crashing of the schedule is not possible.",
+        "Discuss with the team and request them to put in extra effort to expedite the development. Based on your confidence from the discussion, you commit to the Customer on the new timeline.",
+        "Use the Cost Optimizer model to (i) Check if the required compression is feasible (ii) Check the optimum path of compression that may result in the least increase in cost. Commit to the Customer based on the model outcome.",
+        "Compute the additional cost of adding additional resources to meet the crashed schedule. Linearly increase the cost in proportion to the compressed schedule."
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "Process Performance Models",
+      "feedback": ""
+    },
+    {
+      "id": "208",
+      "question": "What is the right time to deploy the Defect Prediction model for a Development project?",
+      "choices": [
+        "After delivering to the Customer",
+        "After go-live",
+        "At the start of the project",
+        "Mid way through the project execution"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "Process Performance Models",
+      "feedback": ""
+    },
+    {
+      "id": "209",
+      "question": "What model could be used by an Agile Development project to predict the completion possibility of the stories planned for a sprint?",
+      "choices": [
+        "Schedule Analyzer model",
+        "Agile Sprint Planner model",
+        "Cost Optimizer model",
+        "CoQ model"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Process Performance Models",
+      "feedback": ""
+    },
+    {
+      "id": "210",
+      "question": "You are about to start a large enhancement work critical to Customer's business. The Customer has already worked out a detailed plan for this enhancement. However, the Customer wants you to critically review the plan before the work is started. You have thoroughly studied the plan and have found it to be ok. But you still want to have some additional checks done on the plan as it is a highly critical activity. What additional checks will you consider?",
+      "choices": [
+        "Use a Statistical Schedule Analyzer model to check on the probability of meeting the overall schedule and to identify any missing critical tasks, unrealistic slack for non critical tasks etc.",
+        "A thorough review based on your experience is enough. No additional checks are required.",
+        "Brainstorm with the team on the functional requirements and understand the complexity. Decide based on the discussion outcome.",
+        "Accept the plan shared by the Customer as is; adjustments can be made during the execution."
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Process Performance Models",
+      "feedback": ""
+    },
+    {
+      "id": "211",
+      "question": "You are the Project Manager (PM) of a large Development project. The project is about to be started. You want to predict and closely track the Cost of Quality (CoQ) and Cost of Rework (CoR) to optimise CoQ and minimise CoR. What model will you leverage for this?",
+      "choices": [
+        "Defect Prediction model",
+        "CoQ model",
+        "Cost Optimizer model",
+        "Schedule Analyser"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Process Performance Models",
+      "feedback": ""
+    },
+    {
+      "id": "212",
+      "question": "You are the Project Manager of a large Production Support project. Initially, the team had to struggle with fixing a large number of incidents. The situation got better over a period of time, with the application stabilizing and the number of incidents steadily coming down. In a recent review with the Customer, the Customer appreciated your team for doing a good job and has asked if you could project the expected incident volume for the next two quarters so that a possible resizing of the support team can be looked at. What options will you consider?",
+      "choices": [
+        "Straightaway reject the idea and caution the Customer that we should not take the risk as the incident arrival in the future cannot be predicted.",
+        "Use a statistical model like MUSA Incident Arrival Rate Prediction model to predict the future incident arrival rate and decide on resizing the team based on the predicted volume.",
+        "Discuss with the team and assess the extra work that each person of the team can handle based on the current incident volume. Decide on the team size reduction based on the possible additional bandwidth of the team.",
+        "Brainstorm within the team and arrive at the projected volume."
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Process Performance Models",
+      "feedback": ""
+    },
+    {
+      "id": "213",
+      "question": "You have been assigned as the Project Manager (PM) and want to deploy the CSI prediction model in your project. At what point of time during the life cycle of a project you will deploy it?",
+      "choices": [
+        "Only after receiving Customer feedback through CSS",
+        "Just before initiating the CSS",
+        "Any time during the project execution but before initiating the CSS so that there is enough time to deploy the actions identified through the prediction model",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "Process Performance Models",
+      "feedback": ""
+    },
+    {
+      "id": "214",
+      "question": "Your Customer has given a requirement to make an enhancement to the production system being supported by your team. Before going ahead with the deployment of this change, the Customer asks you to predict the risk of application failure on introducing this change. The characteristics of the change such as technology, complexity, functional area, competency of developers working on the change, and so on, are known. You also have good amount of past data of such changes introduced. Which prediction model would you employ to predict the risk of introducing this change?",
+      "choices": [
+        "CSI Prediction Model",
+        "Bayesian Classifier Model",
+        "MUSA Incident Arrival Rate Prediction Model",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Process Performance Models",
+      "feedback": ""
+    },
+    {
+      "id": "215",
+      "question": "Your Customer has recently completed the Customer Satisfaction Survey (CSS) for your project and the overall CSI is just above the organisation level CSI target. You are now aiming to achieve at least 5 percent CSI improvement in the next survey. Currently, there are no open issues or challenges in your project. Which CSI model will you leverage to drive the CSI improvement?",
+      "choices": [
+        "Use the CSI -ve model, where negative factors impacting Customer satisfaction can be mapped to quantify the possible decrease in the CSI and can further be addressed through suitable actions.",
+        "Use the CSI +ve model, where positive factors influencing Customer satisfaction can be mapped to quantify the possible increase in the CSI and can further be realized through suitable actions.",
+        "Use both CSI +ve and -ve models.",
+        "Use CSI -ve model followed by CSI +ve model."
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Process Performance Models",
+      "feedback": ""
+    }
+  ],
+  [
+    {
+      "id": "79",
+      "question": "\"Application should be able to handle 1000 concurrent users.\" This type of non-functional specification is typically written in which of the following?",
+      "choices": [
+        "Contract",
+        "Requirement Specification",
+        "Change Request",
+        "None of the above"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,3",
+      "section name": "Project Initiation, Planning & Monitoring",
+      "feedback": ""
+    },
+    {
+      "id": "80",
+      "question": "A Customer requested the ABC Company to determine the size of work. The size of work should be represented in which of the following units?",
+      "choices": [
+        "Person month",
+        "Calendar month",
+        "Function point",
+        "None of the above",
+        "All of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "Project Initiation, Planning & Monitoring",
+      "feedback": ""
+    },
+    {
+      "id": "84",
+      "question": "Customer specifies one of the requirements as âThe developed system would be able to interact, communicate or exchange information with other system componentsâ. This is a ________ and is best known as _____________.",
+      "choices": [
+        "Non-Functional Requirement, Scalability",
+        "Non-Functional Requirement, Portability",
+        "Functional Requirement, Portability",
+        "Non-Functional Requirement, Interoperability"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Project Initiation, Planning & Monitoring",
+      "feedback": ""
+    },
+    {
+      "id": "85",
+      "question": "In your project the Project Plan covers which of the following?",
+      "choices": [
+        "Deliverable - Scope of work",
+        "Timelines - Schedule",
+        "Budget - Effort",
+        "What is Quality - Defect Free Deliverable",
+        "Project details",
+        "What to measure?"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,3,4,5,6",
+      "section name": "Project Initiation, Planning & Monitoring",
+      "feedback": ""
+    },
+    {
+      "id": "86",
+      "question": "In your project, you have come up with a list of identified risks, potential responses and root causes of risks. Which of the following must you use to document this information?",
+      "choices": [
+        "Risk Database",
+        "Risk Register",
+        "Risk Management Plan",
+        "Project Plan"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Project Initiation, Planning & Monitoring",
+      "feedback": ""
+    },
+    {
+      "id": "87",
+      "question": "Monitoring helps in ensuring that the tasks are : A. in scope B. on time C. with in budget Means, it ensures the project meets its objective.",
+      "choices": ["A", "B", "C"],
+      "Qtype": "MC",
+      "correct": "1,2,3",
+      "section name": "Project Initiation, Planning & Monitoring",
+      "feedback": ""
+    },
+    {
+      "id": "88",
+      "question": "Monitoring means being aware of the status. Monitoring involves comparing actual performance with planned performance and taking corrective action (controlling) to yield the desired outcome. Is this statement True or False?",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Project Initiation, Planning & Monitoring",
+      "feedback": ""
+    },
+    {
+      "id": "90",
+      "question": "Some of the servers are running above the thresholds quite often. Which of the following process area should be analysed to address this?",
+      "choices": [
+        "Problem management",
+        "Availability management",
+        "Incident management",
+        "Capacity management"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Project Initiation, Planning & Monitoring",
+      "feedback": ""
+    },
+    {
+      "id": "93",
+      "question": "What are the different information classification categories available in TCS?",
+      "choices": [
+        "Confidential, Secret, Public, Internal",
+        "Public, Internal, Private, Secret, Confidential",
+        "Restricted, Confidential, Internal Use, Public, Private and Confidential",
+        "Personal, Confidential, Top Secret"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "Project Initiation, Planning & Monitoring",
+      "feedback": ""
+    },
+    {
+      "id": "94",
+      "question": "What are the different ways to induct a new team member in a project?",
+      "choices": [
+        "Distributing the Induction Manual for study",
+        "Organising project meetings and team briefings to discuss project issues and clarify doubts.",
+        "Identifying the training needs and organising the training",
+        "Conducting the exit test"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,3",
+      "section name": "Project Initiation, Planning & Monitoring",
+      "feedback": ""
+    },
+    {
+      "id": "95",
+      "question": "Which of the following describes why Traceability Matrix is needed in a software project? A. Analyse impact of change requests B. Track the status of the project C. Record the dependencies across modules",
+      "choices": ["Only A", "Only B", "Only C", "A and C", "A, B and C"],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Project Initiation, Planning & Monitoring",
+      "feedback": ""
+    },
+    {
+      "id": "96",
+      "question": "What is the purpose of conducting the Project Management Reviews (PMR)?",
+      "choices": [
+        "To assess Engagement Owner's/Project Manager's performance",
+        "To rate engagement/project as RED, AMBER, GREEN",
+        "To evaluate the current engagement/project health and suggest future course of action",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "Project Initiation, Planning & Monitoring",
+      "feedback": ""
+    },
+    {
+      "id": "102",
+      "question": "You are about to start testing of a new module. Which of the following documents can help you to easily trace and get a visibility, so that no requirement or dependent module is missed while testing?",
+      "choices": [
+        "Functional Specifications",
+        "Test Plan Document",
+        "Traceability Matrix",
+        "Functional test Specifications",
+        "Low level design document"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "Project Initiation, Planning & Monitoring",
+      "feedback": ""
+    },
+    {
+      "id": "104",
+      "question": "You are doing the Impact analysis for a Change Request (CR) and looking for all available documents and records to find out the details of the impacted items. Which of the following documents can help you to easily trace and get a visibility, so that no requirement or dependent module is missed while doing Impact analysis?",
+      "choices": [
+        "Functional Specifications",
+        "Test Plan Document",
+        "Traceability Matrix",
+        "Functional Test Specifications",
+        "Low Level Design Document"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "Project Initiation, Planning & Monitoring",
+      "feedback": ""
+    },
+    {
+      "id": "105",
+      "question": "You have recently joined a project as a team member. Which document will help you to get an overview of the account / project, domain, business and project activities that need to be performed?",
+      "choices": [
+        "Design Document",
+        "Project Contract",
+        "Induction Manual",
+        "All of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "Project Initiation, Planning & Monitoring",
+      "feedback": ""
+    }
+  ],
+  [
+    {
+      "id": "15",
+      "question": "\"Building right things right\" emphasises on:",
+      "choices": [
+        "Verification",
+        "Verification and validation",
+        "Validation",
+        "Final inspection (FI)"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Reviews & Testing",
+      "feedback": ""
+    },
+    {
+      "id": "16",
+      "question": "A defect can be described as:",
+      "choices": [
+        "Requirement not met",
+        "Error in code",
+        "Performance issue",
+        "All the above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Reviews & Testing",
+      "feedback": ""
+    },
+    {
+      "id": "17",
+      "question": "A defect was reported during the code review. On investigation, the Developer found that the design document was not having the appropriate details. Select the appropriate cause for this defect.",
+      "choices": [
+        "Incorrect Coding",
+        "Requirements Issue",
+        "Incorrect Design/Solution",
+        "Lack of Test Data"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "Reviews & Testing",
+      "feedback": ""
+    },
+    {
+      "id": "18",
+      "question": "Coding Standards and Guidelines, Code Review Checklist, Design Templates should be used in all projects. Is this statement True or False?",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Reviews & Testing",
+      "feedback": ""
+    },
+    {
+      "id": "19",
+      "question": "Defect Prevention for testing projects means preventing defects in the application being tested. Is this statement True or False?",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Reviews & Testing",
+      "feedback": ""
+    },
+    {
+      "id": "21",
+      "question": "Match the defect type to the phase in which it can occur: A. Analysis Phase B. Design Phase C. Construction and Testing Phase 1. Incorrect requirements 2. Incomplete user interface 3. Boundary condition 4. Unstable requirements 5. Incorrect data definition",
+      "choices": [
+        "A-1 and 4, B-2 and 5, C- 3",
+        "A-2 and 4, B-1 and 5, C- 3",
+        "A-2 and 3, B-1 and 4, C- 5",
+        "A-2 and 5, B-1 and 4, C- 3"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Reviews & Testing",
+      "feedback": ""
+    },
+    {
+      "id": "22",
+      "question": "Match the following A. Unit Testing is performed B. Integration Testing is performed C. System Testing is performed D. Acceptance Testing is performed 1. To test if various programs making up the system are compatible 2. To test whether the system meets the User Requirements 3. To ensure that the system meets its stated objectives 4. To test a unit of code",
+      "choices": [
+        "Aâ4, Bâ1, Câ3, Dâ2",
+        "Aâ 4, Bâ1, Câ1, Dâ2",
+        "Aâ4, Bâ2, Câ1, Dâ3",
+        "Aâ1, Bâ2, Câ3, Dâ4"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Reviews & Testing",
+      "feedback": ""
+    },
+    {
+      "id": "23",
+      "question": "Project Team members can start development activities without reading the coding standards document provided by TCS or Customer. Is this statement True or False?",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Reviews & Testing",
+      "feedback": ""
+    },
+    {
+      "id": "24",
+      "question": "Sam and Lara are part of a Project team. Lara has reviewed Sam's code and discovered 10 defects. 1. What is this review called? 2. What should be Lara's course of action?",
+      "choices": [
+        "1- EQA, 2 â Call Sam and tell him about the defects",
+        "1- FI, 2- Fix the defects herself",
+        "1- IQA, 2- Log the defects in a tool specified by client / TCS",
+        "1- IQA, 2- Send the defects in an email to Sam"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "Reviews & Testing",
+      "feedback": ""
+    },
+    {
+      "id": "25",
+      "question": "Scalability, Portability and Interoperability are _______________ and are to best addressed in _________.",
+      "choices": [
+        "Functional Requirement, Build",
+        "Non Functional Requirements, Design",
+        "Non Functional Requirement, Build",
+        "Functional Requirements, Design"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Reviews & Testing",
+      "feedback": ""
+    },
+    {
+      "id": "26",
+      "question": "System Testing covers both functional and non-functional testing. Is this statement True or False?",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Reviews & Testing",
+      "feedback": ""
+    },
+    {
+      "id": "28",
+      "question": "The program is working as per the stated requirements. However the developer has not followed the coding standards applicable for that Technology. What will be the next step that you will take?",
+      "choices": [
+        "Proceed with next phase",
+        "Clean up the code by following the coding standards",
+        "Clean up the code only if IQA or EQA has flagged that coding standards are not followed"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Reviews & Testing",
+      "feedback": ""
+    },
+    {
+      "id": "29",
+      "question": "The purpose of a code review is the following: 1. Ensure that the code takes care of all requirements specified in the design 2. Ensure that the code complies with the programming standards 3. Ensure that adequate and appropriate comments are given in the code for readability 4. Ensure that consistent naming conventions are followed",
+      "choices": [
+        "Only 1 and 2",
+        "Only 2 and 3",
+        "Only 1 and 3",
+        "All of these"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Reviews & Testing",
+      "feedback": ""
+    },
+    {
+      "id": "30",
+      "question": "Unit testing is a __________testing, while System testing is a __________testing.",
+      "choices": [
+        "White-box, Black-box",
+        "White-box, White-box",
+        "Black-box, White-box",
+        "Black-box, Black-box"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Reviews & Testing",
+      "feedback": ""
+    },
+    {
+      "id": "31",
+      "question": "What is the best technique for finding defects in requirements and design specifications?",
+      "choices": ["Inspection", "Final Inspection (FI)", "Review", "Testing"],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "Reviews & Testing",
+      "feedback": ""
+    },
+    {
+      "id": "32",
+      "question": "Which of the following are examples of Internal Quality Assurance (IQA)? a. Requirement document review by Peer b. Design Document Review by external Reviewer c. Static Code Analysis by Peer d. Design Document Review by Peer e. Unit testing performed by the team member other than the developer f. System Testing by external Reviewer",
+      "choices": ["a, c, d, e", "a, b, c, d", "a, b, c, e, f", "a, c, e, f"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Reviews & Testing",
+      "feedback": ""
+    },
+    {
+      "id": "33",
+      "question": "Which of the following is / are non-functional requirement types of testing?",
+      "choices": [
+        "Integration Testing",
+        "System Testing",
+        "Performance Testing",
+        "Security Testing"
+      ],
+      "Qtype": "MC",
+      "correct": "3,4",
+      "section name": "Reviews & Testing",
+      "feedback": ""
+    },
+    {
+      "id": "34",
+      "question": "Which of the following is not true about Verification and Validation?",
+      "choices": [
+        "Cost of errors caught in Verification is less than errors found in Validation.",
+        "Verification process explains whether the outputs are according to inputs or not but Validation process describes whether the software is accepted by the user or not.",
+        "Verification is carried out after the Validation.",
+        "Verification is performed to build the right product. Validation is performed to build a product in the right way.",
+        "All of the above"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2",
+      "section name": "Reviews & Testing",
+      "feedback": ""
+    },
+    {
+      "id": "35",
+      "question": "Which of the following is true? Regression testing should be performed: a) Every week b) After the software has changed c) As often as possible d) When the environment has changed e) When the project manager asks",
+      "choices": [
+        "a and b are true, c, d and e are false",
+        "b, c and d are true, a and e are false",
+        "b and d are true, a, c and e are false",
+        "b is true, a, c, d and e are false"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "Reviews & Testing",
+      "feedback": ""
+    },
+    {
+      "id": "37",
+      "question": "Why do you think you should log defects that will be fixed anyway?",
+      "choices": [
+        "For identifying the root cause and fixing the same to prevent the recurrence of identified defects.",
+        "For your own learning to use it as a best practice and for post-facto analysis for the right solution.",
+        "For budgeting the effort required for rework and arriving at the Cost of Quality for your project.",
+        "For sharing the learnings from these defects with other team members and other projects.",
+        "For predicting the number of defects that may be residual in the Application / Solution."
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,3,4,5",
+      "section name": "Reviews & Testing",
+      "feedback": ""
+    },
+    {
+      "id": "39",
+      "question": "You have asked a peer in your project to review your design document. This is called External Quality Assurance (EQA). Is this statement True or False?",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Reviews & Testing",
+      "feedback": ""
+    },
+    {
+      "id": "40",
+      "question": "You have completed the development and unit testing for a mobile application. What quality checks will you run prior to the final delivery to the Customer?",
+      "choices": [
+        "No check is required since the unit testing is already done. Make the delivery as is.",
+        "Complete the Internal Quality Assurance (IQA) by your team.",
+        "Complete the Internal Quality Assurance (IQA) by your team and External Quality Assurance (EQA) which is done by someone outside the project team.",
+        "Complete the Internal Quality Assurance (IQA) within your team and External Quality Assurance (EQA) done by someone outside the project team and then the Final Inspection (FI), which is mandatory prior to any delivery to the client."
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Reviews & Testing",
+      "feedback": ""
+    },
+    {
+      "id": "41",
+      "question": "You have prepared the Software Requirement Specification (SRS) document. Which of the following needs to be carried out before the SRS can be delivered to the client? A. Internal Quality Assurance (IQA) B. External Quality Assurance (EQA) C. User Acceptance testing (UAT) D. Final Inspection (FI)",
+      "choices": [
+        "Only A",
+        "Only B",
+        "Only C",
+        "Only D",
+        "A, B and C",
+        "A, B and D"
+      ],
+      "Qtype": "SC",
+      "correct": "6",
+      "section name": "Reviews & Testing",
+      "feedback": ""
+    },
+    {
+      "id": "42",
+      "question": "Your customer has reported defects while performing Acceptance testing of your deliverable. Where will you log the defects?",
+      "choices": [
+        "Integrated Project Management System (IPMS)",
+        "Enterprise Qportal (EQP)",
+        "Excel sheet maintained in local project folders",
+        "No need to log anywhere"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Reviews & Testing",
+      "feedback": ""
+    },
+    {
+      "id": "43",
+      "question": "Your projects is in the Integration test phase. Before starting the integration testing which of the following tasks you should perform?",
+      "choices": [
+        "Confirm readiness of the programs",
+        "Review interface requirements for completeness",
+        "Read Integration test strategy / test plan",
+        "All of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Reviews & Testing",
+      "feedback": ""
+    },
+    {
+      "id": "106",
+      "question": "You have to implement a product for a Customer after understanding the functional requirements. The Customer has not stated any non-functional requirements explicitly, as they do not know what is required. What will your response be?",
+      "choices": [
+        "Do not worry about getting the non-functional requirements as they have not stated explicitly.",
+        "You can decide the non-functional requirements without discussing with the Customer.",
+        "You have to explain the non-functional capabilities of the product and request the Customer to evaluate whether it meets the business requirements.",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "Reviews & Testing",
+      "feedback": ""
+    },
+    {
+      "id": "109",
+      "question": "In Static Code Analysis the run-time behaviour of the system is analysed. Is this statement True or False?",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Reviews & Testing",
+      "feedback": ""
+    },
+    {
+      "id": "110",
+      "question": "Static Code Analysis can help us in gauging the functional code quality. Is this statement True or False?",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Reviews & Testing",
+      "feedback": ""
+    },
+    {
+      "id": "111",
+      "question": "Static Code Analysis can help us in gauging the level of comments that is available in the code. Is this statement True or False?",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Reviews & Testing",
+      "feedback": ""
+    },
+    {
+      "id": "112",
+      "question": "Static Code Analysis is applicable only for specific technologies. Is this statement True or False?",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Reviews & Testing",
+      "feedback": ""
+    },
+    {
+      "id": "113",
+      "question": "Static Code Analysis tools can also be run on developers' Integrated Development Environment. Is this statement True or False?",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Reviews & Testing",
+      "feedback": ""
+    },
+    {
+      "id": "114",
+      "question": "Static Code Analysis tools can help us on conformance of design principles pertaining to maintainability and reusability. Is this statement True or False?",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Reviews & Testing",
+      "feedback": ""
+    },
+    {
+      "id": "115",
+      "question": "Static Code Analysis tools facilitate us in customising the rules as per the project standards. Is this statement True or False?",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Reviews & Testing",
+      "feedback": ""
+    },
+    {
+      "id": "116",
+      "question": "Static Code Checking helps detect which of the following problems?",
+      "choices": [
+        "Performance Issues",
+        "Memory Leaks",
+        "Unclosed Resources",
+        "All of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Reviews & Testing",
+      "feedback": ""
+    },
+    {
+      "id": "118",
+      "question": "Which of the following contributes to Code Quality?",
+      "choices": [
+        "Proper naming of Classes, Methods and Variables",
+        "Right indentation of Code",
+        "Small Classes and Methods",
+        "All of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Reviews & Testing",
+      "feedback": ""
+    },
+    {
+      "id": "119",
+      "question": "Which of the following options best describe the Code Refactoring process?",
+      "choices": [
+        "Breaking the code into smaller chunks",
+        "Renaming variables",
+        "Rearranging package structures",
+        "All of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Reviews & Testing",
+      "feedback": ""
+    },
+    {
+      "id": "120",
+      "question": "Which of the following techniques is used to asses the application quality?",
+      "choices": [
+        "Perform Manual Code Reviews",
+        "Perform Static Code Analysis using automated tools",
+        "Assess based on Functional Stability",
+        "All of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Reviews & Testing",
+      "feedback": ""
+    },
+    {
+      "id": "122",
+      "question": "A good quality code:",
+      "choices": [
+        "Complies with coding standards",
+        "Meets design specifications",
+        "All of the above",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "Reviews & Testing",
+      "feedback": ""
+    },
+    {
+      "id": "143",
+      "question": "Your Customer has defined defect severity as Showstoppers, Critical, Minor and Suggestions. How would you log your defects into IPMS using Customer's defined defect severity?",
+      "choices": [
+        "We need not log the defects into IPMS.",
+        "While logging the defects in IPMS, we will change the defect severity to TCS defined severity values.",
+        "We will define the severity values as provided by the Customer and map to TCS-defined severity values, using Defect Configuration feature. We can then log / upload defects using the Customer defined severity values.",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "Reviews & Testing",
+      "feedback": ""
+    }
+  ],
+  [
+    {
+      "id": "81",
+      "question": "A risk is defined as ____________ event or condition that, if it occurs, has a positive or negative effect on one or more project or engagment______________.",
+      "choices": [
+        "Indefinite, Probabilities",
+        "Uncertain, Objectives",
+        "Sure, Goals",
+        "Definite, Uncertainties"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Risk Management",
+      "feedback": ""
+    },
+    {
+      "id": "83",
+      "question": "At the beginning of the project, you have identified the risks in your project and entered them in the risk register. You also need to identify the area of impact, should the risk materialise. What are the four typical areas of impact that you will capture in the risk register for the risks already identified for your project?",
+      "choices": [
+        "Cost, Schedule, Quality and Information Security",
+        "Environment, Cost, Information Security and Legal",
+        "Resources, Schedule, Cost and Health and Safety",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Risk Management",
+      "feedback": ""
+    },
+    {
+      "id": "91",
+      "question": "There are several processes in risk management and one of them is risk response planning. This involves _____.",
+      "choices": [
+        "Reducing project threats",
+        "Risk identification",
+        "Developing options and assigning individual responsibility",
+        "Determining whether risk has occurred"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "Risk Management",
+      "feedback": ""
+    },
+    {
+      "id": "101",
+      "question": "While executing the project you have identified a new risk that was not available in the risk register maintained for your project. Among the following, what is the first action you should take?",
+      "choices": [
+        "Capture the risk in the risk register",
+        "Compute the financial value of the risk",
+        "Accept the risk",
+        "Do nothing"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Risk Management",
+      "feedback": ""
+    },
+    {
+      "id": "103",
+      "question": "You are building a new product and Dave, your manager asks you to build a prototype first, show it to some users, get feedback and then proceed further. What risk response strategy is Dave recommending to you?",
+      "choices": ["Avoid", "Reduce", "Enhance", "Accept"],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Risk Management",
+      "feedback": ""
+    },
+    {
+      "id": "163",
+      "question": "\"Accept\" is one of the response strategies for dealing with the negative risks or threats. Risk acceptance could be active or passive depending on the situation in your project. In which of the following situations is passive risk acceptance an appropriate approach?",
+      "choices": [
+        "When the likeliness of risk occurrence is very low",
+        "When the risk occurrence is hard to identify",
+        "When it is best to deal with a risk as it occurs",
+        "When the risk cannot be assessed or analysed"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "Risk Management",
+      "feedback": ""
+    },
+    {
+      "id": "164",
+      "question": "Accept, Transfer, Avoid are valid responses to negative risks or threats in your project during risk response planning. Such responses do not need any mitigation plans.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Risk Management",
+      "feedback": ""
+    },
+    {
+      "id": "165",
+      "question": "After you have identified the risks in your project and entered them in the risk register, you prioritise the risks. The term risk event probability means _________",
+      "choices": [
+        "The value used for mitigation",
+        "Estimate of risk value at loss",
+        "Probability of risk not occurring at this time",
+        "Probability that a given risk may occur"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Risk Management",
+      "feedback": ""
+    },
+    {
+      "id": "166",
+      "question": "At the beginning of your project you have identified a risk that could negatively impact the project, should it occur. However during risk response planning you discover that the risk cannot be mitigated by the project team because it is in the control of a third party. Such risk in the project should be ------ .",
+      "choices": ["Accepted", "Reduced", "Avoided", "Transferred"],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Risk Management",
+      "feedback": ""
+    },
+    {
+      "id": "167",
+      "question": "During Project Startup (PSU) meeting the team has identified 15 risks for the project and entered them in the risk register. As a next step, how would you prioritise these risks?",
+      "choices": [
+        "Based on Probability and Cost of individual risk",
+        "Based on Probability and Loss of individual risk",
+        "Based on Probability and Size of individual risk",
+        "Based on Exposure and then by Loss of individual risk"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Risk Management",
+      "feedback": ""
+    },
+    {
+      "id": "168",
+      "question": "In your project, you have come up with a list of identified risks, potential responses and root causes of risks. Which of the following must you use to document this information?",
+      "choices": [
+        "Risk Database",
+        "Risk Register",
+        "Risk Management Plan",
+        "Project Plan"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Risk Management",
+      "feedback": ""
+    },
+    {
+      "id": "169",
+      "question": "TCS seeks periodic feedback on the projects that we execute for our Customers. While providing such feedback, the Customers can rate us on how well we manage the risks during project execution.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Risk Management",
+      "feedback": ""
+    },
+    {
+      "id": "170",
+      "question": "The first step in Risk Management is to identify the risks in your project. The contract of your project has been signed off by the Customer and has been sent to you. Which section of the contract would be the most relevant to identify the potential risk in your project?",
+      "choices": [
+        "Assumptions, Dependencies and Constraints",
+        "Project Scope",
+        "Roles and Responsibilities",
+        "Acceptance Criteria"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Risk Management",
+      "feedback": ""
+    },
+    {
+      "id": "171",
+      "question": "There are several steps in Risk Management and one of them is risk response planning for the threats or risks that could negatively impact your project should they occur. Which of the following plans in your project outlines the action to be taken should an identified risk occur during the project?",
+      "choices": [
+        "Cost Budget",
+        "Corrective action plan",
+        "Contingency plan",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "Risk Management",
+      "feedback": ""
+    },
+    {
+      "id": "172",
+      "question": "There are several steps in Risk Management and one of them is risk response planning for the threats or risks that could negatively impact your project should they occur. You would like to mitigate a risk that you have already identified in your project. Therefore during risk response planning you need to have ------------",
+      "choices": [
+        "Mitigation plan",
+        "Both Mitigation and Contingency plans",
+        "Contingency plan only",
+        "No plan as the risk is mitigated to an issue"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Risk Management",
+      "feedback": ""
+    },
+    {
+      "id": "173",
+      "question": "There are several steps in Risk Management in any project. Once the risks are identified, they are prioritised, suitable response strategies developed and then continuously monitored during the project. Which of the following statements is true about risks that you manage in your project?",
+      "choices": [
+        "When evaluating risks their impact should be considered, however probability of occurrence is not important.",
+        "Risks if they happen always have negative impact and not positive.",
+        "Risk register documents all the risks in detail.",
+        "Risk response plan is another name for Risk Management Plan."
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "Risk Management",
+      "feedback": ""
+    },
+    {
+      "id": "174",
+      "question": "Engagement risk register consists of",
+      "choices": [
+        "Project level risks and opportunities",
+        "Engagement level risks and opportunities",
+        "Project and Engagement level risks and opportunities",
+        "None of these"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "Risk Management",
+      "feedback": ""
+    },
+    {
+      "id": "175",
+      "question": "While executing the project you have identified a new risk that was not available in the risk register maintained for your project. Among the following, what is the first action you should take?",
+      "choices": [
+        "Capture the risk in the risk register",
+        "Compute the financial value of the risk",
+        "Accept the risk",
+        "Do nothing"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Risk Management",
+      "feedback": ""
+    }
+  ],
+  [
+    {
+      "id": "92",
+      "question": "What all needs to be estimated for a project during the start-up?",
+      "choices": ["Size", "Effort", "Schedule", "Price"],
+      "Qtype": "MC",
+      "correct": "1,2,3",
+      "section name": "Software Estimation",
+      "feedback": ""
+    },
+    {
+      "id": "97",
+      "question": "Where would you find the guidelines related to TCS Estimation processes in iQMS Wiki?",
+      "choices": [
+        "Project Planning Guidelines",
+        "Software Metric Program",
+        "Project Procedures Manual",
+        "Estimation Guidelines"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Software Estimation",
+      "feedback": ""
+    },
+    {
+      "id": "99",
+      "question": "Which of the following is not a sizing technique?",
+      "choices": [
+        "Function Point",
+        "Requirement Point",
+        "Monte Carlo Simulation",
+        "Component"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "Software Estimation",
+      "feedback": ""
+    },
+    {
+      "id": "100",
+      "question": "Which of the following statements may be generally accepted to be true about Agile Software Development?",
+      "choices": [
+        "Changes in requirements are welcome even late in the Development cycle.",
+        "Working software takes precedence over documentation, which is maintained at a minimal level.",
+        "Individuals and interactions are given more importance besides following Processes and Tools.",
+        "All of the above",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Software Estimation",
+      "feedback": ""
+    },
+    {
+      "id": "176",
+      "question": "A Customer requested the ABC Company to determine the size of work. The size of work should be represented in which of the following units?",
+      "choices": [
+        "Person month",
+        "Calendar month",
+        "Function point",
+        "None of the above",
+        "All of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "Software Estimation",
+      "feedback": ""
+    },
+    {
+      "id": "177",
+      "question": "As a Project Manager (PM) you are doing estimation of your project. Which of the following factor(s) would you consider for calculating adjusted effort?",
+      "choices": [
+        "Project Specific Factors",
+        "Common Factors",
+        "Risk Factors",
+        "All the options"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Software Estimation",
+      "feedback": ""
+    },
+    {
+      "id": "178",
+      "question": "The recommended size and productivity units for Development projects are respectively:",
+      "choices": [
+        "Story points and PH per Story points",
+        "FP and PH / FP",
+        "LOC and PH / LOC",
+        "FP and FP / PH"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Software Estimation",
+      "feedback": ""
+    },
+    {
+      "id": "179",
+      "question": "What are the three major facets of the TCS standard estimation framework?",
+      "choices": [
+        "Effort, Productivity, Schedule",
+        "Effort, Schedule, Manpower Loading",
+        "Effort, Schedule, Size",
+        "Schedule, Function Point, COCOMO"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "Software Estimation",
+      "feedback": ""
+    },
+    {
+      "id": "180",
+      "question": "Which component of the TCS Estimation Framework ensures that the estimation is accurate, realistic and complete before they are shared with the Customer?",
+      "choices": [
+        "Feedback Adaptor",
+        "Effort Estimator",
+        "Governance",
+        "Resource Calculator"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "Software Estimation",
+      "feedback": ""
+    },
+    {
+      "id": "181",
+      "question": "Which of the following is / are reason(s) to perform the size count at the completion of a project?",
+      "choices": [
+        "To use the measured data for productivity baselining",
+        "To compare the size of what was delivered to the user versus what was expected",
+        "To identify scope creep across phases",
+        "All of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Software Estimation",
+      "feedback": ""
+    },
+    {
+      "id": "182",
+      "question": "Which of the following parameters cannot be estimated?",
+      "choices": ["Size", "Cost", "Schedule", "Actual Effort"],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Software Estimation",
+      "feedback": ""
+    },
+    {
+      "id": "183",
+      "question": "Which one is not a valid sizing methodology?",
+      "choices": [
+        "Technical Components",
+        "Use Case Points",
+        "Function Point",
+        "Root Cause Analysis"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Software Estimation",
+      "feedback": ""
+    },
+    {
+      "id": "184",
+      "question": "You are trying to compute the productivity of your project. If the delivery rate is 10 PH / FP, what is the productivity for your project?",
+      "choices": ["0.1 FP / PH", "0.01 FP / PH", "1 FP / PH", "0.9 FP / PH"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Software Estimation",
+      "feedback": ""
+    }
+  ],
+  [
+    {
+      "id": "117",
+      "question": "Which of the following best describes Cyclomatic complexity?",
+      "choices": [
+        "Number of Cyclical References to the method",
+        "Number of CPU cycles required in a method",
+        "Number of Independent Paths",
+        "Number of Loops in a method"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "Static Code Analysis",
+      "feedback": ""
+    }
+  ],
+  [
+    {
+      "id": "144",
+      "question": "The Timesheet data is used for:",
+      "choices": [
+        "Billing and invoicing Customer",
+        "Recording attendance",
+        "Managing the project and project delivery by the Project Manager",
+        "Individual to track current position vis-Ã -vis the planned and assigned activities",
+        "All of the above ",
+        "None of the above "
+      ],
+      "Qtype": "SC",
+      "correct": "5",
+      "section name": "Timesheet",
+      "feedback": ""
+    },
+    {
+      "id": "145",
+      "question": "Timesheet entry for unplanned tasks, is best logged against which of the following?",
+      "choices": [
+        "Against any of the assigned tasks irrespective of the actual work done",
+        "Against unassigned tasks created in line with the exact work done",
+        "If the tasks worked on are not in the assigned task list, ask the supervisor to create / assign the required tasks and fill the timesheet against the same",
+        "If tasks done are not assigned, timesheet reflecting unplanned work done need not be logged"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "Timesheet",
+      "feedback": ""
+    },
+    {
+      "id": "146",
+      "question": "Timesheet helps in which of the following ways:",
+      "choices": [
+        "Only to me as an individual to reflect on and track progress of work done against the assigned targets",
+        "My project Manager to plan and track the project progress better",
+        "My organisation by providing insight into workforce management and productivity",
+        "All of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Timesheet",
+      "feedback": ""
+    },
+    {
+      "id": "147",
+      "question": "Timesheets should be filled ______________ to ensure accurate status of your work.",
+      "choices": ["Daily", "Once in 2 days", "Weekly", "Month end"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Timesheet",
+      "feedback": ""
+    },
+    {
+      "id": "148",
+      "question": "Which of the following holds true about the relation between Leave and Timesheet?",
+      "choices": [
+        "There is no need for a timesheet record for the day(s) of leave.",
+        "You need to apply for leave in the system and this will create a leave timesheet record on approval of the leave request.",
+        "If you have not filled timesheet for a day(s) and do not have a corresponding leave record either, Timesheet leave record will be created for these days in the first half of next month.",
+        "The timesheet leave records created for the days of missing timesheet will result in deduction of your leave balance."
+      ],
+      "Qtype": "MC",
+      "correct": "2,3,4",
+      "section name": "Timesheet",
+      "feedback": ""
+    },
+    {
+      "id": "149",
+      "question": "You spend two hours fixing a defect found during an internal review. Under which of the assigned tasks will you enter these two hours, while filling your time sheet?",
+      "choices": [
+        "Code Development",
+        "Code Review",
+        "Common Task",
+        "Rework for Review Task",
+        "None; this type of task must be entered under Unassigned Tasks\n"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Timesheet",
+      "feedback": ""
+    },
+    {
+      "id": "150",
+      "question": "Your team has attended a training session for a day, but the timesheet shows only the assigned tasks like Coding and Unit Testing. Where will your team log their training efforts?",
+      "choices": [
+        "Create a task for training and ask your team to log in their efforts under this task.",
+        "Ask the team to log the training effort under any available assigned task.",
+        "There is no need to log training effort in the timesheet."
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Timesheet",
+      "feedback": ""
+    }
+  ]
+]
