@@ -449,7 +449,7 @@
       "question": "What does the Loyalty parameter in the CSS form reflect?",
       "choices": [
         "Loyalty of Customer among other Customers",
-        "Customer would recommend TCS within and outside Customer organisation",
+        "Customer would recommend <our company> within and outside Customer organisation",
         "Customer would recommend project lead within and outside Customer organisation",
         "All of the above",
         "None of the above"
@@ -475,12 +475,12 @@
     },
     {
       "id": "195",
-      "question": "Which among the following feedback is considered best for TCS?",
+      "question": "Which among the following feedback is considered best for <our company>?",
       "choices": [
-        "CSI = 95%, TCS Rank = Second, Recommendation Rating = Probably Yes",
-        "CSI = 95%, TCS Rank = First, Recommendation Rating = Probably Yes",
-        "CSI = 95%, TCS Rank = Second, Recommendation Rating = Definitely Yes",
-        "CSI = 95%, TCS Rank = First, Recommendation Rating = Definitely Yes",
+        "CSI = 95%, <our company> Rank = Second, Recommendation Rating = Probably Yes",
+        "CSI = 95%, <our company> Rank = First, Recommendation Rating = Probably Yes",
+        "CSI = 95%, <our company> Rank = Second, Recommendation Rating = Definitely Yes",
+        "CSI = 95%, <our company> Rank = First, Recommendation Rating = Definitely Yes",
         "None of the above"
       ],
       "Qtype": "SC",
@@ -492,9 +492,9 @@
       "id": "196",
       "question": "You have been asked to collect the first Customer Satisfaction Survey (CSS) for your project. Which format would you choose to collect the CSS?",
       "choices": [
-        "TCS format",
+        "<our company> format",
         "Format approved by IOU head",
-        "TCS format / Customer provided format",
+        "<our company> format / Customer provided format",
         "Format approved by Delivery Excellence Partner (DEP)"
       ],
       "Qtype": "SC",
@@ -504,7 +504,7 @@
     },
     {
       "id": "197",
-      "question": "You have received a Customer Satisfaction Index (CSI) of 100% for your project. Your Customer has provided remarks in the \"Top 3 Strengths of TCS\" and \"Top 3 Improvement Opportunities\" section in the CSS form. You need not take any actions on the feedback.",
+      "question": "You have received a Customer Satisfaction Index (CSI) of 100% for your project. Your Customer has provided remarks in the \"Top 3 Strengths of <our company>\" and \"Top 3 Improvement Opportunities\" section in the CSS form. You need not take any actions on the feedback.",
       "choices": ["True", "False"],
       "Qtype": "SC",
       "correct": "2",
@@ -576,7 +576,7 @@
       "question": "Your project has received CSS offline in the Customer format. What should you do in this case?",
       "choices": [
         "Get the same uploaded in Prime",
-        "Collect the CSS again in TCS format using IPMS",
+        "Collect the CSS again in <our company> format using IPMS",
         "Ignore the feedback since the format is not correct",
         "Maintain it offline"
       ],
@@ -699,7 +699,7 @@
     },
     {
       "id": "121",
-      "question": "âTo make TCS reliable, resilient and immune to the existing and evolving volatile environment of constant changes, accidents, attacks and failures, so as to enable all our stakeholders Experience Certaintyâ, this statement is:",
+      "question": "âTo make <our company> reliable, resilient and immune to the existing and evolving volatile environment of constant changes, accidents, attacks and failures, so as to enable all our stakeholders Experience Certaintyâ, this statement is:",
       "choices": ["Quality Policy", "Security Policy"],
       "Qtype": "SC",
       "correct": "2",
@@ -722,7 +722,7 @@
     },
     {
       "id": "124",
-      "question": "Deliverables by TCS are:",
+      "question": "Deliverables by <our company> are:",
       "choices": ["Software", "Services"],
       "Qtype": "MC",
       "correct": "1,2",
@@ -731,7 +731,7 @@
     },
     {
       "id": "125",
-      "question": "For a leading bank of the USA, TCS is developing multiple applications, delivered from various locations such as India, China and Brazil. Though TCS is delivering different applications from different locations, Customer is getting same quality of applications and service. This is an example of:",
+      "question": "For a leading bank of the USA, <our company> is developing multiple applications, delivered from various locations such as India, China and Brazil. Though <our company> is delivering different applications from different locations, Customer is getting same quality of applications and service. This is an example of:",
       "choices": [
         "Customer Satisfaction",
         "One Global Service Standard",
@@ -789,7 +789,7 @@
     },
     {
       "id": "130",
-      "question": "Organisation structure of TCS can be found in:",
+      "question": "Organisation structure of <our company> can be found in:",
       "choices": [
         "Process Handbooks",
         "Quality Manual",
@@ -845,7 +845,7 @@
     },
     {
       "id": "134",
-      "question": "TCS standardised processes are defined in:",
+      "question": "<our company> standardised processes are defined in:",
       "choices": [
         "KNOWMAX",
         "Integrated Quality Management System (iQMS)",
@@ -859,7 +859,7 @@
     },
     {
       "id": "135",
-      "question": "The Quality Policy of TCS is:",
+      "question": "The Quality Policy of <our company> is:",
       "choices": [
         "To achieve customer and other stakeholders' satisfaction by delivering solutions which meet their needs and expectations.",
         "To become the top most IT Services Organisation across the globe",
@@ -986,7 +986,7 @@
       "choices": [
         "Save this in the Customer network / Customer provided repository",
         "Download and save in your personal computer",
-        "Upload in TCS KM Platform and secure access",
+        "Upload in <our company> KM Platform and secure access",
         "All of the above"
       ],
       "Qtype": "SC",
@@ -996,7 +996,7 @@
     },
     {
       "id": "47",
-      "question": "Identify the Knowledge Platforms in TCS.",
+      "question": "Identify the Knowledge Platforms in <our company>.",
       "choices": ["KNOWMAX", "Mindworks", "Smart Drive", "iQMS Wiki"],
       "Qtype": "MC",
       "correct": "1,2,3,4",
@@ -1019,7 +1019,7 @@
     },
     {
       "id": "49",
-      "question": "Which iQMS document has the TCS organisation structure, policies and the key roles responsible for managing the business and the quality management functions?",
+      "question": "Which iQMS document has the <our company> organisation structure, policies and the key roles responsible for managing the business and the quality management functions?",
       "choices": [
         "Quality Manual",
         "Project Procedures Manual",
@@ -1242,7 +1242,7 @@
     },
     {
       "id": "67",
-      "question": "You want to measure the effectiveness of TCS Review and Testing process prior to delivery. Which of the following metrics will you use for this purpose?",
+      "question": "You want to measure the effectiveness of <our company> Review and Testing process prior to delivery. Which of the following metrics will you use for this purpose?",
       "choices": [
         "% Total Defect Containment Effectiveness",
         "Phase Containment Effectiveness",
@@ -1292,7 +1292,7 @@
         "A Group Leader Only",
         "Delivery Excellence Group Only",
         "Delivery Excellence Partner Only",
-        "Any associate in TCS"
+        "Any associate in <our company>"
       ],
       "Qtype": "SC",
       "correct": "5",
@@ -1366,7 +1366,7 @@
     },
     {
       "id": "75",
-      "question": "Process Improvement in TCS can help toâ¦",
+      "question": "Process Improvement in <our company> can help toâ¦",
       "choices": [
         "Increase attrition",
         "Decrease revenue",
@@ -1380,7 +1380,7 @@
     },
     {
       "id": "76",
-      "question": "Tool used to track Improvement initiatives in TCS is:",
+      "question": "Tool used to track Improvement initiatives in <our company> is:",
       "choices": ["ImpAct", "IPMS", "EQP", "EPW", "iEST"],
       "Qtype": "SC",
       "correct": "1",
@@ -1675,7 +1675,7 @@
     },
     {
       "id": "93",
-      "question": "What are the different information classification categories available in TCS?",
+      "question": "What are the different information classification categories available in <our company>?",
       "choices": [
         "Confidential, Secret, Public, Internal",
         "Public, Internal, Private, Secret, Confidential",
@@ -1860,7 +1860,7 @@
     },
     {
       "id": "23",
-      "question": "Project Team members can start development activities without reading the coding standards document provided by TCS or Customer. Is this statement True or False?",
+      "question": "Project Team members can start development activities without reading the coding standards document provided by <our company> or Customer. Is this statement True or False?",
       "choices": ["True", "False"],
       "Qtype": "SC",
       "correct": "2",
@@ -1873,7 +1873,7 @@
       "choices": [
         "1- EQA, 2 â Call Sam and tell him about the defects",
         "1- FI, 2- Fix the defects herself",
-        "1- IQA, 2- Log the defects in a tool specified by client / TCS",
+        "1- IQA, 2- Log the defects in a tool specified by client / <our company>",
         "1- IQA, 2- Send the defects in an email to Sam"
       ],
       "Qtype": "SC",
@@ -2240,8 +2240,8 @@
       "question": "Your Customer has defined defect severity as Showstoppers, Critical, Minor and Suggestions. How would you log your defects into IPMS using Customer's defined defect severity?",
       "choices": [
         "We need not log the defects into IPMS.",
-        "While logging the defects in IPMS, we will change the defect severity to TCS defined severity values.",
-        "We will define the severity values as provided by the Customer and map to TCS-defined severity values, using Defect Configuration feature. We can then log / upload defects using the Customer defined severity values.",
+        "While logging the defects in IPMS, we will change the defect severity to <our company> defined severity values.",
+        "We will define the severity values as provided by the Customer and map to <our company>-defined severity values, using Defect Configuration feature. We can then log / upload defects using the Customer defined severity values.",
         "None of the above"
       ],
       "Qtype": "SC",
@@ -2392,7 +2392,7 @@
     },
     {
       "id": "169",
-      "question": "TCS seeks periodic feedback on the projects that we execute for our Customers. While providing such feedback, the Customers can rate us on how well we manage the risks during project execution.",
+      "question": "<our company> seeks periodic feedback on the projects that we execute for our Customers. While providing such feedback, the Customers can rate us on how well we manage the risks during project execution.",
       "choices": ["True", "False"],
       "Qtype": "SC",
       "correct": "1",
@@ -2496,7 +2496,7 @@
     },
     {
       "id": "97",
-      "question": "Where would you find the guidelines related to TCS Estimation processes in iQMS Wiki?",
+      "question": "Where would you find the guidelines related to <our company> Estimation processes in iQMS Wiki?",
       "choices": [
         "Project Planning Guidelines",
         "Software Metric Program",
@@ -2582,7 +2582,7 @@
     },
     {
       "id": "179",
-      "question": "What are the three major facets of the TCS standard estimation framework?",
+      "question": "What are the three major facets of the <our company> standard estimation framework?",
       "choices": [
         "Effort, Productivity, Schedule",
         "Effort, Schedule, Manpower Loading",
@@ -2596,7 +2596,7 @@
     },
     {
       "id": "180",
-      "question": "Which component of the TCS Estimation Framework ensures that the estimation is accurate, realistic and complete before they are shared with the Customer?",
+      "question": "Which component of the <our company> Estimation Framework ensures that the estimation is accurate, realistic and complete before they are shared with the Customer?",
       "choices": [
         "Feedback Adaptor",
         "Effort Estimator",
