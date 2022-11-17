@@ -7,7 +7,7 @@ export default function QCard(props) {
   const correct = props.correct;
 
   return (
-    <div className="card m-2 border border-0">
+    <div className="card m-2 border border-0" style={{ width: "800px" }}>
       <div className="card-body">
         <h6 className="card-title">{question}</h6>
         <div className="stack">

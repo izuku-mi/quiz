@@ -20,37 +20,34 @@ export default function App() {
     }
   };
   return (
-    <div className="container ">
-      <nav className="nav nav-pills flex-row justify-content-evenly">
-        <a
+    <div className="container " style={{ width: "800px" }}>
+      <nav className="d-flex flex-row justify-content-evenly mt-3 flex-wrap">
+        <button
           title="ssa"
           onClick={() => clickHadler("qs")}
-          className={`nav-link  my-3 ps-5 pe-5 ${
-            activeQbank === "qs" ? "active" : ""
+          className={` btn my-3 py-2 w-50 ${
+            activeQbank === "qs" ? " btn-success" : "btn-light"
           }`}
-          href="#item-1"
         >
           QBank 1
-        </a>
-        <a
+        </button>
+        <button
           title="iqms"
           onClick={() => clickHadler("qs2")}
-          className={`nav-link my-3 ps-5 pe-5 ${
-            activeQbank === "qs2" ? "active" : ""
+          className={`btn my-3 py-2 w-50 ${
+            activeQbank === "qs2" ? " btn-success " : "btn-light"
           }`}
-          href="#item-2"
         >
           QBank 2
-        </a>
+        </button>
       </nav>
-      <div className="row">
+      <div className="row mt-3">
         <div className="col-md-12">
-          <div className="d-md-flex justify-content-between">
+          <div className="d-flex justify-content-center align-content-center flex-wrap ">
             {activeQbank === "qs" &&
               qs.map((q) => {
                 return (
                   <>
-                    2 {activeQbank}
                     <QCard
                       className="align-self-center"
                       key={q.id + Math.random()}
