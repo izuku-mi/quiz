@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "https://izuku-mi.github.io/quiz/static/css/main.85768c17.css",
-    "main.js": "https://izuku-mi.github.io/quiz/static/js/main.36d74995.js",
+    "main.js": "https://izuku-mi.github.io/quiz/static/js/main.adc534b8.js",
     "static/js/787.83904489.chunk.js": "https://izuku-mi.github.io/quiz/static/js/787.83904489.chunk.js",
     "index.html": "https://izuku-mi.github.io/quiz/index.html",
     "main.85768c17.css.map": "https://izuku-mi.github.io/quiz/static/css/main.85768c17.css.map",
-    "main.36d74995.js.map": "https://izuku-mi.github.io/quiz/static/js/main.36d74995.js.map",
+    "main.adc534b8.js.map": "https://izuku-mi.github.io/quiz/static/js/main.adc534b8.js.map",
     "787.83904489.chunk.js.map": "https://izuku-mi.github.io/quiz/static/js/787.83904489.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.85768c17.css",
-    "static/js/main.36d74995.js"
+    "static/js/main.adc534b8.js"
   ]
 }
