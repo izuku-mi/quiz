@@ -30,7 +30,7 @@ export default function App() {
           data-placement="bottom"
           title="ssa"
         >
-          QBank 1
+          SSA E1
         </button>
         <button
           data-toggle="tooltip"
@@ -41,7 +41,7 @@ export default function App() {
             activeQbank === "qs2" ? " btn-success " : "btn-light"
           }`}
         >
-          QBank 2
+          IQMS
         </button>
       </nav>
       <div className="row mt-3">
