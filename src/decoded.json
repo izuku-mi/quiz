@@ -1,0 +1,2899 @@
+[
+  [
+    {
+      "id": "1",
+      "question": "What are the core objectives of industry/market trend analysis?",
+      "choices": [
+        "Understand potential upcoming business challenges",
+        "Recommend appropriate solution to address future challenges",
+        "Steer business planning",
+        "All of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Value Discovery",
+      "feedback": ""
+    },
+    {
+      "id": "2",
+      "question": "What are the benefits of industry/market trend analysis?",
+      "choices": [
+        "Identify possible opportunities in the market",
+        "Influence the prospects and customers",
+        "Plan for investment in people and technology",
+        "All of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Value Discovery",
+      "feedback": ""
+    },
+    {
+      "id": "3",
+      "question": "The Corporate Marketing Research team provides research data only for the pre-sales and sales functions.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Value Discovery",
+      "feedback": ""
+    },
+    {
+      "id": "4",
+      "question": "Who should be well aware of market trends to identify potential opportunities?",
+      "choices": ["Sales Team", "Solution Team", "Finance Team", "IT Team"],
+      "Qtype": "MC",
+      "correct": "1,2",
+      "section name": "Value Discovery",
+      "feedback": ""
+    },
+    {
+      "id": "5",
+      "question": "The success of Analyst Connects is a key enabler in TCS market positioning.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Value Discovery",
+      "feedback": ""
+    },
+    {
+      "id": "6",
+      "question": "The objectives of Analyst Connects include:",
+      "choices": ["Insights", "Exposure", "Influence", "All of the above"],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Value Discovery",
+      "feedback": ""
+    },
+    {
+      "id": "7",
+      "question": "TCS already has contracts in place with leading analyst firms.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Value Discovery",
+      "feedback": ""
+    },
+    {
+      "id": "8",
+      "question": "Analyst connects can help drive the G&T sales enablement initiatives through:",
+      "choices": [
+        "Creation and curation of various artifacts, like pre-approved content, for Sales Enablement by leveraging Knome and TCS Digital Store",
+        "Analyst report distribution and customer impact workshops to drive sales conversations and thought leadership",
+        "Sales enablement initiatives that leverage positive analyst rankings and quotes",
+        "All of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Value Discovery",
+      "feedback": ""
+    },
+    {
+      "id": "9",
+      "question": "A well-planned and successfully managed AR program is important to achieve the G&T objectives of TCS.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Value Discovery",
+      "feedback": ""
+    },
+    {
+      "id": "10",
+      "question": "Focusing on strategic priorities of CXOs involves:",
+      "choices": [
+        "Analyzing market trends",
+        "Listening to customer\u2019s challenges and aspirations",
+        "Understanding the organization\u2019s Business and IT initiatives",
+        "Trying to build a personal connect with the CXO"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,3",
+      "section name": "Value Discovery",
+      "feedback": ""
+    },
+    {
+      "id": "11",
+      "question": "Good customer relationship management can help in:",
+      "choices": [
+        "Enhancing customer satisfaction",
+        "Bringing more business to the organization",
+        "Developing insights into industry trends",
+        "Anticipating strategic changes in customer organizations"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,3,4",
+      "section name": "Value Discovery",
+      "feedback": ""
+    },
+    {
+      "id": "12",
+      "question": "What should you do to be ready for a customer CXO meeting?",
+      "choices": [
+        "Know each executive\u2019s profile and background",
+        "Know the priorities of each CXO",
+        "Have trend analysis data for the CXO priorities",
+        "Identify a set of WIIFM for the CXO"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,3,4",
+      "section name": "Value Discovery",
+      "feedback": ""
+    },
+    {
+      "id": "13",
+      "question": "Interactions that have not converted into business is a success metric for good customer relationship?",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Value Discovery",
+      "feedback": ""
+    },
+    {
+      "id": "14",
+      "question": "How can external forums influence customers?",
+      "choices": [
+        "By establishing TCS\u2019 market standing",
+        "By demonstrating the 'art of possible'",
+        "By showcasing how TCS is driving new G&T opportunities",
+        "By creating joint opportunities and go-to-market plans with customers"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,3,4",
+      "section name": "Value Discovery",
+      "feedback": ""
+    },
+    {
+      "id": "15",
+      "question": "The objectives of bringing outside-in view include:",
+      "choices": [
+        "Sell TCS capabilities regardless of the customer context",
+        "Expand the footprint of TCS within the customer organization",
+        "Demonstrate TCS\u2019 market presence and reach",
+        "Showcase how TCS has solved similar other problems and helped customers"
+      ],
+      "Qtype": "MC",
+      "correct": "2,3,4",
+      "section name": "Value Discovery",
+      "feedback": ""
+    },
+    {
+      "id": "16",
+      "question": "External forums allow TCS to sell offerings regardless of customer\u2019s needs.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Value Discovery",
+      "feedback": ""
+    },
+    {
+      "id": "17",
+      "question": "Where will we learn about TCS\u2019 solution capabilities and G&T stories?",
+      "choices": [
+        "Ultimatix (Sales)",
+        "Knome (Blog)",
+        "TCS\u2019 Digital Store",
+        "There is no such place in TCS"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "Value Discovery",
+      "feedback": ""
+    },
+    {
+      "id": "18",
+      "question": "The benefits of strategically positioning TCS IP/IP assets include the following:",
+      "choices": [
+        "Build sustainable competitive advantage",
+        "Drive more revenue growth",
+        "Focus on the end user",
+        "Contain costs"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,4",
+      "section name": "Value Discovery",
+      "feedback": ""
+    },
+    {
+      "id": "19",
+      "question": "Strategic leveraging and positioning of TCS IP/IP assets as a capability is a crucial differentiator for TCS while engaging with a customer in their G&T journey.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Value Discovery",
+      "feedback": ""
+    },
+    {
+      "id": "20",
+      "question": "The criteria for measuring success of TCS IP/IP assets positioning include:",
+      "choices": [
+        "Number of customer confirmations for successful deployment of TCS IP/IP assets in their G&T programs",
+        "Cost of filing IP",
+        "Revenue specific to TCS IP/IP Assets",
+        "Total number of G&T deals"
+      ],
+      "Qtype": "MC",
+      "correct": "1,3",
+      "section name": "Value Discovery",
+      "feedback": ""
+    },
+    {
+      "id": "21",
+      "question": "While planning about IP, you would also need to think about:",
+      "choices": [
+        "Number of times the IP will be reused",
+        "R&D leading to IP",
+        "Technical skills or the training required by employees",
+        "None of the above"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,3",
+      "section name": "Value Discovery",
+      "feedback": ""
+    },
+    {
+      "id": "22",
+      "question": "TCS network of partners includes niche technology developers.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Value Discovery",
+      "feedback": ""
+    },
+    {
+      "id": "23",
+      "question": "Which TCS initiative provides an environment for sophisticated IT research in leading-edge technologies across various domains?",
+      "choices": [
+        "TCS Co-Innovation Network (COIN\u2122)",
+        "TCS Pace Port\u2122",
+        "TCS Alliances",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Value Discovery",
+      "feedback": ""
+    },
+    {
+      "id": "24",
+      "question": "Which of the following is a key measure to track the success of the capability Partner Connect to Leverage Ecosystem?",
+      "choices": [
+        "Partner solutions offerings proposed to the customer",
+        "Combined solutions offerings proposed to the customer",
+        "TCS solutions offerings proposed to the customer",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Value Discovery",
+      "feedback": ""
+    },
+    {
+      "id": "25",
+      "question": "If a client is concerned about the proposed solution because the TCS-introduced partner is not well known, what will you do?",
+      "choices": [
+        "Let the client know that TCS cannot be held accountable for the partner.",
+        "Assure the client that TCS has all the right safeguards in place to deliver the solution in case of an unforeseen incident related to the partner, and then ensure that those safeguards are in place.",
+        "Let the client know that nothing can go wrong with the partner.",
+        "Let the client know that this is a risk and there is no mitigation."
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Value Discovery",
+      "feedback": ""
+    },
+    {
+      "id": "26",
+      "question": "To gain a deeper understanding of the partner ecosystem, one can reach out to the:",
+      "choices": [
+        "Project Manager",
+        "Project Leader",
+        "Solution Architect",
+        "Alliance Manager"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Value Discovery",
+      "feedback": ""
+    },
+    {
+      "id": "27",
+      "question": "A well-defined problem statement has stakeholder mapping and problem statement alone, with no reference to value enclosed.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Value Discovery",
+      "feedback": ""
+    },
+    {
+      "id": "28",
+      "question": "The Value Discovery phase focuses on:",
+      "choices": [
+        "Solutioning",
+        "Identifying the right problem to solve",
+        "Designing the right architecture for a problem",
+        "Coming up with a portfolio of problems"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Value Discovery",
+      "feedback": ""
+    },
+    {
+      "id": "29",
+      "question": "Problem Framing is a way of:",
+      "choices": [
+        "Brainstorming",
+        "Ideating",
+        "Design Thinking",
+        "Mind Mapping"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "Value Discovery",
+      "feedback": ""
+    },
+    {
+      "id": "30",
+      "question": "Which of the following would be a preliminary approach for Value Discovery?",
+      "choices": [
+        "Adopting a fail-fast approach",
+        "Problem Solving",
+        "Developing a blueprint",
+        "Problem Framing"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Value Discovery",
+      "feedback": ""
+    },
+    {
+      "id": "31",
+      "question": "G&T Innovation relies on:",
+      "choices": [
+        "POCs, not MVPs",
+        "MVPs, not POCs",
+        "Both MVPs and POCs",
+        "Clear problem definition"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Value Discovery",
+      "feedback": ""
+    },
+    {
+      "id": "32",
+      "question": "Lifeline Survey is conducted for the customer CXOs.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Value Discovery",
+      "feedback": ""
+    },
+    {
+      "id": "33",
+      "question": "CSS and Lifeline analytics are used to:",
+      "choices": [
+        "Understand the strengths and opportunities for improvement in the account",
+        "Draw insights on TCS performance across various segments",
+        "Help customers to define their business priorities",
+        "Enable TCS sales and marketing teams with inputs to help build a sales pitch"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,4",
+      "section name": "Value Discovery",
+      "feedback": ""
+    },
+    {
+      "id": "34",
+      "question": "Lifeline Survey and CSS analytics include insights into various feedback categories, like geography, country, P&L unit, group client, service line, and others.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Value Discovery",
+      "feedback": ""
+    },
+    {
+      "id": "35",
+      "question": "G&T Partner Score is computed based on:",
+      "choices": [
+        "CSS feedback",
+        "Lifeline feedback",
+        "Customer interview",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Value Discovery",
+      "feedback": ""
+    },
+    {
+      "id": "36",
+      "question": "CSS/Lifeline Analytics is a Value Discovery capability because:",
+      "choices": [
+        "It enables projects and accounts to collect and analyze customer feedback",
+        "It provides a high-level view to the sales team of customer perceptions and expectations",
+        "It enables projects and accounts to create action plans addressing dissatisfiers and OFIs",
+        "It helps the marketing team to identify G&T Partner accounts to collect best practices"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,3,4",
+      "section name": "Value Discovery",
+      "feedback": ""
+    },
+    {
+      "id": "37",
+      "question": "Which program is designed to build G&T program managers?",
+      "choices": [
+        "Elevate Wings 1",
+        "Elevate Wings 2",
+        "Elevate Wings 3",
+        "Catalyst"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Value Discovery",
+      "feedback": ""
+    },
+    {
+      "id": "38",
+      "question": "To convince the customer about our ability to execute a G&T engagement, it is critical to showcase G&T leaders who can be deployed on the project.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Value Discovery",
+      "feedback": ""
+    },
+    {
+      "id": "39",
+      "question": "The following is a success measure for competency programs for G&T:",
+      "choices": [
+        "Percentage of associates who completed any of the G&T competency development programs",
+        "Percentage of G&T trained associates working in active G&T engagements",
+        "Ratio of G&T trained associates to number of active G&T engagements",
+        "Ratio of G&T engagements to number of TCS associates"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,3",
+      "section name": "Value Discovery",
+      "feedback": ""
+    },
+    {
+      "id": "40",
+      "question": "The following is the primary tool created to help associates, accounts and units gain a deeper understanding of each of the capabilities in the G&T framework:",
+      "choices": [
+        "G&T Capability Execution Playbook",
+        "G&T Capability Execution Handbook",
+        "G&T Guild Guidebook",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Value Discovery",
+      "feedback": ""
+    },
+    {
+      "id": "41",
+      "question": "Why is prototype/PoC/PoT important to G&T deals?",
+      "choices": [
+        "It helps us to demonstrate the solution to the business problem",
+        "It demonstrates how emerging technologies can solve the business problem",
+        "We gain the mindshare of the customer",
+        "All of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Value Discovery",
+      "feedback": ""
+    },
+    {
+      "id": "42",
+      "question": "Select all the correct statements.",
+      "choices": [
+        "PoC/PoT is used to test the new technologies for specific concepts.",
+        "Prototype is used to validate the business functionality with end-users",
+        "PoC/PoT is always driven by the customer",
+        "A PoC/PoT has to be a completely inhouse development"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2",
+      "section name": "Value Discovery",
+      "feedback": ""
+    },
+    {
+      "id": "43",
+      "question": "The following techniques/resources can be leveraged to develop prototype/PoC/PoT:",
+      "choices": [
+        "Design thinking workshops, ideathons, hackathons",
+        "TCS Pace Port\u2122",
+        "TCS COIN\u2122 partnerships",
+        "All of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Value Discovery",
+      "feedback": ""
+    },
+    {
+      "id": "44",
+      "question": "Which of the following resources can be leveraged for Prototype/PoC/PoT?",
+      "choices": [
+        "Industry/market trend analysis",
+        "Technology trend analysis",
+        "CXO stakeholder view of priorities",
+        "TCS competitor product information"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,3",
+      "section name": "Value Discovery",
+      "feedback": ""
+    },
+    {
+      "id": "45",
+      "question": "TCS can claim IP rights of the prototype if it is developed using customer confidential information or using customer pre-existing IP.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Value Discovery",
+      "feedback": ""
+    },
+    {
+      "id": "46",
+      "question": "TCS will own the IP of the prototype/PoC/PoT if it is developed using:",
+      "choices": [
+        "TCS intellectual capital",
+        "TCS\u2019 pre-existing IP",
+        "TCS confidential information",
+        "All of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Value Discovery",
+      "feedback": ""
+    },
+    {
+      "id": "47",
+      "question": "As TCS is shaping and developing the G&T opportunity, there is a greater probability that TCS can retain the IP of the prototype/PoC/PoT.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Value Discovery",
+      "feedback": ""
+    },
+    {
+      "id": "48",
+      "question": "Identify the correct statement(s) if TCS is developing a prototype/PoC/PoT that is its own IP.",
+      "choices": [
+        "The team working on the prototype/PoC/PoT should be allocated to a TCS SWON (and not allocated to a customer WON)",
+        "The prototype/PoC/PoT should be developed using TCS infrastructure (and not the customer infrastructure or in customer ODC)",
+        "The team can use customer email IDs to exchange information",
+        "TCS account team can demonstrate the prototype/PoC/PoT to a customer without an NDA"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2",
+      "section name": "Value Discovery",
+      "feedback": ""
+    },
+    {
+      "id": "49",
+      "question": "For accelerated prototype/PoC/PoT development, one should visit TCS IP Asset Registry (TIPAR) and evaluate if any assets can be reused.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Value Discovery",
+      "feedback": ""
+    },
+    {
+      "id": "50",
+      "question": "The following systems/ methodologies/ frameworks can be leveraged while developing prototype/PoC/PoT:",
+      "choices": [
+        "TCS IP Asset Registry (TIPAR)",
+        "TCS Digital Store",
+        "TCS Cognitive Delivery Platform (CDP)",
+        "All of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Value Discovery",
+      "feedback": ""
+    },
+    {
+      "id": "51",
+      "question": "Networking, as a skill, is useful to:",
+      "choices": [
+        "Leadership and senior executives",
+        "Associates in sales and client facing roles",
+        "Program managers working with multiple stakeholders",
+        "Everyone"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Value Discovery",
+      "feedback": ""
+    },
+    {
+      "id": "52",
+      "question": "Good Leadership Networking would help in:",
+      "choices": [
+        "Enhancing customer satisfaction",
+        "Bringing more business to the organization",
+        "Developing insights into industry trends",
+        "Anticipating strategic changes in customer organizations"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,3,4",
+      "section name": "Value Discovery",
+      "feedback": ""
+    },
+    {
+      "id": "53",
+      "question": "Networking skills cannot be developed by introverts.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Value Discovery",
+      "feedback": ""
+    },
+    {
+      "id": "54",
+      "question": "The formal TCS policy document to leverage social media is available on:",
+      "choices": [
+        "Ultimatix (Sales)",
+        "Knome (Blog)",
+        "Knowmax (HR Portal)",
+        "There is no such policy in TCS"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "Value Discovery",
+      "feedback": ""
+    },
+    {
+      "id": "55",
+      "question": "Which of the following provides an indication of the success of an individual\u2019s networking capability?",
+      "choices": [
+        "The number of leaders in the individual\u2019s active network",
+        "The number of deals or engagements the individual has been able to close by using the network",
+        "The amount of revenue generated by business brought in through the network",
+        "The number of networking events attended in a year by the individual"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,3,4",
+      "section name": "Value Discovery",
+      "feedback": ""
+    },
+    {
+      "id": "56",
+      "question": "The benefits of Solution Envisioning using the design thinking process include the following:",
+      "choices": [
+        "It is an adaptable method",
+        "It can be carefully tested",
+        "Its focus is on the end user",
+        "It follows the tried and tested Waterfall model"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,3",
+      "section name": "Value Discovery",
+      "feedback": ""
+    },
+    {
+      "id": "57",
+      "question": "Don Norman, the American Researcher, wrote a book on design thinking, titled:",
+      "choices": [
+        "The Design of Complex Things",
+        "The Design of Rare Things",
+        "The Design of Everyday Things",
+        "The Design of Valuable Things"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "Value Discovery",
+      "feedback": ""
+    },
+    {
+      "id": "58",
+      "question": "The activities associated with defining the \u2018problem\u2019 using design thinking concepts, include:",
+      "choices": ["Discover", "Define", "Deliver", "Articulate"],
+      "Qtype": "MC",
+      "correct": "1,2",
+      "section name": "Value Discovery",
+      "feedback": ""
+    },
+    {
+      "id": "59",
+      "question": "The activities associated with defining the \u2018solution\u2019 using design thinking concepts, include:",
+      "choices": ["Develop", "Discover", "Deliver", "Survey"],
+      "Qtype": "MC",
+      "correct": "1,3",
+      "section name": "Value Discovery",
+      "feedback": ""
+    }
+  ],
+  [
+    {
+      "id": "120",
+      "question": "The use of Machine First and Knowledge Driven Development in a G&T Value Delivery Cycle helps to:",
+      "choices": [
+        "Increase Speed-to-Market",
+        "Drive superior customer experience",
+        "Transform to technology-led operations",
+        "All of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Value Delivery",
+      "feedback": ""
+    },
+    {
+      "id": "121",
+      "question": "The objectives of Machine First and Knowledge Driven Development are:",
+      "choices": [
+        "Increase Speed-to-Market",
+        "Accelerate business growth",
+        "Improve Operational Efficiencies",
+        "Enhance Quality of Experience"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,3,4",
+      "section name": "Value Delivery",
+      "feedback": ""
+    },
+    {
+      "id": "122",
+      "question": "Why is it important to have contextual knowledge, while executing a G&T program?",
+      "choices": [
+        "To enable proactive solutioning",
+        "To create a solution, which positions the customer as a market leader",
+        "To create a good image",
+        "To develop a good program plan"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2",
+      "section name": "Value Delivery",
+      "feedback": ""
+    },
+    {
+      "id": "123",
+      "question": "What are some of the key activities in leveraging the Machine First/Knowledge Driven Delivery capability?",
+      "choices": [
+        "Review the contractual commitment",
+        "Leverage MFDM\u2122 across the three lifecycle phases \u2013 Discover, Adapt and Transform",
+        "Review the approach with the client",
+        "Conduct periodic reviews"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,3,4",
+      "section name": "Value Delivery",
+      "feedback": ""
+    },
+    {
+      "id": "124",
+      "question": "What are the measures that help in successful delivery?",
+      "choices": [
+        "Meeting Business KPIs",
+        "Meeting SLAs on Business and IT Operations",
+        "Automation Leverage",
+        "Knowledge Leverage"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,3,4",
+      "section name": "Value Delivery",
+      "feedback": ""
+    },
+    {
+      "id": "125",
+      "question": "Which of the following stages are present in the 5D Framework?",
+      "choices": ["Discover", "Define", "Design", "Deliver & Deploy"],
+      "Qtype": "MC",
+      "correct": "1,3,4",
+      "section name": "Value Delivery",
+      "feedback": ""
+    },
+    {
+      "id": "126",
+      "question": "The possible sources to identify Business Outcome KPIs for a G&T engagement are:",
+      "choices": [
+        "Business Outcome KPIs catalogue at the TCS Unit level",
+        "Market and competitor analysis",
+        "IT Statement of Work (SoW)",
+        "CXO or Analyst connects"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,4",
+      "section name": "Value Delivery",
+      "feedback": ""
+    },
+    {
+      "id": "127",
+      "question": "Which of the following actions are recommended for the G&T program team with regard to Business Outcome KPIs?",
+      "choices": [
+        "Identify an owner from TCS to measure and report the KPIs dashboard periodically",
+        "Agree with the customer on the relevant Business Outcome KPIs, before starting the engagement",
+        "Ensure that all Business Outcome KPIs are covered in the contract with agreed targets",
+        "Create a KPI dashboard, covering IT and Business Outcome KPIs, with lead and lag measures"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,4",
+      "section name": "Value Delivery",
+      "feedback": ""
+    },
+    {
+      "id": "128",
+      "question": "Which of the following artifacts are helpful to the G&T program team to discover, define and track IT and Business Outcome KPIs?",
+      "choices": [
+        "TCS Agile Execution Handbook",
+        "Business Outcome KPIs Reference Guide",
+        "Corporate Metrics Deployment Plan",
+        "Software Metrics Program"
+      ],
+      "Qtype": "MC",
+      "correct": "3,4",
+      "section name": "Value Delivery",
+      "feedback": ""
+    },
+    {
+      "id": "129",
+      "question": "How are IT delivery KPIs and Business Outcome KPIs linked to each other?",
+      "choices": [
+        "Both are independent measures",
+        "Many IT delivery KPIs can be derived from Business Outcome KPIs",
+        "Business Outcome KPIs are derived from IT delivery KPIs",
+        "The same set of measures are applicable for IT delivery and Business Outcome KPIs"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Value Delivery",
+      "feedback": ""
+    },
+    {
+      "id": "130",
+      "question": "Continuous Customer Mindshare capability for Value Delivery leverages the orchestration of the following capabilities from the G&T value delivery streams. Choose all the options that are correct.",
+      "choices": [
+        "IT & Business Outcome KPIs",
+        "Ideation for Perpetual Improvements",
+        "Perpetual Transformation Opportunities",
+        "Engagement Start-up"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,3",
+      "section name": "Value Delivery",
+      "feedback": ""
+    },
+    {
+      "id": "131",
+      "question": "Which of the following is not an event in the TCS Marketing Events Calendar?",
+      "choices": [
+        "Customer Summit",
+        "Annual Summer Drinks",
+        "Innovation Forum",
+        "F1 Races"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Value Delivery",
+      "feedback": ""
+    },
+    {
+      "id": "132",
+      "question": "Choose the categories that feature in the TCS Innovation framework.",
+      "choices": [
+        "Incremental innovation",
+        "Derivative innovation",
+        "Cyclical innovation",
+        "Disruptive innovation"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,4",
+      "section name": "Value Delivery",
+      "feedback": ""
+    },
+    {
+      "id": "133",
+      "question": "What are the components included in an operating model that enables \u2018Continuous Customer Mindshare\u2019 capability?",
+      "choices": [
+        "Value Management",
+        "Portfolio Management",
+        "Quality Management",
+        "All of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Value Delivery",
+      "feedback": ""
+    },
+    {
+      "id": "134",
+      "question": "An Agile workplace offers the following benefits to TCS associates (who work in it):",
+      "choices": [
+        "Security",
+        "Accessibility",
+        "Collaboration",
+        "All of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Value Delivery",
+      "feedback": ""
+    },
+    {
+      "id": "135",
+      "question": "Guidelines for converting traditional ODCs into Agile workplaces can be found in:",
+      "choices": [
+        "Agile Execution Handbook",
+        "One Click Agile Knome page",
+        "Admin Workplace Handbook",
+        "Agile Workplace Guide"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Value Delivery",
+      "feedback": ""
+    },
+    {
+      "id": "136",
+      "question": "What does OACW mean, in the context of the Agile Workplace?",
+      "choices": [
+        "Optimal Agile Cognitive Workspace",
+        "Optimal Agile Collaborative Workplace",
+        "Open Agile Collaborative Workspace",
+        "Open Agile Cognitive Workplace"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "Value Delivery",
+      "feedback": ""
+    },
+    {
+      "id": "137",
+      "question": "Which artifact provides comprehensive guidance about forming Agile teams?",
+      "choices": [
+        "One Click Agile Knome page",
+        "TCS Agile Teams Manual",
+        "TCS Location Independent Agile methodology",
+        "Agile Execution Handbook"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Value Delivery",
+      "feedback": ""
+    },
+    {
+      "id": "138",
+      "question": "How can the TCS Cognitive Delivery Platform help an Agile team?",
+      "choices": [
+        "It consists of a set of pre-configured and integrated tools that are ready for use",
+        "It is an AI-based automatic delivery platform that eliminates manual work",
+        "It helps to set up Agile workplaces and Agile teams",
+        "It helps to improve the productivity of Agile teams"
+      ],
+      "Qtype": "MC",
+      "correct": "1,4",
+      "section name": "Value Delivery",
+      "feedback": ""
+    },
+    {
+      "id": "139",
+      "question": "Which of the following are elements of G&T Value Delivery Execution Practices?",
+      "choices": [
+        "Point of View",
+        "Contract Negotiation",
+        "Entry and Exit Criteria",
+        "Tools and Accelerators"
+      ],
+      "Qtype": "MC",
+      "correct": "3,4",
+      "section name": "Value Delivery",
+      "feedback": ""
+    },
+    {
+      "id": "140",
+      "question": "Which system in TCS is used to classify G&T engagements during Delivery?",
+      "choices": ["G&T Portal", "CRM", "PWB", "COGS"],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "Value Delivery",
+      "feedback": ""
+    },
+    {
+      "id": "141",
+      "question": "Which of the following are potential outcome measures of G&T Program Execution?",
+      "choices": [
+        "Customer Revenue",
+        "New Business Products",
+        "Cost Savings",
+        "Time-to-Market"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,4",
+      "section name": "Value Delivery",
+      "feedback": ""
+    },
+    {
+      "id": "142",
+      "question": "It is always a good practice to showcase the Solution demo to the Customer Product Manager/other Business stakeholders, after all Development cycles or sprints are completed, and just before UAT begins, so that the demo can be completed at one shot.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Value Delivery",
+      "feedback": ""
+    },
+    {
+      "id": "143",
+      "question": "Which of the following are True regarding Best Practices / Knowledge Sharing sessions from successfully-completed projects?",
+      "choices": [
+        "Help project teams in efficient delivery",
+        "Help in establishing a connect with Contextual Masters",
+        "Help others understand Technology and Domain trends, to pursue new transformation opportunities in the same or other Accounts",
+        "They are not useful as they are very project specific, and therefore not applicable beyond the same project"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,3",
+      "section name": "Value Delivery",
+      "feedback": ""
+    },
+    {
+      "id": "144",
+      "question": "Which of the following benefits can be expected from Program Specific Upskilling?",
+      "choices": [
+        "Enables successful delivery of the project/program, by providing training, to address skill gaps in the team",
+        "Improves one\u2019s professional knowledge towards career growth",
+        "Equips associates to perform better across G&T value cycles",
+        "All of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Value Delivery",
+      "feedback": ""
+    },
+    {
+      "id": "145",
+      "question": "Competency building programs such as \u2018Elevate Wings\u2019 are meant for:",
+      "choices": [
+        "Seniors only in the organization, as they are expected to contribute to G&T",
+        "Client Partners only, who drive sales and business with customers",
+        "All associates, as everyone has a part to play towards G&T enablement",
+        "New joiners, to train them across various competencies, before onboarding them in projects"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "Value Delivery",
+      "feedback": ""
+    },
+    {
+      "id": "146",
+      "question": "Program Specific Upskilling in G&T engagements helps in:",
+      "choices": [
+        "Improving delivery quality and transformational value for the customer",
+        "Ensuring career progression for Associates",
+        "Enabling skills development and diversified experience acquisition, to help in current and future engagements",
+        "None of the Above"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,3",
+      "section name": "Value Delivery",
+      "feedback": ""
+    },
+    {
+      "id": "147",
+      "question": "Which team drives top-down innovation, where problem statements can come from across units and unit strategies, customer pain points or domain-related issues?",
+      "choices": [
+        "Customer Team",
+        "TCS R&I Team",
+        "Innovation Champion Network",
+        "Delivery Excellence Team"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Value Delivery",
+      "feedback": ""
+    },
+    {
+      "id": "148",
+      "question": "Which platform could be leveraged to conduct technical hackathons for TCS teams, as well as customer teams and partners?",
+      "choices": ["TCS Manthan", "TCS Prime", "iON\u2122", "TCS Innovista"],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "Value Delivery",
+      "feedback": ""
+    },
+    {
+      "id": "149",
+      "question": "Which is a creative hub for our customers to provide end-to-end consulting, design thinking, and implementation of digital services, to speed up the G&T journey?",
+      "choices": [
+        "TCS Agile Delivery Center",
+        "TCS Digital Library",
+        "TCS Digital Garage",
+        "TCS Pace Port\u2122"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Value Delivery",
+      "feedback": ""
+    },
+    {
+      "id": "150",
+      "question": "While discussing the innovation journey, key enablers were highlighted for end-to-end execution from ideation to MVP release in a G&T engagement. Select these enablers.",
+      "choices": [
+        "TCS Pace Port\u2122",
+        "TCS Agile Innovation Center",
+        "TCS Space Port",
+        "TCS COIN\u2122"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,4",
+      "section name": "Value Delivery",
+      "feedback": ""
+    },
+    {
+      "id": "151",
+      "question": "During the \u2018Value Delivery\u2019 cycle of a G&T engagement, a customer stakeholder explains a change in the business model and goal of the organization. As Program Head, what will be your stance?",
+      "choices": [
+        "Analyze the new business model and conduct a feasibility study, to revise and retrofit the revised value delivery plan",
+        "Inform customers that the existing value delivery plan would be of no use, and we would need to start the engagement from scratch",
+        "Accept the changes, but indicate its impact on schedule and cost",
+        "Not to consider this change as the engagement was won on earlier business goals only"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Value Delivery",
+      "feedback": ""
+    },
+    {
+      "id": "152",
+      "question": "The key discussion points, during a customer communication in a G&T engagement, cover:",
+      "choices": [
+        "Delivery progress and its alignment to business value commitments",
+        "Open conversation on all probable touchpoints for improvement and discussion, to understand and assign business or engagement priority to those improvement opportunities",
+        "Sharing of TCS\u2019 points-of-view in the context of the engagement and for forthcoming business roadmap of customers",
+        "All of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Value Delivery",
+      "feedback": ""
+    },
+    {
+      "id": "153",
+      "question": "Why does the \u2018Value Delivery Cycle\u2019 in a G&T engagement need to adopt \u2018Perpetual Improvements\u2019?",
+      "choices": [
+        "To ensure the relevance of business value commitments",
+        "To capture the changes in business priorities and factor them into the same solution design",
+        "To develop contextual stories",
+        "To improve skills of associates in the engagement"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2",
+      "section name": "Value Delivery",
+      "feedback": ""
+    },
+    {
+      "id": "154",
+      "question": "What are the key constructs of ideation in a G&T Value Delivery capability?",
+      "choices": [
+        "Achieve the contractually-committed milestones",
+        "Continuously deliver business value",
+        "Deliver innovative solutions",
+        "Look for perpetual improvement opportunities"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,3,4",
+      "section name": "Value Delivery",
+      "feedback": ""
+    },
+    {
+      "id": "155",
+      "question": "An innovative solution generated in collaboration with the customer through our Agile Innovation Center (AIC) process is:",
+      "choices": [
+        "TCS Intellectual Property",
+        "Intellectual Property of the Customer",
+        "IP of the Project Team",
+        "Depends on the mutually-agreed option before the start of the collaboration."
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Value Delivery",
+      "feedback": ""
+    },
+    {
+      "id": "156",
+      "question": "A typical G&T engagement requires ideation during the proposal building stage only. This statement is:",
+      "choices": ["True", "Partially True", "False", "Cannot say"],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "Value Delivery",
+      "feedback": ""
+    },
+    {
+      "id": "157",
+      "question": "The use of artifacts in a G&T Value Delivery Cycle helps in achieving:",
+      "choices": [
+        "Scale in the delivery throughput",
+        "Standardization",
+        "Delivery discipline",
+        "Confirmation for business value commitments"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,3",
+      "section name": "Value Delivery",
+      "feedback": ""
+    },
+    {
+      "id": "158",
+      "question": "From a customer\u2019s perspective, the use of artifacts should result in:",
+      "choices": [
+        "Velocity of business value fulfilment",
+        "High quality",
+        "Regulatory compliance",
+        "None of the Above"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2",
+      "section name": "Value Delivery",
+      "feedback": ""
+    },
+    {
+      "id": "159",
+      "question": "Identification of right artifacts and their usage in the Value Delivery cycle, also enables easy adoption of business change management. The attributable reasons are:",
+      "choices": [
+        "Confidence to manage delivery milestones as per schedule",
+        "Flexibility to accept and manage delivery reprioritization",
+        "Capability to deliver the revised scope with quality and speed",
+        "All of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Value Delivery",
+      "feedback": ""
+    },
+    {
+      "id": "160",
+      "question": "The prime benefits of positioning artifacts in a G&T engagement are:",
+      "choices": [
+        "They accelerate the demo of Proof-of-Concept, Proof-of-Technology and Proof-of-Value",
+        "They build customer confidence in TCS\u2019 differentiation",
+        "They make the execution of engagement tasks replicable and programmatic",
+        "They help in increasing the potential for obtaining customer testimonials"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,3,4",
+      "section name": "Value Delivery",
+      "feedback": ""
+    },
+    {
+      "id": "161",
+      "question": "What are the measures that indicate successful positioning and usage of artifacts?",
+      "choices": [
+        "Gain in customer\u2019s mindshare of TCS delivery and solution capabilities",
+        "Gain in TCS associates\u2019 conviction to use artifacts",
+        "Development of new artifacts",
+        "Strengthening TCS\u2019s IP profile and portfolio"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,4",
+      "section name": "Value Delivery",
+      "feedback": ""
+    },
+    {
+      "id": "162",
+      "question": "Identify the programs where we consider Multi-services Program management:",
+      "choices": [
+        "Multiple domain services",
+        "Multiple technology units involved",
+        "Associates with various grades",
+        "None of the Above"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2",
+      "section name": "Value Delivery",
+      "feedback": ""
+    },
+    {
+      "id": "163",
+      "question": "Select the important aspects that we need to focus on in a Multi-services Program:",
+      "choices": [
+        "Program Setup",
+        "Contract Signing",
+        "Laptop Issuance",
+        "Program Governance"
+      ],
+      "Qtype": "MC",
+      "correct": "1,4",
+      "section name": "Value Delivery",
+      "feedback": ""
+    },
+    {
+      "id": "164",
+      "question": "Select all the relevant activities involved, to enable a Multi-services Program:",
+      "choices": [
+        "Establish empowerment principles",
+        "Create a risk mitigation approach",
+        "Create a Cross-functional team",
+        "Identify skill-gaps and create a learning plan"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,3,4",
+      "section name": "Value Delivery",
+      "feedback": ""
+    },
+    {
+      "id": "165",
+      "question": "Select the key activities that are required in Multi-Services Program Management:",
+      "choices": [
+        "Create a risk mitigation approach",
+        "Set up an open communication channel",
+        "Identify project service lines",
+        "None of the Above"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,3",
+      "section name": "Value Delivery",
+      "feedback": ""
+    },
+    {
+      "id": "166",
+      "question": "Select the three most important inputs that are required to kick-start a Multi-Services Program:",
+      "choices": [
+        "Competency Programs",
+        "Program awarded date",
+        "Solution Framing",
+        "Contract Review"
+      ],
+      "Qtype": "MC",
+      "correct": "1,3,4",
+      "section name": "Value Delivery",
+      "feedback": ""
+    },
+    {
+      "id": "167",
+      "question": "Which of the following are TCS IP & Engineering Systems?",
+      "choices": [
+        "IPRMS \u2013 IP Rights Management System",
+        "TIPAR \u2013 TCS IP Asset Registry",
+        "TIPAMS \u2013 TCS IP Asset Management System",
+        "IPERC - IP&E Resource Center"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,3,4",
+      "section name": "Value Delivery",
+      "feedback": ""
+    },
+    {
+      "id": "168",
+      "question": "Which of the following TCS Intellectual Property needs to be protected?",
+      "choices": [
+        "Ideas",
+        "Patents",
+        "Framework, Methodologies and Tools",
+        "Solutions, Platforms and Products"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,3,4",
+      "section name": "Value Delivery",
+      "feedback": ""
+    },
+    {
+      "id": "169",
+      "question": "Which of the following are considered as Intellectual Capital?",
+      "choices": [
+        "Patents",
+        "Products and Platforms",
+        "Domain Knowledge",
+        "Contextual Knowledge"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,3,4",
+      "section name": "Value Delivery",
+      "feedback": ""
+    },
+    {
+      "id": "170",
+      "question": "If a solution developed by TCS for a customer includes TCS IP and third-party IP, then who are the stakeholders responsible to approve the solution?",
+      "choices": [
+        "Just TCS, as we own the solution",
+        "TCS and the third party, whose IP is part of the solution",
+        "TCS, Customer and the Third Party whose IP is part of the solution",
+        "Just the Customer, as the customer is paying for the solution"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "Value Delivery",
+      "feedback": ""
+    },
+    {
+      "id": "171",
+      "question": "Which of these are useful in showcasing Contextual Leadership?",
+      "choices": [
+        "Domain Knowledge",
+        "Knowledge of the customer\u2019s Business & IT Landscape \u2013 current and historical",
+        "Industry Knowledge",
+        "All of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Value Delivery",
+      "feedback": ""
+    },
+    {
+      "id": "172",
+      "question": "What are the capabilities influenced by Contextual Leadership?",
+      "choices": [
+        "Perpetual Transformation Opportunities",
+        "Partner Management",
+        "Continuous Customer Mindshare",
+        "Leadership Networking"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,3,4",
+      "section name": "Value Delivery",
+      "feedback": ""
+    },
+    {
+      "id": "173",
+      "question": "The success of Partner Management lies in creating win-win situations for TCS, Customers and Partners.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Value Delivery",
+      "feedback": ""
+    },
+    {
+      "id": "174",
+      "question": "The objectives of Partner Management are:",
+      "choices": [
+        "To leverage partners in discovering, designing, and delivering differentiated business outcomes for customers",
+        "To generate new business opportunities",
+        "To develop an excellent understanding of partners\u2019 products, markets, and value propositions",
+        "All of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Value Delivery",
+      "feedback": ""
+    },
+    {
+      "id": "175",
+      "question": "Your solution is based on a partner\u2019s product. It is not important to check if the SLA commitment to your customer is in sync with the partner\u2019s SLA.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Value Delivery",
+      "feedback": ""
+    },
+    {
+      "id": "176",
+      "question": "Your solution is based on a partner\u2019s product. Is it alright to commit a partner\u2019s product patch to the customer, because you have a strategic partnership?",
+      "choices": [
+        "It is advisable to have a prior partner commitment to deliver. You should not commit what is not under your control.",
+        "The partner\u2019s commitment can be assumed, because the G&T program is large.",
+        "TCS has been in a long-term partnership with the partner. Hence, you have confidence that the partner will not mind.",
+        "It is TCS\u2019 prerogative to commit to the customer. There is no need to consult the relevant partner."
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Value Delivery",
+      "feedback": ""
+    },
+    {
+      "id": "177",
+      "question": "I have a customer requirement for which a solution, to the best of my knowledge, does not exist today. What should be my next step?",
+      "choices": [
+        "Take it up with TCS\u2019 R&I organization, as a potential research problem for their advice",
+        "Explore TCS COIN\u2122 network for a possible solution",
+        "Check TCS IP Asset Registry (TIPAR), to explore the possibility of deriving the solution, based on existing TCS filed or granted patents",
+        "All of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Value Delivery",
+      "feedback": ""
+    },
+    {
+      "id": "178",
+      "question": "Select the statement that are not a part of Partner Management objectives?",
+      "choices": [
+        "To gain excellent knowledge of a partner\u2019s products, markets, business opportunities",
+        "To leverage partners, and create additional value for the customer's business outcomes",
+        "To recommend a partner for a G&T engagement, if they are facing a severe financial crunch",
+        "To generate new reciprocal business opportunities"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "Value Delivery",
+      "feedback": ""
+    },
+    {
+      "id": "179",
+      "question": "It is usually recommended that Steering Committee meetings between TCS and Strategic Partners, are held periodically, to review the collaboration plan. This statement is:",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Value Delivery",
+      "feedback": ""
+    },
+    {
+      "id": "180",
+      "question": "Design-led Transformation is relevant to:",
+      "choices": [
+        "The CEO and the Customer\u2019s Board",
+        "CXO levels such as the CMO, CDO and Chief Transformation Officer",
+        "The CIO and the IT delivery organization",
+        "All of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Value Delivery",
+      "feedback": ""
+    },
+    {
+      "id": "181",
+      "question": "What are the assets that are available to the sales team to plan engagements with Perpetual Transformation Opportunities?",
+      "choices": [
+        "Customer feedback",
+        "Latest industry/analyst trends",
+        "Market research",
+        "All of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Value Delivery",
+      "feedback": ""
+    },
+    {
+      "id": "182",
+      "question": "During which stage in the Design-led Perpetual Transformation approach will we use research, to gain an understanding of business, technology, and the users?",
+      "choices": ["Plan", "Discover", "Define", "Prioritize"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Value Delivery",
+      "feedback": ""
+    },
+    {
+      "id": "183",
+      "question": "During which stage in our Design-led Perpetual Transformation approach, we create a comprehensive list of \u2018How-Might-We\u2019 and 'problem statements':",
+      "choices": ["Plan", "Discover", "Define", "Prioritize"],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "Value Delivery",
+      "feedback": ""
+    },
+    {
+      "id": "184",
+      "question": "What are the objectives of perpetual transformation articulated in the TCS G&T Capability Framework?",
+      "choices": [
+        "Number of new opportunities for improvement identified",
+        "Number of Change Requests related to new opportunities generated in the ongoing G&T program",
+        "Number of downstream G&T opportunities generated",
+        "All of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Value Delivery",
+      "feedback": ""
+    }
+  ],
+  [
+    {
+      "id": "60",
+      "question": "Technology enables better monitoring and reporting of contractual risks. Some of the benefits include:",
+      "choices": [
+        "Blockchain/smart contracting",
+        "Standardization and consistency",
+        "An effective Management Information System",
+        "Availability of right skills at the right time"
+      ],
+      "Qtype": "MC",
+      "correct": "2,3",
+      "section name": "Value Proposition",
+      "feedback": ""
+    },
+    {
+      "id": "61",
+      "question": "In TCS, business management owns legal risk with advice and support from the legal function.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Value Proposition",
+      "feedback": ""
+    },
+    {
+      "id": "62",
+      "question": "For a proposal to engage with customer in a given opportunity, which clauses need to be checked mandatorily from a legal point of view?",
+      "choices": [
+        "Ownership of Intellectual Property Rights and license conditions",
+        "Statutory and Regulatory Requirements",
+        "Term and Termination of Agreement",
+        "Liability"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,3,4",
+      "section name": "Value Proposition",
+      "feedback": ""
+    },
+    {
+      "id": "63",
+      "question": "TCS has signed an MSA with a customer whose principal operation is in the US. The customer also operates from Canada. What is required for TCS to sign a Statement of Work with the customer entity in Canada?",
+      "choices": [
+        "Nothing needed. TCS can sign the SOW with the customer entity in Canada as we have an MSA signed already with US entity.",
+        "The customer entity in Canada is a new customer to TCS and so a new MSA is needed",
+        "TCS needs to sign a local country agreement under an affiliate clause with the customer entity in Canada",
+        "An approval email from the customer's US entity to sign an SOW with the customer entity in Canada"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "Value Proposition",
+      "feedback": ""
+    },
+    {
+      "id": "64",
+      "question": "Which enterprise systems enable contract management?",
+      "choices": [
+        "Contract Review System (CRS)",
+        "Contractual Obligations Governance System (COGS)",
+        "SmartSales\u2122 Opportunity system",
+        "Contract Management System (CMS)"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,3,4",
+      "section name": "Value Proposition",
+      "feedback": ""
+    },
+    {
+      "id": "65",
+      "question": "Our Co-Innovation Network\u2122 (COIN\u2122) is a rich and diverse collaborative network. It allows collaboration with:",
+      "choices": [
+        "Alliance partners",
+        "Venture capitalists",
+        "Research and academic institutions",
+        "Customers"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,3",
+      "section name": "Value Proposition",
+      "feedback": ""
+    },
+    {
+      "id": "66",
+      "question": "For which industry the TCS BFSI Platform for Life and Pensions continues to be the operating model of choice reimagining customer experience:",
+      "choices": [
+        "Manufacturing",
+        "Life sciences",
+        "Insurance",
+        "Energy & Resources"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "Value Proposition",
+      "feedback": ""
+    },
+    {
+      "id": "67",
+      "question": "TCS\u2019 consulting-led transformation framework creates an intelligent enterprise with a range of capabilities. The framework allows for:",
+      "choices": [
+        "Increased operating cost",
+        "Innovation-driven business strategies",
+        "Organizational change management",
+        "Pre-configured business and industry solutions"
+      ],
+      "Qtype": "MC",
+      "correct": "2,3,4",
+      "section name": "Value Proposition",
+      "feedback": ""
+    },
+    {
+      "id": "68",
+      "question": "Organizations with successful growth & transformation programs:",
+      "choices": [
+        "Deploy high-caliber talent",
+        "Have business-led modular technology platforms",
+        "Have leadership commitments driven only by middle management",
+        "Have an integrated strategy with clear transformational goals"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,4",
+      "section name": "Value Proposition",
+      "feedback": ""
+    },
+    {
+      "id": "69",
+      "question": "The impediments towards customers\u2019 growth and transformation programs span multiple areas. Which of these are NOT impediments to these programs?",
+      "choices": [
+        "Share value of the company",
+        "Structure of the organization",
+        "Leadership skills",
+        "Remuneration of the CEO"
+      ],
+      "Qtype": "MC",
+      "correct": "1,4",
+      "section name": "Value Proposition",
+      "feedback": ""
+    },
+    {
+      "id": "70",
+      "question": "Review of Delivery Commitments is needed to:",
+      "choices": [
+        "Validate feasibility of commitments",
+        "Remove difficult commitments",
+        "Identify and address potential risks",
+        "Extend Project Scope"
+      ],
+      "Qtype": "MC",
+      "correct": "1,3",
+      "section name": "Value Proposition",
+      "feedback": ""
+    },
+    {
+      "id": "71",
+      "question": "Delivery Commitments include:",
+      "choices": [
+        "Business Value",
+        "Delivery Milestones",
+        "Quality of product",
+        "All the above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Value Proposition",
+      "feedback": ""
+    },
+    {
+      "id": "72",
+      "question": "Which of these is a mandatory approach for Delivery Commitment Review?",
+      "choices": [
+        "Delivery representative in bid team",
+        "Deal Stage Review by delivery team",
+        "iQMS procedure for proposal/contract review",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "Value Proposition",
+      "feedback": ""
+    },
+    {
+      "id": "73",
+      "question": "Which of the following measures may get impacted by the effectiveness of Delivery Commitment Review?",
+      "choices": [
+        "Schedule Slippage",
+        "Effort Slippage",
+        "User Acceptance Defects",
+        "None of the above"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,3",
+      "section name": "Value Proposition",
+      "feedback": ""
+    },
+    {
+      "id": "74",
+      "question": "An effective Delivery Commitment Review may result in:",
+      "choices": [
+        "Minimum surprises during execution",
+        "Early realization of business value",
+        "On time delivery within allocated budget",
+        "Acceptable product quality"
+      ],
+      "Qtype": "MC",
+      "correct": "1,3,4",
+      "section name": "Value Proposition",
+      "feedback": ""
+    },
+    {
+      "id": "75",
+      "question": "Which of the following are business values?",
+      "choices": [
+        "Increased Revenue Growth",
+        "Faster Time to Market",
+        "Reduction in Change Requests",
+        "Increased Customer Base"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,4",
+      "section name": "Value Proposition",
+      "feedback": ""
+    },
+    {
+      "id": "76",
+      "question": "Business outcomes and IT outcomes are not the same.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Value Proposition",
+      "feedback": ""
+    },
+    {
+      "id": "77",
+      "question": "It is always possible to do one-to-one mapping of business outcome KPIs with engagement IT KPIs.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Value Proposition",
+      "feedback": ""
+    },
+    {
+      "id": "78",
+      "question": "Improvement of Net Promoter Score (NPS) of our customer depends on:",
+      "choices": [
+        "Faster resolution of Service Requests",
+        "Improved user experience of customer website",
+        "Reduction in operational cost",
+        "Minimum business outage"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,4",
+      "section name": "Value Proposition",
+      "feedback": ""
+    },
+    {
+      "id": "79",
+      "question": "To commit business value to the customer in the 'Value Proposition' cycle, which of the following should we consider?",
+      "choices": [
+        "Customer\u2019s past performance",
+        "Market trend",
+        "TCS financial performance",
+        "Customer's business priorities"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,4",
+      "section name": "Value Proposition",
+      "feedback": ""
+    },
+    {
+      "id": "80",
+      "question": "What are the three horizons for purpose-led growth?",
+      "choices": [
+        "Build digital core",
+        "Create partner driven ecosystem",
+        "Transform and grow around purpose-led ecosystems",
+        "Innovate business models"
+      ],
+      "Qtype": "MC",
+      "correct": "1,3,4",
+      "section name": "Value Proposition",
+      "feedback": ""
+    },
+    {
+      "id": "81",
+      "question": "What objective does Brand Positioning fulfil during the value proposition phase?",
+      "choices": [
+        "Helps in positioning our solution and delivery roadmap",
+        "Eliminates competition",
+        "Establishes TCS as a Trusted Partner",
+        "Establishes an ecosystem of partners"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,3",
+      "section name": "Value Proposition",
+      "feedback": ""
+    },
+    {
+      "id": "82",
+      "question": "What are the most effective success measures of brand positioning?",
+      "choices": [
+        "Participation in events (Leader speak)",
+        "Social Media Image (Quotient) of TCS Leaders/Subject Matter Experts",
+        "Media advertisement",
+        "None of the above"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2",
+      "section name": "Value Proposition",
+      "feedback": ""
+    },
+    {
+      "id": "83",
+      "question": "If you share a whitepaper with your customer that is published on the TCS website, it will help in brand positioning.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Value Proposition",
+      "feedback": ""
+    },
+    {
+      "id": "84",
+      "question": "Brand positioning could be established through:",
+      "choices": [
+        "Case Studies",
+        "Products and Platforms",
+        "Patents and Innovations",
+        "Participation in Industry Forums"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,3,4",
+      "section name": "Value Proposition",
+      "feedback": ""
+    },
+    {
+      "id": "85",
+      "question": "Who are primarily involved in brand positioning within customer fraternity?",
+      "choices": [
+        "CMO",
+        "Marketing Lead",
+        "Solution Lead",
+        "None of the above"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2",
+      "section name": "Value Proposition",
+      "feedback": ""
+    },
+    {
+      "id": "86",
+      "question": "The objectives of a solution delivery roadmap include:",
+      "choices": [
+        "Definition of implementation approach",
+        "Stakeholder shared vision",
+        "Alignment to customer\u2019s growth and transformation targets",
+        "Improvement in quality"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,3",
+      "section name": "Value Proposition",
+      "feedback": ""
+    },
+    {
+      "id": "87",
+      "question": "From a customer\u2019s perspective, the solution delivery roadmap should result in:",
+      "choices": [
+        "Velocity of business value fulfilment",
+        "Alignment to business targets",
+        "Regulatory compliance",
+        "Stakeholder buy-in"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,4",
+      "section name": "Value Proposition",
+      "feedback": ""
+    },
+    {
+      "id": "88",
+      "question": "TCS Jile<sup>TM</sup> is:",
+      "choices": [
+        "An Agile Planning and Delivery Product",
+        "An Innovation Hub",
+        "An Estimation Framework",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Value Proposition",
+      "feedback": ""
+    },
+    {
+      "id": "89",
+      "question": "A solution delivery roadmap typically consists of:",
+      "choices": ["Milestones", "Deliverables", "Dependencies", "Cost"],
+      "Qtype": "MC",
+      "correct": "1,2,3",
+      "section name": "Value Proposition",
+      "feedback": ""
+    },
+    {
+      "id": "90",
+      "question": "The prime reasons towards building a comprehensive solution delivery roadmap are:",
+      "choices": [
+        "It identifies risks and dependencies and their mitigation",
+        "It increases predictability in achievement of milestones",
+        "It enhances coordination and communication amongst stakeholders",
+        "It provides an opportunity to quickly course correct"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,3,4",
+      "section name": "Value Proposition",
+      "feedback": ""
+    },
+    {
+      "id": "91",
+      "question": "What are the measures that indicate successful solution delivery roadmap?",
+      "choices": [
+        "Gain in customer\u2019s mindshare on TCS delivery and solution capabilities",
+        "Reduced schedule, effort, and cost slippage",
+        "Achievement of customer\u2019s growth and transformation targets",
+        "Strengthening TCS\u2019 IP portfolio"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,3",
+      "section name": "Value Proposition",
+      "feedback": ""
+    },
+    {
+      "id": "92",
+      "question": "Financial terms and clauses in a contract only address the charges for the services to be provided.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Value Proposition",
+      "feedback": ""
+    },
+    {
+      "id": "93",
+      "question": "Which aspects need to be considered while coming up with financial terms and clauses in a contract?",
+      "choices": [
+        "Dependencies on the customer",
+        "Usage of third-party tool",
+        "Subcontract involvement",
+        "Team competency"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,3",
+      "section name": "Value Proposition",
+      "feedback": ""
+    },
+    {
+      "id": "94",
+      "question": "The financial review of the contract must be performed by:",
+      "choices": [
+        "Delivery Head",
+        "Business Finance Manager",
+        "Delivery Excellence Group",
+        "Contract Finance Manager"
+      ],
+      "Qtype": "MC",
+      "correct": "2,4",
+      "section name": "Value Proposition",
+      "feedback": ""
+    },
+    {
+      "id": "95",
+      "question": "Examples of Exceptional Clauses are:",
+      "choices": [
+        "Deferred payment of invoice",
+        "CMMI maturity of IT Partner",
+        "Service Level Agreements",
+        "Purchasing customer products"
+      ],
+      "Qtype": "MC",
+      "correct": "1,4",
+      "section name": "Value Proposition",
+      "feedback": ""
+    },
+    {
+      "id": "96",
+      "question": "The objectives of a solution framing approach include:",
+      "choices": [
+        "To design a customer-specific solution",
+        "To build a skilled proposal team",
+        "To provide a differentiated solution with respect to the competition",
+        "To ensure more customer testimonies"
+      ],
+      "Qtype": "MC",
+      "correct": "1,3",
+      "section name": "Value Proposition",
+      "feedback": ""
+    },
+    {
+      "id": "97",
+      "question": "Identify the capabilities influencing Solution Framing.",
+      "choices": [
+        "Solution Envisioning",
+        "Consultative Selling",
+        "Solution Productization",
+        "Proof of Value demonstration"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,4",
+      "section name": "Value Proposition",
+      "feedback": ""
+    },
+    {
+      "id": "98",
+      "question": "What are the steps in a solution framing approach?",
+      "choices": [
+        "Understand the problem statement",
+        "Brainstorm and ideate solution",
+        "Demonstrate Proof of Value",
+        "Gather and analyze input"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,4",
+      "section name": "Value Proposition",
+      "feedback": ""
+    },
+    {
+      "id": "99",
+      "question": "What competencies should the solution team possess?",
+      "choices": [
+        "Ability to work at varying levels of abstraction",
+        "Ability to model and visualize solutions",
+        "Ability to add and maintain value as it is built",
+        "Ability to give the solution a realistic form and character"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,3,4",
+      "section name": "Value Proposition",
+      "feedback": ""
+    },
+    {
+      "id": "100",
+      "question": "What do we consider for measuring the success of Solution Framing?",
+      "choices": [
+        "Pool of competent solution architects",
+        "Overall cost of the project",
+        "Usage of problem-solving techniques",
+        "Design changes needed during execution"
+      ],
+      "Qtype": "MC",
+      "correct": "1,3,4",
+      "section name": "Value Proposition",
+      "feedback": ""
+    },
+    {
+      "id": "101",
+      "question": "What are the steps for contract negotiation?",
+      "choices": [
+        "Understand the goal of the contract",
+        "Assess associated risks",
+        "Know applicable laws",
+        "Keep open ended clauses"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,3",
+      "section name": "Value Proposition",
+      "feedback": ""
+    },
+    {
+      "id": "102",
+      "question": "Why is two-way communication desired in contract negotiation?",
+      "choices": [
+        "Both parties should clarify doubts",
+        "It is customary",
+        "It improves trust and relationship",
+        "It ensures lengthy discussion"
+      ],
+      "Qtype": "MC",
+      "correct": "1,3",
+      "section name": "Value Proposition",
+      "feedback": ""
+    },
+    {
+      "id": "103",
+      "question": "Which of the following are useful tips for contract negotiation?",
+      "choices": [
+        "Listen patiently to the other party",
+        "Be prepared for anticipated questions",
+        "Start with low priority clauses",
+        "Keep track of changes"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,4",
+      "section name": "Value Proposition",
+      "feedback": ""
+    },
+    {
+      "id": "104",
+      "question": "How would you measure the success of contract negotiation?",
+      "choices": [
+        "Time to complete negotiation",
+        "Amendments to contract without scope change",
+        "Business relationship between the parties",
+        "Participation of key stakeholders"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,3,4",
+      "section name": "Value Proposition",
+      "feedback": ""
+    },
+    {
+      "id": "105",
+      "question": "Who are the key stakeholders in contract negotiation?",
+      "choices": [
+        "Engagement Owner",
+        "Legal Counsel",
+        "Business Finance Manager",
+        "Sales Lead"
+      ],
+      "Qtype": "MC",
+      "correct": "2,3,4",
+      "section name": "Value Proposition",
+      "feedback": ""
+    },
+    {
+      "id": "106",
+      "question": "The objectives of the Testimonials capability under Value Proposition theme are to:",
+      "choices": [
+        "Maintain a repository of customer testimonials commending TCS' G&T capabilities",
+        "Ensure customer testimonials are from the CXO level",
+        "Ensure the customer endorses our strong legacy solutions",
+        "Identify a new customer problem"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2",
+      "section name": "Value Proposition",
+      "feedback": ""
+    },
+    {
+      "id": "107",
+      "question": "Which are the acceptable formats for testimonials?",
+      "choices": [
+        "Case Studies",
+        "Informal Appreciations",
+        "Video Testimonials",
+        "Media Coverage"
+      ],
+      "Qtype": "MC",
+      "correct": "1,3,4",
+      "section name": "Value Proposition",
+      "feedback": ""
+    },
+    {
+      "id": "108",
+      "question": "The capability \u2018Testimonials\u2019 is strongly related to the following capabilities:",
+      "choices": [
+        "G&T story amplification",
+        "Business value articulation",
+        "Proof of value demonstration",
+        "Brand Positioning"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,4",
+      "section name": "Value Proposition",
+      "feedback": ""
+    },
+    {
+      "id": "109",
+      "question": "What do we expect the customer to highlight in the testimonial?",
+      "choices": [
+        "TCS digital capabilities",
+        "TCS Products/Platforms/IP Assets",
+        "Relevant G&T capabilities",
+        "All of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Value Proposition",
+      "feedback": ""
+    },
+    {
+      "id": "110",
+      "question": "What are the channels for amplification of customer testimonials?",
+      "choices": [
+        "tcs.com portal",
+        "Digital Store",
+        "TCS Annual Report",
+        "G&T Case Studies"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,3,4",
+      "section name": "Value Proposition",
+      "feedback": ""
+    },
+    {
+      "id": "111",
+      "question": "Full form of COIN<sup>TM</sup> is:",
+      "choices": [
+        "Collaborative Innovation",
+        "Co-Innovation Network",
+        "Collaborative Network",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Value Proposition",
+      "feedback": ""
+    },
+    {
+      "id": "112",
+      "question": "Benefits of COIN<sup>TM</sup> are:",
+      "choices": [
+        "Creates ground-breaking innovative solutions",
+        "Develops risk-mitigation strategies",
+        "Provides physical innovation platform",
+        "Ensures simplification in complex IT environment"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,4",
+      "section name": "Value Proposition",
+      "feedback": ""
+    },
+    {
+      "id": "113",
+      "question": "Components of COIN<sup>TM</sup> are:",
+      "choices": [
+        "TCS COIN\u2122 Accelerator",
+        "TCS COIN\u2122 Reference Architecture",
+        "TCS COIN\u2122 Integration Team",
+        "TCS COIN\u2122 Infrastructure Team"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,3",
+      "section name": "Value Proposition",
+      "feedback": ""
+    },
+    {
+      "id": "114",
+      "question": "TCS Pace Port<sup>TM</sup> is leveraged by:",
+      "choices": ["Clients", "Alliance Partners", "Academia", "TCS\u2019 R&I"],
+      "Qtype": "MC",
+      "correct": "1,2,3,4",
+      "section name": "Value Proposition",
+      "feedback": ""
+    },
+    {
+      "id": "115",
+      "question": "Benefits of TCS Pace Port<sup>TM</sup> are:",
+      "choices": [
+        "Greenfield environment for innovation",
+        "Cutting-edge collaborative research",
+        "Execution of transformative engagements",
+        "Future-proo\ufb01ng of business"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,4",
+      "section name": "Value Proposition",
+      "feedback": ""
+    },
+    {
+      "id": "116",
+      "question": "By \u2018Capability\u2019 we mean:",
+      "choices": [
+        "Domain expertise",
+        "Digital services",
+        "Third-party products",
+        "Global Delivery Centers"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,4",
+      "section name": "Value Proposition",
+      "feedback": ""
+    },
+    {
+      "id": "117",
+      "question": "Bundling of Products and Capabilities approaches are:",
+      "choices": [
+        "COTS product and custom solution",
+        "TCS IP and COTS products",
+        "TCS IP and custom solution",
+        "Only custom solution"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,3,4",
+      "section name": "Value Proposition",
+      "feedback": ""
+    },
+    {
+      "id": "118",
+      "question": "The advantages of developing a solution through bundling of TCS IP assets are:",
+      "choices": [
+        "Involves lock-in with vendor",
+        "Cost-effective solution",
+        "Easily customizable solution",
+        "Enables faster implementation"
+      ],
+      "Qtype": "MC",
+      "correct": "2,3,4",
+      "section name": "Value Proposition",
+      "feedback": ""
+    },
+    {
+      "id": "119",
+      "question": "Which of the following are TCS IP?",
+      "choices": [
+        "Jile<sup>TM</sup>",
+        "Salesforce<sup>TM</sup>",
+        "BaNCS<sup>TM</sup>",
+        "Optumera<sup>TM</sup>"
+      ],
+      "Qtype": "MC",
+      "correct": "1,3,4",
+      "section name": "Value Proposition",
+      "feedback": ""
+    }
+  ],
+  [
+    {
+      "id": "185",
+      "question": "What are the important aspects that we need to amplify in a G&T story to gain credibility?",
+      "choices": [
+        "The role TCS played in helping the customer deliver better services to the end customer",
+        "The business benefits realized by the customer due to the engagement",
+        "The personal relationships developed across customer management",
+        "The engagement commercials and CSR activities by TCS"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2",
+      "section name": "Value Articulation",
+      "feedback": ""
+    },
+    {
+      "id": "186",
+      "question": "An amplified G&T story can boost the sales team\u2019s attempts for more business\u2026",
+      "choices": [
+        "By reinforcing our strengths such as diversity, business agility, research and innovation capabilities and customer centricity in the market",
+        "By ensuring TCS service rates are lower than that of competition",
+        "By helping improve the mindshare of decision makers/business leaders in customer organization regarding TCS",
+        "There is no impact on sales"
+      ],
+      "Qtype": "MC",
+      "correct": "1,3",
+      "section name": "Value Articulation",
+      "feedback": ""
+    },
+    {
+      "id": "187",
+      "question": "A G&T engagement is suitable for amplification in the market if:",
+      "choices": [
+        "The customer has agreed to be referenceable",
+        "There is explicit acceptance from the customer of the benefits that have been realized",
+        "The customer is indifferent, but our contractual terms permit us to go ahead",
+        "None of the above points are valid"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2",
+      "section name": "Value Articulation",
+      "feedback": ""
+    },
+    {
+      "id": "188",
+      "question": "The Marketing teams may leverage the following channels for amplifying G&T stories:",
+      "choices": [
+        "Social Media Channels",
+        "Broadcast Media such as TV and Radio",
+        "Published Media",
+        "Corporate events"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,3,4",
+      "section name": "Value Articulation",
+      "feedback": ""
+    },
+    {
+      "id": "189",
+      "question": "A successfully delivered G&T engagement provides us great insights into which of the following aspects that can help identify ensuing business opportunities?",
+      "choices": [
+        "The potential problem that the customer will eventually face in distant future for which they need to act now",
+        "The problem faced by the customer, for which action needs to be taken immediately or in the near future",
+        "The potential problem that the customer will face in the near future, for which they need to be prepared",
+        "There are no insights to be gained"
+      ],
+      "Qtype": "MC",
+      "correct": "2,3",
+      "section name": "Value Articulation",
+      "feedback": ""
+    },
+    {
+      "id": "190",
+      "question": "Which teams should be involved to ensure TCS can harvest prospects from a G&T engagement?",
+      "choices": [
+        "Sales team",
+        "Account team",
+        "Innovation team",
+        "All of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Value Articulation",
+      "feedback": ""
+    },
+    {
+      "id": "191",
+      "question": "Which of these options are True to complete the following statement - Learnings from a G&T engagement with a customer can be leveraged to harvest ensuing business:",
+      "choices": [
+        "With an existing customer",
+        "Within the Industry, which the customer is a part of",
+        "Learnings are not important; each deal is different",
+        "Across customers and Industries"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,4",
+      "section name": "Value Articulation",
+      "feedback": ""
+    },
+    {
+      "id": "192",
+      "question": "At what stages of a G&T Value Cycle do we look at Solution Productization?",
+      "choices": [
+        "During the Opportunity Identification phase",
+        "During the Engagement Delivery phase",
+        "During the solutioning phase",
+        "Completion of delivery of an engagement to the customer"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Value Articulation",
+      "feedback": ""
+    },
+    {
+      "id": "193",
+      "question": "A solution will be considered for Solution Productization after:",
+      "choices": [
+        "Customer sign-off of product/solution",
+        "Testing team sign-off of product/solution",
+        "Go/No Decision involving all appropriate stakeholders",
+        "Creation of the marketing brochures"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "Value Articulation",
+      "feedback": ""
+    },
+    {
+      "id": "194",
+      "question": "In which of these Value themes will the Productized solution be utilized/positioned?",
+      "choices": [
+        "Value Discovery",
+        "Value Proposition",
+        "Value Delivery",
+        "Value Articulation"
+      ],
+      "Qtype": "MC",
+      "correct": "2,3",
+      "section name": "Value Articulation",
+      "feedback": ""
+    },
+    {
+      "id": "195",
+      "question": "Which of these are some TCS Solutions that have been productized for ready to market implementation for customers?",
+      "choices": [
+        "TCS TwinX\u2122",
+        "TCS Intelligent Urban Exchange\u2122",
+        "TCS Optumera\u2122",
+        "TCS MasterCraft\u2122"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,3,4",
+      "section name": "Value Articulation",
+      "feedback": ""
+    },
+    {
+      "id": "196",
+      "question": "To build the capability to articulate business value to stakeholders it is required to have:",
+      "choices": [
+        "A deep understanding of business value",
+        "Metrics and measures for defining values",
+        "Value proposition models",
+        "Customers Annual report"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,3",
+      "section name": "Value Articulation",
+      "feedback": ""
+    },
+    {
+      "id": "197",
+      "question": "A good Business Value Articulation should:",
+      "choices": [
+        "Be consistent",
+        "Be crisp",
+        "Be contextually strong",
+        "Highlight key differentiators"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,3,4",
+      "section name": "Value Articulation",
+      "feedback": ""
+    },
+    {
+      "id": "198",
+      "question": "Business Value Articulation is under which Value Theme in the G&T Capability Matrix?",
+      "choices": [
+        "Value Delivery",
+        "Value Proposition",
+        "Value Discovery",
+        "Value Articulation"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Value Articulation",
+      "feedback": ""
+    },
+    {
+      "id": "199",
+      "question": "Impactful Business Value Articulation influences high customer satisfaction score.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Value Articulation",
+      "feedback": ""
+    },
+    {
+      "id": "200",
+      "question": "In which of these various forums should we ensure that business value delivered is articulated effectively?",
+      "choices": [
+        "Customer sales calls and governance meets",
+        "Industry and Market events",
+        "Innovation and Solutioning Forums",
+        "Analyst Interactions"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,3,4",
+      "section name": "Value Articulation",
+      "feedback": ""
+    },
+    {
+      "id": "201",
+      "question": "During which of these stages in the G&T Value cycle, is there a lot of scope to leverage acquired knowledge and talent?",
+      "choices": [
+        "During the Opportunity Identification phase",
+        "During the bid phase, where we working on converting an opportunity to an engagement",
+        "During the Engagement Delivery phase",
+        "During the solutioning phase"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,3,4",
+      "section name": "Value Articulation",
+      "feedback": ""
+    },
+    {
+      "id": "202",
+      "question": "Leverageable knowledge and talent, can be found in the areas of:",
+      "choices": [
+        "Developing innovative solutions",
+        "Identifying potential opportunities",
+        "Using of pre-built solutions",
+        "Deploying productivity tools and templates"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,3,4",
+      "section name": "Value Articulation",
+      "feedback": ""
+    },
+    {
+      "id": "203",
+      "question": "At what level should the G&T Leadership Talent Pool list be managed for better utilization?",
+      "choices": [
+        "Organization Level",
+        "Business Unit Level",
+        "Customer Account Team Level",
+        "Project or Engagement Level"
+      ],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Value Articulation",
+      "feedback": ""
+    },
+    {
+      "id": "204",
+      "question": "How can we increase the list of G&T experts?",
+      "choices": [
+        "Regular upskilling of people",
+        "Mentoring by G&T experts",
+        "Exposure to G&T opportunities and engagements",
+        "There is no need to increase"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,3",
+      "section name": "Value Articulation",
+      "feedback": ""
+    },
+    {
+      "id": "205",
+      "question": "What do we need to do to get a customer\u2019s testimony on the work we delivered?",
+      "choices": [
+        "Ensure that the customer is regularly kept updated on the progress of the delivery and the benefits being delivered",
+        "Deliver with certainty, with excellent quality and exceed customer\u2019s expectations",
+        "Ensure that the customer sees us as a partner to grow and transform their business, and not just as a technology vendor",
+        "Regularly entertain the customer to make them feel obliged to give us a testimony"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,3",
+      "section name": "Value Articulation",
+      "feedback": ""
+    },
+    {
+      "id": "206",
+      "question": "To leverage a customer testimony for building the organization\u2019s brand in the market the customer has to be referenceable contractually.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Value Articulation",
+      "feedback": ""
+    },
+    {
+      "id": "207",
+      "question": "Which of the following statements are True?",
+      "choices": [
+        "A customer is obliged to provide a testimonial to TCS for a successful delivery.",
+        "A customer testimonial is an artifact that can be used by the TCS Marketing teams to build TCS\u2019 brand value in the industry.",
+        "A testimonial that only highlights the technical capability of the team is a good G&T artifact.",
+        "A G&T testimonial must clearly articulate how TCS worked as a partner for the customer and highlight the business benefits realized by them."
+      ],
+      "Qtype": "MC",
+      "correct": "2,4",
+      "section name": "Value Articulation",
+      "feedback": ""
+    },
+    {
+      "id": "208",
+      "question": "Which of the following are parameters that we need not maintain to manage testimonial artifacts?",
+      "choices": [
+        "Customer Name, Organization, Customer Designation/Role",
+        "Age, Email Id, Telephone Contacts of the customer",
+        "Industry, Geography and Domain of the engagement",
+        "Type of engagements, Brief of Business Value Delivered"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Value Articulation",
+      "feedback": ""
+    },
+    {
+      "id": "209",
+      "question": "At what stages of a G&T Value Cycle do we gain reusable knowledge?",
+      "choices": [
+        "During the Opportunity Identification phase",
+        "During the Engagement Delivery phase",
+        "During the solutioning phase",
+        "During all stages of the G&T Value Cycle"
+      ],
+      "Qtype": "SC",
+      "correct": "4",
+      "section name": "Value Articulation",
+      "feedback": ""
+    },
+    {
+      "id": "210",
+      "question": "Leverageable knowledge can be found in the areas of:",
+      "choices": [
+        "Developing innovative solutions",
+        "Identifying potential opportunities",
+        "Usage of pre-built solutions",
+        "Deployment of productivity tools and templates"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,3,4",
+      "section name": "Value Articulation",
+      "feedback": ""
+    },
+    {
+      "id": "211",
+      "question": "When should we prepare the knowledge assets?",
+      "choices": [
+        "During the Value Delivery Phase",
+        "During the Value Discovery Phase",
+        "During the Value Articulation Phase",
+        "During the Value Proposition Phase"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,3,4",
+      "section name": "Value Articulation",
+      "feedback": ""
+    },
+    {
+      "id": "212",
+      "question": "Business value to be delivered is committed during:",
+      "choices": [
+        "The G&T Engagement discovery stage",
+        "The G&T Engagement contractual stage",
+        "During all stages of the G&T engagement",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Value Articulation",
+      "feedback": ""
+    },
+    {
+      "id": "213",
+      "question": "Real-time system visibility of value delivered helps us:",
+      "choices": [
+        "Review our way of working and consider course correction",
+        "The G&T Engagement contractual stage",
+        "During all stages of the G&T engagement",
+        "None of the above"
+      ],
+      "Qtype": "SC",
+      "correct": "3",
+      "section name": "Value Articulation",
+      "feedback": ""
+    },
+    {
+      "id": "214",
+      "question": "COGS stands for:",
+      "choices": [
+        "Contract Observation & Governance System",
+        "Contractual Obligations Governance System",
+        "Contractual Operations Governance Software",
+        "Contract Obligations Governance Software"
+      ],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Value Articulation",
+      "feedback": ""
+    },
+    {
+      "id": "215",
+      "question": "System visibility of value delivered is important for the:",
+      "choices": [
+        "Contracting team",
+        "Sales team",
+        "Delivery Team",
+        "Marketing Team"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,3,4",
+      "section name": "Value Articulation",
+      "feedback": ""
+    },
+    {
+      "id": "216",
+      "question": "Having seamless access to G&T related information and knowhow is important during:",
+      "choices": [
+        "Value Discovery Phase",
+        "Value Proposition Phase",
+        "Value Delivery Phase",
+        "Not important at all but good to have"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,3",
+      "section name": "Value Articulation",
+      "feedback": ""
+    },
+    {
+      "id": "217",
+      "question": "G&T Portal advocates having all G&T related information in repositories within the portal itself.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "2",
+      "section name": "Value Articulation",
+      "feedback": ""
+    },
+    {
+      "id": "218",
+      "question": "Which of the following are characteristics expected from the G&T Portal?",
+      "choices": [
+        "The system should act as a single window for all required information",
+        "It should have extensive and intelligent search and retrieve capabilities that can provide contextual information that is fit for purpose",
+        "All assets must reside within the G&T Portal and be accessible to all",
+        "It should be able to provide information of artifacts across various repositories which may be within the portal or anywhere in the TCS ecosystem"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,4",
+      "section name": "Value Articulation",
+      "feedback": ""
+    },
+    {
+      "id": "219",
+      "question": "What benefit does existing knowhow bring to an engagement during the delivery phase?",
+      "choices": [
+        "It helps kick start initiatives or projects with start-up templates and guidelines",
+        "It ensures productivity improvement and quality certainty enabled by proven assets and artifacts",
+        "It adds to the learning and adaptation efforts beyond the delivery efforts",
+        "Ready-to-use assets reduce the efforts required to create new ones and determine their effectiveness"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,4",
+      "section name": "Value Articulation",
+      "feedback": ""
+    },
+    {
+      "id": "220",
+      "question": "\u201cEnablers to build/ disseminate knowhow\u201d is a capability that is being focussed on by the Enterprise Functions guild in the G&T Framework.",
+      "choices": ["True", "False"],
+      "Qtype": "SC",
+      "correct": "1",
+      "section name": "Value Articulation",
+      "feedback": ""
+    },
+    {
+      "id": "221",
+      "question": "Which of the following is important knowhow that is to be built and disseminated for a successful G&T engagement?",
+      "choices": [
+        "Processes, practices, procedures",
+        "Handbook, guidelines, templates",
+        "Customer testimonials, market analysis and trends",
+        "IP asset information, case studies"
+      ],
+      "Qtype": "MC",
+      "correct": "1,2,3,4",
+      "section name": "Value Articulation",
+      "feedback": ""
+    }
+  ]
+]
