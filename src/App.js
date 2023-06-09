@@ -1,12 +1,14 @@
 import * as React from "react";
 import data from "./questions.json";
 import idata from "./questions2.json";
+import data3 from "./decoded.json";
 import "bootstrap/dist/css/bootstrap.min.css";
 import QCard from "./QCard";
 import QBoard from "./QBoard";
 export default function App() {
   const qs = data[0]; //.sort(function () {return 0.5 - Math.random();});
   const qs2 = idata.flat(); //.sort(function () {  return 0.5 - Math.random();});
+  const qs3 = data3.flat();
   const [activeQbank, setActiveQbank] = React.useState("qs");
 
   const clickHadler = (type) => {
@@ -15,6 +17,9 @@ export default function App() {
     }
     if (type === "qs2") {
       setActiveQbank("qs2");
+    }
+    if (type === "qs3") {
+      setActiveQbank("qs3");
     }
   };
   return (
@@ -42,6 +47,17 @@ export default function App() {
           }`}
         >
           IQMS
+        </button>
+        <button
+          data-toggle="tooltip"
+          data-placement="bottom"
+          title="iqms"
+          onClick={() => clickHadler("qs3")}
+          className={`btn my-3 py-2 w-50 ${
+            activeQbank === "qs3" ? " btn-success " : "btn-light"
+          }`}
+        >
+          QBank3
         </button>
       </nav>
       <div className="row mt-3">
